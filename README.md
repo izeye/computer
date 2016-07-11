@@ -6,3 +6,7 @@
 ## Wikipedia
 * SonarQube
   * https://en.wikipedia.org/wiki/SonarQube
+
+## Misc.
+* ZooKeeper Getting Started Guide
+  * https://zookeeper.apache.org/doc/r3.4.8/zookeeperStarted.html
