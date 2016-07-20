@@ -10,3 +10,6 @@
 * 2015-11-25
   * Migrating Spring Cloud Apps from Spring Boot 1.2 to 1.3
     * https://spring.io/blog/2015/11/25/migrating-spring-cloud-apps-from-spring-boot-1-2-to-1-3
+* 2015-11-18
+  * Spring IO Platform 2.0.0.RELEASE
+    * https://spring.io/blog/2015/11/18/spring-io-platform-2-0-0-release
