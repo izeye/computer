@@ -1,3 +1,6 @@
+* 2016-07-28
+  * Spring Boot 1.4 released
+    * https://spring.io/blog/2016/07/28/spring-boot-1-4-released
 * 2016-05-31
   * Spring REST Docs 1.1.0.RELEASE
     * https://spring.io/blog/2016/05/31/spring-rest-docs-1-1-0-release
