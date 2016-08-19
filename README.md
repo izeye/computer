@@ -13,6 +13,8 @@
 ## Wikipedia
 * SonarQube
   * https://en.wikipedia.org/wiki/SonarQube
+* Reverse geocoding
+  * https://en.wikipedia.org/wiki/Reverse_geocoding
 
 ## Misc.
 * ZooKeeper Getting Started Guide
