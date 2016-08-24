@@ -15,6 +15,8 @@
   * https://en.wikipedia.org/wiki/SonarQube
 * Reverse geocoding
   * https://en.wikipedia.org/wiki/Reverse_geocoding
+* Apache Ambari
+  * https://en.wikipedia.org/wiki/Apache_Ambari
 
 ## Misc.
 * ZooKeeper Getting Started Guide
