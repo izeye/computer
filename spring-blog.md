@@ -1,3 +1,6 @@
+* 2016-07-29
+  * Spring IO Platform Athens RC1
+    * https://spring.io/blog/2016/07/29/spring-io-platform-athens-rc1
 * 2016-07-28
   * Spring Boot 1.4 released
     * https://spring.io/blog/2016/07/28/spring-boot-1-4-released
