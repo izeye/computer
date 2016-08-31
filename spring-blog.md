@@ -1,3 +1,6 @@
+* 2016-08-30
+  * Custom test slice with Spring Boot 1.4
+    * https://spring.io/blog/2016/08/30/custom-test-slice-with-spring-boot-1-4
 * 2016-07-29
   * Spring IO Platform Athens RC1
     * https://spring.io/blog/2016/07/29/spring-io-platform-athens-rc1
