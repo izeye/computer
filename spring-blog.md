@@ -1,3 +1,6 @@
+* 2016-08-31
+  * Spring REST Docs 1.1.2.RELEASE
+    * https://spring.io/blog/2016/08/31/spring-rest-docs-1-1-2-release
 * 2016-08-30
   * Custom test slice with Spring Boot 1.4
     * https://spring.io/blog/2016/08/30/custom-test-slice-with-spring-boot-1-4
