@@ -11,3 +11,7 @@
 ### TUTORIALS AND EXAMPLES
 * Getting started
   * http://webpack.github.io/docs/tutorials/getting-started/
+
+## Blogs
+* Optimizing React + ES6 + Webpack Production Build
+  * http://moduscreate.com/optimizing-react-es6-webpack-production-build/
