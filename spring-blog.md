@@ -1,3 +1,6 @@
+* 2016-09-07
+  * Spring Session 1.2.2 Released
+    * https://spring.io/blog/2016/09/07/spring-session-1-2-2-released
 * 2016-08-31
   * Spring REST Docs 1.1.2.RELEASE
     * https://spring.io/blog/2016/08/31/spring-rest-docs-1-1-2-release
