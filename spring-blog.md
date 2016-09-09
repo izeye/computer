@@ -1,4 +1,7 @@
 # Spring Blog
+* 2016-09-08
+  * Spring for Apache Kafka 1.1.0 Milestone 2 Available
+    * https://spring.io/blog/2016/09/08/spring-for-apache-kafka-1-1-0-milestone-2-available
 * 2016-09-07
   * Spring Session 1.2.2 Released
     * https://spring.io/blog/2016/09/07/spring-session-1-2-2-released
