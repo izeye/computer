@@ -1,4 +1,9 @@
 # Git
+## GitHub
+### YouTube
+* Projects on GitHub
+  * https://www.youtube.com/watch?v=C6MGKHkNtxU
+
 ## ZenHub
 ### Blogs
 * Beginner's guide to using Epics and Milestones in GitHub
