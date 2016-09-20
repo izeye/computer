@@ -1,4 +1,7 @@
 # Spring Blog
+* 2016-09-12
+  * SpringOne Platform 2016 Replay: Apache Tomcat Roadmap
+    * https://spring.io/blog/2016/09/12/springone-platform-2016-replay-apache-tomcat-roadmap
 * 2016-09-08
   * Spring for Apache Kafka 1.1.0 Milestone 2 Available
     * https://spring.io/blog/2016/09/08/spring-for-apache-kafka-1-1-0-milestone-2-available
