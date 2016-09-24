@@ -9,6 +9,8 @@
 ## Blogs
 * Graphite vs. Grafana: Build the Best Monitoring Architecture for Your Application
   * http://blog.takipi.com/graphite-vs-grafana-build-the-best-monitoring-architecture-for-your-application/
+* GIF/Javascript Polyglots
+  * http://www.thinkfu.com/blog/gifjavascript-polyglots
 
 ## Wikipedia
 * SonarQube
