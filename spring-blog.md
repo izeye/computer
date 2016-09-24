@@ -38,3 +38,6 @@
 * 2015-11-18
   * Spring IO Platform 2.0.0.RELEASE
     * https://spring.io/blog/2015/11/18/spring-io-platform-2-0-0-release
+* 2015-06-08
+  * CORS support in Spring Framework
+    * https://spring.io/blog/2015/06/08/cors-support-in-spring-framework
