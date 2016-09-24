@@ -12,6 +12,10 @@
 * GIF/Javascript Polyglots
   * http://www.thinkfu.com/blog/gifjavascript-polyglots
 
+## Articles
+* Understanding CORS
+  * https://spring.io/understanding/CORS
+
 ## Wikipedia
 * SonarQube
   * https://en.wikipedia.org/wiki/SonarQube
