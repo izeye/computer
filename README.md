@@ -20,6 +20,11 @@
 * Apache Ambari
   * https://en.wikipedia.org/wiki/Apache_Ambari
 
+## Wiki
+### W3C
+* Same Origin Policy
+  * https://www.w3.org/Security/wiki/Same_Origin_Policy
+
 ## Misc.
 * ZooKeeper Getting Started Guide
   * https://zookeeper.apache.org/doc/r3.4.8/zookeeperStarted.html
