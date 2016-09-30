@@ -8,6 +8,10 @@
 * Tired of Null Pointer Exceptions? Consider Using Java SE 8's Optional!
   * http://www.oracle.com/technetwork/articles/java/java8-optional-2175753.html
 
+### Fat JAR
+* Solving Fat JAR Woes at HubSpot
+  * https://www.infoq.com/news/2016/08/fatjars-woes-at-hubspot
+
 ## Java Bean Validation (JSR 303)
 * Getting started with Hibernate Validator
   * http://hibernate.org/validator/documentation/getting-started/
