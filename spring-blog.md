@@ -34,6 +34,9 @@
 * 2016-03-14
   * Spring for Apache Kafka Milestone 1 Available
     * https://spring.io/blog/2016/03/14/spring-for-apache-kafka-milestone-1-available
+* 2106-02-09
+  * Reactive Spring
+    * https://spring.io/blog/2016/02/09/reactive-spring
 * 2015-11-25
   * Migrating Spring Cloud Apps from Spring Boot 1.2 to 1.3
     * https://spring.io/blog/2015/11/25/migrating-spring-cloud-apps-from-spring-boot-1-2-to-1-3
