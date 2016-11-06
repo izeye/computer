@@ -16,6 +16,11 @@
 * Getting started with Hibernate Validator
   * http://hibernate.org/validator/documentation/getting-started/
 
+## Documentation
+### JMH
+* Code Tools: jmh
+  * http://openjdk.java.net/projects/code-tools/jmh/
+
 ## Wikipedia
 * Constant interface
   * https://en.wikipedia.org/wiki/Constant_interface
