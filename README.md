@@ -29,6 +29,8 @@
   * https://en.wikipedia.org/wiki/Reverse_geocoding
 * Apache Ambari
   * https://en.wikipedia.org/wiki/Apache_Ambari
+* Super-server
+  * https://en.wikipedia.org/wiki/Super-server
 
 ## Wiki
 ### W3C
