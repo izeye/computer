@@ -2,6 +2,9 @@
 * 2016-12-19
   * Spring Cloud Spinnaker 1.0.0.M2
     * https://spring.io/blog/2016/12/19/spring-cloud-spinnaker-1-0-0-m2
+* 2016-12-16
+  * Spring Session 1.3.0 Released
+    * https://spring.io/blog/2016/12/16/spring-session-1-3-0-released
 * 2016-09-12
   * SpringOne Platform 2016 Replay: Apache Tomcat Roadmap
     * https://spring.io/blog/2016/09/12/springone-platform-2016-replay-apache-tomcat-roadmap
