@@ -1,4 +1,7 @@
 # Spring Blog
+* 2016-12-21
+  * Spring Framework 4.3.5, 4.2.9 and 3.2.18 available now
+    * https://spring.io/blog/2016/12/21/spring-framework-4-3-5-4-2-9-and-3-2-18-available-now
 * 2016-12-19
   * Spring Cloud Spinnaker 1.0.0.M2
     * https://spring.io/blog/2016/12/19/spring-cloud-spinnaker-1-0-0-m2
