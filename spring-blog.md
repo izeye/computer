@@ -1,4 +1,7 @@
 # Spring Blog
+* 2016-12-23
+  * Spring Boot 1.4.3 Available Now
+    * https://spring.io/blog/2016/12/23/spring-boot-1-4-3-available-now
 * 2016-12-21
   * Spring Framework 4.3.5, 4.2.9 and 3.2.18 available now
     * https://spring.io/blog/2016/12/21/spring-framework-4-3-5-4-2-9-and-3-2-18-available-now
