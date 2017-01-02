@@ -1,4 +1,7 @@
 # Spring Blog
+* 2016-12-30
+  * Spring Framework 5.0 M4 released
+    * https://spring.io/blog/2016/12/30/spring-framework-5-0-m4-released
 * 2016-12-23
   * Spring Boot 1.4.3 Available Now
     * https://spring.io/blog/2016/12/23/spring-boot-1-4-3-available-now
