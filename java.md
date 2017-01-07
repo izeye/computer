@@ -21,6 +21,10 @@
 * Code Tools: jmh
   * http://openjdk.java.net/projects/code-tools/jmh/
 
+### Objenesis
+* Twenty Second Tutorial
+  * http://objenesis.org/tutorial.html
+
 ## Wikipedia
 * Constant interface
   * https://en.wikipedia.org/wiki/Constant_interface
