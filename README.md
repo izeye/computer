@@ -23,6 +23,8 @@
   * https://spring.io/understanding/CORS
 * XML DTDs Vs XML Schema
   * https://www.sitepoint.com/xml-dtds-xml-schema/
+* The War for Port 80 [Comic]
+  * https://dzone.com/articles/the-war-for-port-80-comic
 
 ## Wikipedia
 * SonarQube
