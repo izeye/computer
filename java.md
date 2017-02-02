@@ -12,6 +12,10 @@
 * Solving Fat JAR Woes at HubSpot
   * https://www.infoq.com/news/2016/08/fatjars-woes-at-hubspot
 
+## Articles
+* Happy New Year, Java: A Look Back at Java's 21st Birthday
+  * https://dzone.com/articles/happy-new-year-java-a-look-back-at-javas-21st-birthday
+
 ## Java Bean Validation (JSR 303)
 * Getting started with Hibernate Validator
   * http://hibernate.org/validator/documentation/getting-started/
