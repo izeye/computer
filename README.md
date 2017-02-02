@@ -21,6 +21,8 @@
 ## Articles
 * Understanding CORS
   * https://spring.io/understanding/CORS
+* XML DTDs Vs XML Schema
+  * https://www.sitepoint.com/xml-dtds-xml-schema/
 
 ## Wikipedia
 * SonarQube
