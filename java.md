@@ -1,4 +1,9 @@
 # Java
+## Presentations
+### InfoQ
+* Preparing Your Code for JDK 9
+https://www.infoq.com/presentations/upgrading-java9
+
 ## Blogs
 ### Regular Expression
 * Named Capturing Group in JDK7 RegEx
