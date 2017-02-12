@@ -2,7 +2,9 @@
 ## Presentations
 ### InfoQ
 * Preparing Your Code for JDK 9
-https://www.infoq.com/presentations/upgrading-java9
+  * https://www.infoq.com/presentations/upgrading-java9
+* Project Jigsaw in JDK 9: Modularity Comes To Java
+  * https://www.infoq.com/presentations/jigsaw-jdk-9
 
 ## Blogs
 ### Regular Expression
