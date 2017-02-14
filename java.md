@@ -6,6 +6,10 @@
 * Project Jigsaw in JDK 9: Modularity Comes To Java
   * https://www.infoq.com/presentations/jigsaw-jdk-9
 
+### JavaOne
+* JUnit5: Features, Architecture, and Extensibility
+  * https://www.youtube.com/watch?v=Nqf6GSk_ZvI
+
 ## Blogs
 ### Regular Expression
 * Named Capturing Group in JDK7 RegEx
