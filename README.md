@@ -35,6 +35,8 @@
   * https://en.wikipedia.org/wiki/Apache_Ambari
 * Super-server
   * https://en.wikipedia.org/wiki/Super-server
+* HTTP/2
+  * https://en.wikipedia.org/wiki/HTTP/2
 
 ## Wiki
 ### W3C
