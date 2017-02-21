@@ -1,5 +1,10 @@
 # HTTP/2
 
+## Presentations
+* HTTP/2 is Here, Let's Optimize!
+  * Video: https://www.youtube.com/watch?v=ouIK1S0KdJE
+  * Slides: https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/edit#slide=id.p19
+
 ## Tutorials
 * Introduction to HTTP/2
   * https://developers.google.com/web/fundamentals/performance/http2/
