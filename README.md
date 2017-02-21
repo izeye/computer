@@ -17,8 +17,6 @@
   * http://blog.takipi.com/graphite-vs-grafana-build-the-best-monitoring-architecture-for-your-application/
 * GIF/Javascript Polyglots
   * http://www.thinkfu.com/blog/gifjavascript-polyglots
-* A CLOSER LOOK TO HTTP/2 PUSH
-  * https://www.shimmercat.com/en/blog/articles/whats-push/
 
 ## Articles
 * Understanding CORS
@@ -37,10 +35,6 @@
   * https://en.wikipedia.org/wiki/Apache_Ambari
 * Super-server
   * https://en.wikipedia.org/wiki/Super-server
-* HTTP/2
-  * https://en.wikipedia.org/wiki/HTTP/2
-* HTTP/2 Server Push
-  * https://en.wikipedia.org/wiki/HTTP/2_Server_Push
 
 ## Wiki
 ### W3C
