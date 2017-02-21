@@ -27,12 +27,16 @@
   * https://dzone.com/articles/the-war-for-port-80-comic
 
 ## Wikipedia
-* SonarQube
-  * https://en.wikipedia.org/wiki/SonarQube
-* Reverse geocoding
-  * https://en.wikipedia.org/wiki/Reverse_geocoding
 * Apache Ambari
   * https://en.wikipedia.org/wiki/Apache_Ambari
+* Head-of-line blocking
+  * https://en.wikipedia.org/wiki/Head-of-line_blocking
+* HTTP pipelining
+  * https://en.wikipedia.org/wiki/HTTP_pipelining
+* Reverse geocoding
+  * https://en.wikipedia.org/wiki/Reverse_geocoding
+* SonarQube
+  * https://en.wikipedia.org/wiki/SonarQube
 * Super-server
   * https://en.wikipedia.org/wiki/Super-server
 
