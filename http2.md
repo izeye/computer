@@ -6,6 +6,8 @@
   * Slides: https://docs.google.com/presentation/d/1r7QXGYOLCh4fcUq0jDdDwKJWNqWK1o4xMtYpKZCJYjM/edit#slide=id.p19
 * HTTP/2 101 (Chrome Dev Summit 2015)
   * Video: https://www.youtube.com/watch?v=r5oT_2ndjms
+* Instant loading with HTTP/2 (Progressive Web App Summit 2016)
+  * Video: https://www.youtube.com/watch?v=G62aCRIlONU
 
 ## Tutorials
 * Introduction to HTTP/2
