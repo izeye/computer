@@ -16,6 +16,8 @@
 ## Blogs
 * A CLOSER LOOK TO HTTP/2 PUSH
   * https://www.shimmercat.com/en/blog/articles/whats-push/
+* SpringOne2GX 2015 replay: HTTP/2 for the Web developer
+  * https://spring.io/blog/2016/02/09/springone2gx-2015-replay-http-2-for-the-web-developer
 
 ## Wikipedia
 * HTTP/2
