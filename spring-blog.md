@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-02-22
+  * Spring Tips: JOOQ
+    * https://spring.io/blog/2017/02/15/spring-tips-jooq
 * 2016-12-30
   * Spring Framework 5.0 M4 released
     * https://spring.io/blog/2016/12/30/spring-framework-5-0-m4-released
