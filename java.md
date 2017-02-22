@@ -26,6 +26,8 @@
 ## Articles
 * Happy New Year, Java: A Look Back at Java's 21st Birthday
   * https://dzone.com/articles/happy-new-year-java-a-look-back-at-javas-21st-birthday
+* The Future of Java in the Enterprise - InfoQ’s Opinion
+  * https://www.infoq.com/articles/enterprise-java-opinion
 
 ## Java Bean Validation (JSR 303)
 * Getting started with Hibernate Validator
