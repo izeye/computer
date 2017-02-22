@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-02-21
+  * Spring IO Platform Brussels-RELEASE
+    * https://spring.io/blog/2017/02/21/spring-io-platform-brussels-release
 * 2017-02-15
   * Spring Tips: JOOQ
     * https://spring.io/blog/2017/02/15/spring-tips-jooq
