@@ -25,6 +25,8 @@
   * https://www.sitepoint.com/xml-dtds-xml-schema/
 * The War for Port 80 [Comic]
   * https://dzone.com/articles/the-war-for-port-80-comic
+* Vanguard CIO: Why we’re on a journey to evolve to a microservices architecture
+  * https://enterprisersproject.com/article/2017/2/vanguard-cio-why-we-re-journey-evolve-microservices-architecture
 
 ## Wikipedia
 * Apache Ambari
