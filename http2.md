@@ -14,6 +14,8 @@
   * https://developers.google.com/web/fundamentals/performance/http2/
 
 ## Blogs
+* 7 Tips for Faster HTTP/2 Performance
+  * https://www.nginx.com/blog/7-tips-for-faster-http2-performance/
 * A CLOSER LOOK TO HTTP/2 PUSH
   * https://www.shimmercat.com/en/blog/articles/whats-push/
 * SpringOne2GX 2015 replay: HTTP/2 for the Web developer
