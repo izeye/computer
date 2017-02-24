@@ -19,6 +19,10 @@
 * SpringOne2GX 2015 replay: HTTP/2 for the Web developer
   * https://spring.io/blog/2016/02/09/springone2gx-2015-replay-http-2-for-the-web-developer
 
+## Articles
+* Will WebSocket survive HTTP/2?
+  * https://www.infoq.com/articles/websocket-and-http2-coexist
+
 ## Wikipedia
 * HTTP/2
   * https://en.wikipedia.org/wiki/HTTP/2
