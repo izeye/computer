@@ -2,6 +2,8 @@
 * 2017-02-23
   * Spring Framework 5.0 M5 released
     * https://spring.io/blog/2017/02/23/spring-framework-5-0-m5-released
+  * Spring Framework 5.0 M5 Update
+    * https://spring.io/blog/2017/02/23/spring-framework-5-0-m5-update
 * 2017-02-21
   * Spring IO Platform Brussels-RELEASE
     * https://spring.io/blog/2017/02/21/spring-io-platform-brussels-release
