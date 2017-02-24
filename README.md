@@ -37,6 +37,8 @@
   * https://en.wikipedia.org/wiki/HTTP_pipelining
 * Reverse geocoding
   * https://en.wikipedia.org/wiki/Reverse_geocoding
+* Server-sent events
+  * https://en.wikipedia.org/wiki/Server-sent_events
 * SonarQube
   * https://en.wikipedia.org/wiki/SonarQube
 * Super-server
