@@ -42,6 +42,13 @@
 * Twenty Second Tutorial
   * http://objenesis.org/tutorial.html
 
+## Javadoc
+### Reactor Core
+* reactor.core.publisher.Flux
+ * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html
+* reactor.core.publisher.Mono
+ * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html
+
 ## Wikipedia
 * Constant interface
   * https://en.wikipedia.org/wiki/Constant_interface
