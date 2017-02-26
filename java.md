@@ -16,14 +16,6 @@
   * https://www.youtube.com/watch?v=Nqf6GSk_ZvI
 
 ## Blogs
-### Regular Expression
-* Named Capturing Group in JDK7 RegEx
-  * https://blogs.oracle.com/xuemingshen/entry/named_capturing_group_in_jdk7
-
-### Optional
-* Tired of Null Pointer Exceptions? Consider Using Java SE 8's Optional!
-  * http://www.oracle.com/technetwork/articles/java/java8-optional-2175753.html
-
 ### Fat JAR
 * Solving Fat JAR Woes at HubSpot
   * https://www.infoq.com/news/2016/08/fatjars-woes-at-hubspot
@@ -31,6 +23,18 @@
 ### JPA
 * How to detect the Hibernate N+1 query problem during testing
   * https://vladmihalcea.com/2014/02/01/how-to-detect-the-n-plus-one-query-problem-during-testing/
+
+### Monitoring
+* Java Performance Monitoring: 5 Open Source Tools You Should Know
+  * http://blog.takipi.com/java-performance-monitoring-5-open-source-tools-you-should-know/
+
+### Optional
+* Tired of Null Pointer Exceptions? Consider Using Java SE 8's Optional!
+  * http://www.oracle.com/technetwork/articles/java/java8-optional-2175753.html
+
+### Regular Expression
+* Named Capturing Group in JDK7 RegEx
+  * https://blogs.oracle.com/xuemingshen/entry/named_capturing_group_in_jdk7
 
 ## Articles
 * Happy New Year, Java: A Look Back at Java's 21st Birthday
