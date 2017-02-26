@@ -33,6 +33,8 @@
 ## Wikipedia
 * Apache Ambari
   * https://en.wikipedia.org/wiki/Apache_Ambari
+* Apache HBase
+  * https://en.wikipedia.org/wiki/Apache_HBase
 * Head-of-line blocking
   * https://en.wikipedia.org/wiki/Head-of-line_blocking
 * HTTP pipelining
