@@ -23,6 +23,10 @@
 * Solving Fat JAR Woes at HubSpot
   * https://www.infoq.com/news/2016/08/fatjars-woes-at-hubspot
 
+### JPA
+* How to detect the Hibernate N+1 query problem during testing
+  * https://vladmihalcea.com/2014/02/01/how-to-detect-the-n-plus-one-query-problem-during-testing/
+
 ## Articles
 * Happy New Year, Java: A Look Back at Java's 21st Birthday
   * https://dzone.com/articles/happy-new-year-java-a-look-back-at-javas-21st-birthday
