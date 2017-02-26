@@ -1,5 +1,10 @@
 # Java
 ## Presentations
+### GOTO Nights
+* 2017-02-16
+  * Chris Richardson & Kenny Bastini on Eventual Consistency in JVM Microservices with Event Sourcing
+    * https://vimeo.com/205223073
+
 ### InfoQ
 * Preparing Your Code for JDK 9
   * https://www.infoq.com/presentations/upgrading-java9
