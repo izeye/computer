@@ -16,6 +16,10 @@
   * https://www.youtube.com/watch?v=Nqf6GSk_ZvI
 
 ## Blogs
+### Concurrency
+* Introduction to CompletionStage and CompletableFuture
+  * http://millross-consultants.com/completion-stage-future-introduction.html
+
 ### Fat JAR
 * Solving Fat JAR Woes at HubSpot
   * https://www.infoq.com/news/2016/08/fatjars-woes-at-hubspot
