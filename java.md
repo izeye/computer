@@ -56,6 +56,12 @@
   * http://objenesis.org/tutorial.html
 
 ## Javadoc
+## JDK
+* java.util.concurrent.CompletableFuture
+  * http://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html
+* java.util.concurrent.CompletionStage
+  * http://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletionStage.html
+
 ### Reactor Core
 * reactor.core.publisher.Flux
  * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Flux.html
