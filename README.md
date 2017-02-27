@@ -1,4 +1,9 @@
 # Computer
+## Presentations
+### InfoQ
+* gRPC 101 for Spring Developers
+  * https://www.infoq.com/presentations/spring-grpc
+
 ## Documentation
 ### Microsoft
 * Understanding user-agent strings
