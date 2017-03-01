@@ -26,14 +26,16 @@
   * http://www.thinkfu.com/blog/gifjavascript-polyglots
 
 ## Articles
-* Understanding CORS
-  * https://spring.io/understanding/CORS
-* XML DTDs Vs XML Schema
-  * https://www.sitepoint.com/xml-dtds-xml-schema/
+* A cartoon intro to WebAssembly
+  * https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
 * The War for Port 80 [Comic]
   * https://dzone.com/articles/the-war-for-port-80-comic
+* Understanding CORS
+  * https://spring.io/understanding/CORS
 * Vanguard CIO: Why we’re on a journey to evolve to a microservices architecture
   * https://enterprisersproject.com/article/2017/2/vanguard-cio-why-we-re-journey-evolve-microservices-architecture
+* XML DTDs Vs XML Schema
+  * https://www.sitepoint.com/xml-dtds-xml-schema/
 
 ## Wikipedia
 * Apache Ambari
