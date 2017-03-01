@@ -65,3 +65,8 @@
 ## Misc.
 * ZooKeeper Getting Started Guide
   * https://zookeeper.apache.org/doc/r3.4.8/zookeeperStarted.html
+
+## News
+* In the internet’s darkest time, people are finding solace in Netflix
+  * http://www.polygon.com/2017/2/28/14766584/amazon-s3-server-outage-netflix-working
+
