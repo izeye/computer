@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-03-01
+  * Spring Framework 4.3.7 released
+    * https://spring.io/blog/2017/03/01/spring-framework-4-3-7-released
 * 2017-02-23
   * Spring Framework 5.0 M5 released
     * https://spring.io/blog/2017/02/23/spring-framework-5-0-m5-released
