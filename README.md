@@ -28,6 +28,8 @@
 ## Articles
 * A cartoon intro to WebAssembly
   * https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
+* PROGRAMMERS ARE CONFESSING THEIR CODING SINS TO PROTEST A BROKEN JOB INTERVIEW PROCESS
+  * https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process
 * The War for Port 80 [Comic]
   * https://dzone.com/articles/the-war-for-port-80-comic
 * Understanding CORS
