@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-03-02
+  * Spring Security 4.2.2 Released
+    * https://spring.io/blog/2017/03/02/spring-security-4-2-2-released
 * 2017-03-01
   * Spring Framework 4.3.7 released
     * https://spring.io/blog/2017/03/01/spring-framework-4-3-7-released
