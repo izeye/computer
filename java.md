@@ -47,6 +47,8 @@
 ## Articles
 * Happy New Year, Java: A Look Back at Java's 21st Birthday
   * https://dzone.com/articles/happy-new-year-java-a-look-back-at-javas-21st-birthday
+* The Factory Pattern Using Lambda Expressions in Java 8
+  * https://dzone.com/articles/factory-pattern-using-lambda-expression-in-java-8
 * The Future of Java in the Enterprise - InfoQ’s Opinion
   * https://www.infoq.com/articles/enterprise-java-opinion
 
