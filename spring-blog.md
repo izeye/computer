@@ -1,5 +1,7 @@
 # Spring Blog
 * 2017-03-03
+  * Spring Boot 1.4.5 and 1.5.2 Available Now
+    * https://spring.io/blog/2017/03/03/spring-boot-1-4-5-and-1-5-2-available-now
   * Spring Security OAuth 2.1.0 and 2.0.13 Released
     * https://spring.io/blog/2017/03/03/spring-security-oauth-2-1-0-and-2-0-13-released
 * 2017-03-02
