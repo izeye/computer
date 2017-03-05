@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-03-03
+  * Spring Security OAuth 2.1.0 and 2.0.13 Released
+    * https://spring.io/blog/2017/03/03/spring-security-oauth-2-1-0-and-2-0-13-released
 * 2017-03-02
   * Spring Security 4.2.2 Released
     * https://spring.io/blog/2017/03/02/spring-security-4-2-2-released
