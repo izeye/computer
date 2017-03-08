@@ -22,6 +22,8 @@
   * https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
 * Graphite vs. Grafana: Build the Best Monitoring Architecture for Your Application
   * http://blog.takipi.com/graphite-vs-grafana-build-the-best-monitoring-architecture-for-your-application/
+* Greg
+  * http://blog.samaltman.com/greg
 * GIF/Javascript Polyglots
   * http://www.thinkfu.com/blog/gifjavascript-polyglots
 
