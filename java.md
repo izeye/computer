@@ -44,6 +44,10 @@
 * Named Capturing Group in JDK7 RegEx
   * https://blogs.oracle.com/xuemingshen/entry/named_capturing_group_in_jdk7
 
+### Stream
+* JAVA 8: AN ENDLESS STREAM OF RANDOM NUMBERS
+  * http://adambien.blog/roller/abien/entry/java_8_an_endless_stream
+
 ## Articles
 * Happy New Year, Java: A Look Back at Java's 21st Birthday
   * https://dzone.com/articles/happy-new-year-java-a-look-back-at-javas-21st-birthday
