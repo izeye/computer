@@ -15,6 +15,10 @@
 * JUnit5: Features, Architecture, and Extensibility
   * https://www.youtube.com/watch?v=Nqf6GSk_ZvI
 
+### YouTube
+* Hibernate Tip: How to map a to-one association to an Optional
+  * https://www.youtube.com/watch?v=I9hf-HUxQiA
+
 ## Blogs
 ### Concurrency
 * Introduction to CompletionStage and CompletableFuture
