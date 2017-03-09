@@ -26,6 +26,8 @@
   * http://blog.samaltman.com/greg
 * GIF/Javascript Polyglots
   * http://www.thinkfu.com/blog/gifjavascript-polyglots
+* 3 Situations That Call for a Red Team
+  * http://www.huffingtonpost.com/lisa-earle-mcleod/three-situations-that-cal_b_3974886.html
 
 ## Articles
 * A cartoon intro to WebAssembly
