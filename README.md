@@ -18,6 +18,8 @@
   * http://sdkman.io/install.html
 
 ## Blogs
+* 3 Situations That Call for a Red Team
+  * http://www.huffingtonpost.com/lisa-earle-mcleod/three-situations-that-cal_b_3974886.html
 * Announcing the first SHA1 collision
   * https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
 * Graphite vs. Grafana: Build the Best Monitoring Architecture for Your Application
@@ -26,8 +28,6 @@
   * http://blog.samaltman.com/greg
 * GIF/Javascript Polyglots
   * http://www.thinkfu.com/blog/gifjavascript-polyglots
-* 3 Situations That Call for a Red Team
-  * http://www.huffingtonpost.com/lisa-earle-mcleod/three-situations-that-cal_b_3974886.html
 
 ## Articles
 * A cartoon intro to WebAssembly
