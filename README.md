@@ -58,6 +58,8 @@
   * https://en.wikipedia.org/wiki/Reverse_geocoding
 * Server-sent events
   * https://en.wikipedia.org/wiki/Server-sent_events
+* Site reliability engineering
+  * https://en.wikipedia.org/wiki/Site_reliability_engineering
 * Smoke testing (software)
   * https://en.wikipedia.org/wiki/Smoke_testing_(software)
 * SonarQube
