@@ -4,6 +4,11 @@
 * gRPC 101 for Spring Developers
   * https://www.infoq.com/presentations/spring-grpc
 
+### GOTO
+#### GOTO 2016
+* GOTO 2016 • Whoops! Where Did My Architecture Go? • Oliver Gierke
+  * https://www.youtube.com/watch?v=v1XIcgFUIEw&feature=youtu.be&list=PLEx5khR4g7PKoaARvtC9b2xLcnX_lKgHS
+
 ## Documentation
 ### Microsoft
 * Understanding user-agent strings
