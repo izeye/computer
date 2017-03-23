@@ -37,7 +37,9 @@
   * https://dzone.com/articles/hello-hexagonal-architecture-1
 
 ## Articles
-### Martin Fowler
+### refactoring.com
+* Extract Class
+  * https://refactoring.com/catalog/extractClass.html
 * Self Encapsulate Field
   * https://www.refactoring.com/catalog/selfEncapsulateField.html
 
@@ -52,6 +54,8 @@
   * https://spring.io/understanding/CORS
 * Vanguard CIO: Why we’re on a journey to evolve to a microservices architecture
   * https://enterprisersproject.com/article/2017/2/vanguard-cio-why-we-re-journey-evolve-microservices-architecture
+* When Is Self-Encapsulation Worth It?
+  * https://dzone.com/articles/when-is-self-encapsulation-worth-it
 * XML DTDs Vs XML Schema
   * https://www.sitepoint.com/xml-dtds-xml-schema/
 
