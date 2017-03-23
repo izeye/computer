@@ -37,6 +37,11 @@
   * https://dzone.com/articles/hello-hexagonal-architecture-1
 
 ## Articles
+### Martin Fowler
+* Self Encapsulate Field
+  * https://www.refactoring.com/catalog/selfEncapsulateField.html
+
+### Misc.
 * A cartoon intro to WebAssembly
   * https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
 * PROGRAMMERS ARE CONFESSING THEIR CODING SINS TO PROTEST A BROKEN JOB INTERVIEW PROCESS
