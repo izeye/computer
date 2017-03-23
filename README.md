@@ -28,6 +28,8 @@
   * http://blog.samaltman.com/greg
 * GIF/Javascript Polyglots
   * http://www.thinkfu.com/blog/gifjavascript-polyglots
+* Hello, Hexagonal Architecture
+  * https://dzone.com/articles/hello-hexagonal-architecture-1
 
 ## Articles
 * A cartoon intro to WebAssembly
