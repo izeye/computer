@@ -35,6 +35,8 @@
   * http://www.thinkfu.com/blog/gifjavascript-polyglots
 * Hello, Hexagonal Architecture
   * https://dzone.com/articles/hello-hexagonal-architecture-1
+* Super Type Tokens
+  * http://gafter.blogspot.kr/2006/12/super-type-tokens.html
 
 ## Articles
 ### refactoring.com
