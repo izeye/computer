@@ -1,9 +1,5 @@
 # Java
 ## Presentations
-### Voxxed Days
-* Interview Heinz Kabutz during Voxxed Days CERN 2017
-  * https://www.youtube.com/watch?v=ah_BKPFJtZw&t=2s
-
 ### GOTO Nights
 * 2017-02-16
   * Chris Richardson & Kenny Bastini on Eventual Consistency in JVM Microservices with Event Sourcing
@@ -22,6 +18,10 @@
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
   * https://www.youtube.com/watch?v=I9hf-HUxQiA
+
+### Voxxed Days
+* Interview Heinz Kabutz during Voxxed Days CERN 2017
+  * https://www.youtube.com/watch?v=ah_BKPFJtZw&t=2s
 
 ## Blogs
 ### Concurrency
