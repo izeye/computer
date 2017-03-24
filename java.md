@@ -1,5 +1,9 @@
 # Java
 ## Presentations
+### Voxxed Days
+* Interview Heinz Kabutz during Voxxed Days CERN 2017
+  * https://www.youtube.com/watch?v=ah_BKPFJtZw&t=2s
+
 ### GOTO Nights
 * 2017-02-16
   * Chris Richardson & Kenny Bastini on Eventual Consistency in JVM Microservices with Event Sourcing
