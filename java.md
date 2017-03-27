@@ -19,6 +19,11 @@
 * Hibernate Tip: How to map a to-one association to an Optional
   * https://www.youtube.com/watch?v=I9hf-HUxQiA
 
+## Interviews
+### NightHacking @_nighthacking
+* Java 9 and IntelliJ w @trisha_gee
+  * https://www.periscope.tv/w/1MnxnLZQrZmGO
+
 ### Voxxed Days
 * Interview Heinz Kabutz during Voxxed Days CERN 2017
   * https://www.youtube.com/watch?v=ah_BKPFJtZw&t=2s
