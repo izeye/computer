@@ -47,6 +47,10 @@
 * How to detect the Hibernate N+1 query problem during testing
   * https://vladmihalcea.com/2014/02/01/how-to-detect-the-n-plus-one-query-problem-during-testing/
 
+### Lambda
+* Lambda Type References
+  * http://benjiweber.co.uk/blog/2015/08/04/lambda-type-references/
+
 ### Monitoring
 * Java Performance Monitoring: 5 Open Source Tools You Should Know
   * http://blog.takipi.com/java-performance-monitoring-5-open-source-tools-you-should-know/
