@@ -23,6 +23,8 @@
 ### NightHacking @_nighthacking
 * Java 9 and IntelliJ w @trisha_gee
   * https://www.periscope.tv/w/1MnxnLZQrZmGO
+* Java 9 features w @poonam_bajaj
+  * https://www.periscope.tv/_nighthacking/1ZkKzENmbYNxv
 
 ### Voxxed Days
 * Interview Heinz Kabutz during Voxxed Days CERN 2017
