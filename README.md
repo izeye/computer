@@ -1,13 +1,17 @@
 # Computer
 ## Presentations
-### InfoQ
-* gRPC 101 for Spring Developers
-  * https://www.infoq.com/presentations/spring-grpc
-
 ### GOTO
 #### GOTO 2016
 * GOTO 2016 • Whoops! Where Did My Architecture Go? • Oliver Gierke
   * https://www.youtube.com/watch?v=v1XIcgFUIEw&feature=youtu.be&list=PLEx5khR4g7PKoaARvtC9b2xLcnX_lKgHS
+
+### InfoQ
+* gRPC 101 for Spring Developers
+  * https://www.infoq.com/presentations/spring-grpc
+
+### JavaOne
+* Core Software Design Principles
+  * https://www.youtube.com/watch?v=XgoldEoK-Rw
 
 ## Documentation
 ### Microsoft
