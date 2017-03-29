@@ -21,6 +21,8 @@
 
 ## Interviews
 ### NightHacking @_nighthacking
+* .@speakjava talking about "extreme lambdas" at #javaland
+  * https://www.periscope.tv/_nighthacking/1kvJpnRVLjPKE
 * Java 9 and IntelliJ w @trisha_gee
   * https://www.periscope.tv/w/1MnxnLZQrZmGO
 * Java 9 features w @poonam_bajaj
