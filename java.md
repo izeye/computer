@@ -21,6 +21,8 @@
 
 ## Interviews
 ### NightHacking @_nighthacking
+* .@noctarius2k talks about Project Panama behind the walls #javaland
+  * https://www.periscope.tv/w/1ynKOWwPnwAKR
 * .@speakjava talking about "extreme lambdas" at #javaland
   * https://www.periscope.tv/_nighthacking/1kvJpnRVLjPKE
 * Java 9 and IntelliJ w @trisha_gee
