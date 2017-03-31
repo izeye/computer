@@ -1,4 +1,8 @@
 # Interviews
+## CaSE
+* Spring Data with Oliver Gierke
+  * http://www.case-podcast.org/2-spring-data-with-oliver-gierke
+
 ## NightHacking @_nighthacking
 * .@noctarius2k talks about Project Panama behind the walls #javaland
   * https://www.periscope.tv/w/1ynKOWwPnwAKR
