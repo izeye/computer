@@ -20,3 +20,5 @@
   * https://www.youtube.com/watch?v=ah_BKPFJtZw&t=2s
 * Interview with Juergen Hoeller and Josh Long at Voxxed Days CERN 2017
   * https://www.youtube.com/watch?v=L61VkzdpiF4
+* Sam Brannen and Nicolai Parlog on JUnit 5
+  * https://www.youtube.com/watch?v=XjaHlGodmhE
