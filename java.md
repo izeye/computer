@@ -28,6 +28,10 @@
 * Solving Fat JAR Woes at HubSpot
   * https://www.infoq.com/news/2016/08/fatjars-woes-at-hubspot
 
+### HotSpot
+* Hotspot caused exceptions to lose their stack traces in production and the fix
+  * http://jawspeak.com/2010/05/26/hotspot-caused-exceptions-to-lose-their-stack-traces-in-production-and-the-fix/
+
 ### Java 9
 * Using sun.misc.Unsafe in Java 9
   * http://gregluck.com/blog/archives/2017/03/using-sun-misc-unsafe-in-java-9/
