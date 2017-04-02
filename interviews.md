@@ -19,6 +19,10 @@
 * Java 9 features w @poonam_bajaj
   * https://www.periscope.tv/_nighthacking/1ZkKzENmbYNxv
 
+## Oracle Dev Live NYC
+* Interview: Chris Richardson on Microservices
+  * https://community.oracle.com/community/fusion_middleware/otn-archbeat-blog/blog/2017/03/29/interview-chris-richardson-on-microservices
+
 ## Voxxed Days
 * Interview Heinz Kabutz during Voxxed Days CERN 2017
   * https://www.youtube.com/watch?v=ah_BKPFJtZw&t=2s
