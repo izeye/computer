@@ -8,6 +8,8 @@
   * https://www.periscope.tv/w/1ynKOWwPnwAKR
 * .@olivergierke talks about #DDD with #REST at #javaland #buzzwordoverflow
   * https://www.periscope.tv/w/1vAxRgqrjzzKl
+* .@rgransberger talks about refactoring your code to #java 9 modules at #javaland
+  * https://www.pscp.tv/w/1YpKkdYNmlXGj
 * .@speakjava talking about "extreme lambdas" at #javaland
   * https://www.periscope.tv/_nighthacking/1kvJpnRVLjPKE
 * Build your own JVM language - JavaLand 2017 NightHacking
