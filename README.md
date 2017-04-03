@@ -31,6 +31,8 @@
   * http://www.huffingtonpost.com/lisa-earle-mcleod/three-situations-that-cal_b_3974886.html
 * Announcing the first SHA1 collision
   * https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
+* Back to the Future: Eclipse Converge & Devoxx US
+  * http://melb.enix.org/general/back-to-the-future-eclipse-converge-devoxx-us/
 * Graphite vs. Grafana: Build the Best Monitoring Architecture for Your Application
   * http://blog.takipi.com/graphite-vs-grafana-build-the-best-monitoring-architecture-for-your-application/
 * Greg
