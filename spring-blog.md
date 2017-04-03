@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-04-03
+  * Spring Tool Suite 3.8.4 released
+     * https://spring.io/blog/2017/04/03/spring-tool-suite-3-8-4-released
 * 2017-03-03
   * Spring Boot 1.4.5 and 1.5.2 Available Now
     * https://spring.io/blog/2017/03/03/spring-boot-1-4-5-and-1-5-2-available-now
