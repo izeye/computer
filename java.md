@@ -67,6 +67,8 @@
   * https://dzone.com/articles/factory-pattern-using-lambda-expression-in-java-8
 * The Future of Java in the Enterprise - InfoQ’s Opinion
   * https://www.infoq.com/articles/enterprise-java-opinion
+* Memory Puzzle with Lambdas
+  * http://javaspecialists.eu/archive/Issue247.html
 
 ## Java Bean Validation (JSR 303)
 * Getting started with Hibernate Validator
