@@ -24,6 +24,8 @@
   * https://community.oracle.com/community/fusion_middleware/otn-archbeat-blog/blog/2017/03/29/interview-chris-richardson-on-microservices
 
 ## Voxxed Days
+* Ask the JDK Architects by Brian Goetz/Mark Reinhold
+  * https://www.youtube.com/watch?v=OKIKEccotUg
 * Interview Heinz Kabutz during Voxxed Days CERN 2017
   * https://www.youtube.com/watch?v=ah_BKPFJtZw&t=2s
 * Interview with Juergen Hoeller and Josh Long at Voxxed Days CERN 2017
