@@ -46,6 +46,8 @@
 
 ## Articles
 ### martinfowler.com
+* SelfTestingCode
+  * https://martinfowler.com/bliki/SelfTestingCode.html
 * Yagni
   * https://martinfowler.com/bliki/Yagni.html
 
