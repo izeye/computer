@@ -43,6 +43,8 @@
   * https://dzone.com/articles/hello-hexagonal-architecture-1
 * Super Type Tokens
   * http://gafter.blogspot.kr/2006/12/super-type-tokens.html
+* The Pretentious Haskell Phase
+  * http://www.virtuouscode.com/2017/04/04/the-pretentious-haskell-phase/
 
 ## Articles
 ### martinfowler.com
