@@ -45,6 +45,10 @@
   * http://gafter.blogspot.kr/2006/12/super-type-tokens.html
 
 ## Articles
+### martinfowler.com
+* Yagni
+  * https://martinfowler.com/bliki/Yagni.html
+
 ### refactoring.com
 * Extract Class
   * https://refactoring.com/catalog/extractClass.html
