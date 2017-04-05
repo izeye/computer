@@ -90,6 +90,8 @@
   * https://en.wikipedia.org/wiki/Apache_HBase
 * CAP theorem
   * https://en.wikipedia.org/wiki/CAP_theorem
+* Generative adversarial networks
+  * https://en.wikipedia.org/wiki/Generative_adversarial_networks
 * Head-of-line blocking
   * https://en.wikipedia.org/wiki/Head-of-line_blocking
 * HTTP pipelining
