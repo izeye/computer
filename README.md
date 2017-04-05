@@ -13,6 +13,10 @@
 * Core Software Design Principles
   * https://www.youtube.com/watch?v=XgoldEoK-Rw
 
+## Talks
+* Debt Metaphor
+  * https://www.youtube.com/watch?v=pqeJFYwnkjE
+
 ## Documentation
 ### Microsoft
 * Understanding user-agent strings
