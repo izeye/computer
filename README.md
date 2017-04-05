@@ -50,6 +50,8 @@
 ### martinfowler.com
 * SelfTestingCode
   * https://martinfowler.com/bliki/SelfTestingCode.html
+* TechnicalDebt
+  * https://martinfowler.com/bliki/TechnicalDebt.html
 * Yagni
   * https://martinfowler.com/bliki/Yagni.html
 
