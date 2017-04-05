@@ -50,21 +50,6 @@
 * The Pretentious Haskell Phase
   * http://www.virtuouscode.com/2017/04/04/the-pretentious-haskell-phase/
 
-## Articles
-### martinfowler.com
-* SelfTestingCode
-  * https://martinfowler.com/bliki/SelfTestingCode.html
-* TechnicalDebt
-  * https://martinfowler.com/bliki/TechnicalDebt.html
-* Yagni
-  * https://martinfowler.com/bliki/Yagni.html
-
-### refactoring.com
-* Extract Class
-  * https://refactoring.com/catalog/extractClass.html
-* Self Encapsulate Field
-  * https://www.refactoring.com/catalog/selfEncapsulateField.html
-
 ### Misc.
 * A cartoon intro to WebAssembly
   * https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
