@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-04-07
+  * Spring For Apache Kafka 1.2.0 and 1.1.4 Available
+     * https://spring.io/blog/2017/04/07/spring-for-apache-kafka-1-2-0-and-1-1-4-available
 * 2017-04-03
   * Spring Tool Suite 3.8.4 released
      * https://spring.io/blog/2017/04/03/spring-tool-suite-3-8-4-released
