@@ -28,6 +28,10 @@
 * Solving Fat JAR Woes at HubSpot
   * https://www.infoq.com/news/2016/08/fatjars-woes-at-hubspot
 
+### Handlebars.java
+* Using Handlebars Java as a Server Side Templating Language
+  * https://dzone.com/articles/using-handlebars-java-as-a-server-side-templating
+
 ### HotSpot
 * Hotspot caused exceptions to lose their stack traces in production and the fix
   * http://jawspeak.com/2010/05/26/hotspot-caused-exceptions-to-lose-their-stack-traces-in-production-and-the-fix/
