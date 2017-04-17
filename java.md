@@ -53,6 +53,8 @@
   * http://blog.takipi.com/java-performance-monitoring-5-open-source-tools-you-should-know/
 
 ### Optional
+* Optional in Java SE 8
+  * http://blog.joda.org/2014/11/optional-in-java-se-8.html
 * Tired of Null Pointer Exceptions? Consider Using Java SE 8's Optional!
   * http://www.oracle.com/technetwork/articles/java/java8-optional-2175753.html
 
