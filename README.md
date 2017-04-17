@@ -73,6 +73,8 @@
   * https://en.wikipedia.org/wiki/Apache_Ambari
 * Apache HBase
   * https://en.wikipedia.org/wiki/Apache_HBase
+* AWS Lambda
+  * https://en.wikipedia.org/wiki/AWS_Lambda
 * CAP theorem
   * https://en.wikipedia.org/wiki/CAP_theorem
 * Generative adversarial networks
@@ -85,6 +87,10 @@
   * https://en.wikipedia.org/wiki/Reverse_geocoding
 * Server-sent events
   * https://en.wikipedia.org/wiki/Server-sent_events
+* Serverless computing
+  * https://en.wikipedia.org/wiki/Serverless_computing
+* Serverless Framework
+  * https://en.wikipedia.org/wiki/Serverless_Framework
 * Site reliability engineering
   * https://en.wikipedia.org/wiki/Site_reliability_engineering
 * Smoke testing (software)
