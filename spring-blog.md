@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-04-18
+  * Spring Framework 4.3.8 released
+     * https://spring.io/blog/2017/04/18/spring-framework-4-3-8-released
 * 2017-04-07
   * Spring For Apache Kafka 1.2.0 and 1.1.4 Available
      * https://spring.io/blog/2017/04/07/spring-for-apache-kafka-1-2-0-and-1-1-4-available
