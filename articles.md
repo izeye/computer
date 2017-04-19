@@ -20,3 +20,6 @@
   * https://www.refactoring.com/catalog/inlineMethod.html
 * Self Encapsulate Field
   * https://www.refactoring.com/catalog/selfEncapsulateField.html
+## Misc.
+* 3X — Explore, Expand, Extract
+  * https://ideas.riverglide.com/3x-explore-expand-extract-b9aad6402a5a
