@@ -50,11 +50,13 @@
 * The Pretentious Haskell Phase
   * http://www.virtuouscode.com/2017/04/04/the-pretentious-haskell-phase/
 
-### Misc.
+## Misc.
 * A cartoon intro to WebAssembly
   * https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/
 * Deleting Old Builds - Best Strategy for Cleanup and disk space management
   * https://support.cloudbees.com/hc/en-us/articles/215549798-Deleting-Old-Builds-Best-Strategy-for-Cleanup-and-disk-space-management
+* How to Install Hadoop in Stand-Alone Mode on CentOS 7
+  * https://www.vultr.com/docs/how-to-install-hadoop-in-stand-alone-mode-on-centos-7
 * PROGRAMMERS ARE CONFESSING THEIR CODING SINS TO PROTEST A BROKEN JOB INTERVIEW PROCESS
   * https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process
 * The War for Port 80 [Comic]
