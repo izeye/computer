@@ -69,6 +69,8 @@
 ### Stream
 * JAVA 8: AN ENDLESS STREAM OF RANDOM NUMBERS
   * http://adambien.blog/roller/abien/entry/java_8_an_endless_stream
+* JAVA 8 FLATMAP EXAMPLE
+  * http://www.adam-bien.com/roller/abien/entry/java_8_flatmap_example
 
 ## Articles
 * Happy New Year, Java: A Look Back at Java's 21st Birthday
