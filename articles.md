@@ -1,5 +1,7 @@
 # Articles
 ## martinfowler.com
+* BeckDesignRules
+  * https://martinfowler.com/bliki/BeckDesignRules.html
 * CannotMeasureProductivity
   * https://martinfowler.com/bliki/CannotMeasureProductivity.html
 * SelfTestingCode
