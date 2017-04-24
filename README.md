@@ -101,6 +101,8 @@
   * https://en.wikipedia.org/wiki/SonarQube
 * Super-server
   * https://en.wikipedia.org/wiki/Super-server
+* X-Forwarded-For
+  * https://en.wikipedia.org/wiki/X-Forwarded-For
 
 ## Wiki
 ### W3C
