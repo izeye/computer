@@ -19,6 +19,8 @@
 #### SpringOne Platform 2016
 * Help Developers Do What They Love — Onsi Fakhouri
   * https://www.youtube.com/watch?v=xdw_9dADM-4&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=1
+* Containers Will Not Fix Your Broken Culture (and Other Hard Truths) — Bridget Kromhout
+  * https://www.youtube.com/watch?v=3kMbEkm8p2w&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=2
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
