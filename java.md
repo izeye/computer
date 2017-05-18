@@ -15,6 +15,11 @@
 * JUnit5: Features, Architecture, and Extensibility
   * https://www.youtube.com/watch?v=Nqf6GSk_ZvI
 
+### SpringOne
+#### SpringOne Platform 2016
+* Help Developers Do What They Love — Onsi Fakhouri
+  * https://www.youtube.com/watch?v=xdw_9dADM-4&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=1
+
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
   * https://www.youtube.com/watch?v=I9hf-HUxQiA
