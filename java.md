@@ -6,6 +6,8 @@
     * https://vimeo.com/205223073
 
 ### InfoQ
+* Nashorn - Native JavaScript Support in Java 8
+  * https://www.infoq.com/presentations/nashorn-java8
 * Preparing Your Code for JDK 9
   * https://www.infoq.com/presentations/upgrading-java9
 * Project Jigsaw in JDK 9: Modularity Comes To Java
