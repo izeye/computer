@@ -68,6 +68,10 @@
 * Java Performance Monitoring: 5 Open Source Tools You Should Know
   * http://blog.takipi.com/java-performance-monitoring-5-open-source-tools-you-should-know/
 
+### Nashorn
+* Java 8 Nashorn Tutorial
+  * http://winterbe.com/posts/2014/04/05/java8-nashorn-tutorial/
+
 ### Network
 * How to get MAC address in Java
   * https://www.mkyong.com/java/how-to-get-mac-address-in-java/
