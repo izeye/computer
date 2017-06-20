@@ -85,6 +85,8 @@
   * https://en.wikipedia.org/wiki/CAP_theorem
 * Common subexpression elimination
   * https://en.wikipedia.org/wiki/Common_subexpression_elimination
+* Copy propagation
+  * https://en.wikipedia.org/wiki/Copy_propagation
 * Generative adversarial networks
   * https://en.wikipedia.org/wiki/Generative_adversarial_networks
 * Global value numbering
