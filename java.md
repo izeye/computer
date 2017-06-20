@@ -63,6 +63,8 @@
 ### JVM
 * Useful JVM Flags – Part 1 (JVM Types and Compiler Modes)
   * https://blog.codecentric.de/en/2012/07/useful-jvm-flags-part-1-jvm-types-and-compiler-modes/
+* Useful JVM Flags – Part 2 (Flag Categories and JIT Compiler Diagnostics)
+  * https://blog.codecentric.de/en/2012/07/useful-jvm-flags-part-2-flag-categories-and-jit-compiler-diagnostics/
 
 ### Lambda
 * Lambda Type References
