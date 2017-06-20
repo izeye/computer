@@ -81,6 +81,8 @@
   * https://en.wikipedia.org/wiki/Apache_HBase
 * AWS Lambda
   * https://en.wikipedia.org/wiki/AWS_Lambda
+* Bounds-checking elimination
+  * https://en.wikipedia.org/wiki/Bounds-checking_elimination
 * CAP theorem
   * https://en.wikipedia.org/wiki/CAP_theorem
 * Common subexpression elimination
