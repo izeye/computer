@@ -83,6 +83,8 @@
   * https://en.wikipedia.org/wiki/AWS_Lambda
 * CAP theorem
   * https://en.wikipedia.org/wiki/CAP_theorem
+* Common subexpression elimination
+  * https://en.wikipedia.org/wiki/Common_subexpression_elimination
 * Generative adversarial networks
   * https://en.wikipedia.org/wiki/Generative_adversarial_networks
 * Global value numbering
