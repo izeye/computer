@@ -60,6 +60,10 @@
 * How to detect the Hibernate N+1 query problem during testing
   * https://vladmihalcea.com/2014/02/01/how-to-detect-the-n-plus-one-query-problem-during-testing/
 
+### JVM
+* Useful JVM Flags – Part 1 (JVM Types and Compiler Modes)
+  * https://blog.codecentric.de/en/2012/07/useful-jvm-flags-part-1-jvm-types-and-compiler-modes/
+
 ### Lambda
 * Lambda Type References
   * http://benjiweber.co.uk/blog/2015/08/04/lambda-type-references/
