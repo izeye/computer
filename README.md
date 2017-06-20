@@ -95,6 +95,8 @@
   * https://en.wikipedia.org/wiki/Head-of-line_blocking
 * HTTP pipelining
   * https://en.wikipedia.org/wiki/HTTP_pipelining
+* Loop unswitching
+  * https://en.wikipedia.org/wiki/Loop_unswitching
 * Reverse geocoding
   * https://en.wikipedia.org/wiki/Reverse_geocoding
 * Server-sent events
