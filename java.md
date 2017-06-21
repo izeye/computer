@@ -17,6 +17,8 @@
   * https://www.infoq.com/presentations/upgrading-java9
 * Project Jigsaw in JDK 9: Modularity Comes To Java
   * https://www.infoq.com/presentations/jigsaw-jdk-9
+* Understanding HotSpot JVM Performance with JITWatch
+  * https://www.infoq.com/presentations/jitwatch
 
 ### JavaOne
 * JUnit5: Features, Architecture, and Extensibility
