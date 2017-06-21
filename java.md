@@ -50,10 +50,6 @@
 * Using Handlebars Java as a Server Side Templating Language
   * https://dzone.com/articles/using-handlebars-java-as-a-server-side-templating
 
-### HotSpot
-* Hotspot caused exceptions to lose their stack traces in production and the fix
-  * http://jawspeak.com/2010/05/26/hotspot-caused-exceptions-to-lose-their-stack-traces-in-production-and-the-fix/
-
 ### Java 9
 * Using sun.misc.Unsafe in Java 9
   * http://gregluck.com/blog/archives/2017/03/using-sun-misc-unsafe-in-java-9/
@@ -63,6 +59,10 @@
   * https://vladmihalcea.com/2014/02/01/how-to-detect-the-n-plus-one-query-problem-during-testing/
 
 ### JVM
+* Hotspot caused exceptions to lose their stack traces in production and the fix
+  * http://jawspeak.com/2010/05/26/hotspot-caused-exceptions-to-lose-their-stack-traces-in-production-and-the-fix/
+* Java on Steroids: 5 Super Useful JIT Optimization Techniques
+  * http://blog.takipi.com/java-on-steroids-5-super-useful-jit-optimization-techniques/
 * Useful JVM Flags – Part 1 (JVM Types and Compiler Modes)
   * https://blog.codecentric.de/en/2012/07/useful-jvm-flags-part-1-jvm-types-and-compiler-modes/
 * Useful JVM Flags – Part 2 (Flag Categories and JIT Compiler Diagnostics)
