@@ -125,6 +125,10 @@
 * Twenty Second Tutorial
   * http://objenesis.org/tutorial.html
 
+### OpenJDK
+* HotSpot Glossary of Terms
+  * http://openjdk.java.net/groups/hotspot/docs/HotSpotGlossary.html
+
 ## Javadoc
 ### JDK
 * java.util.concurrent.CompletableFuture
