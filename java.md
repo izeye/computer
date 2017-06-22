@@ -54,6 +54,10 @@
 * Using sun.misc.Unsafe in Java 9
   * http://gregluck.com/blog/archives/2017/03/using-sun-misc-unsafe-in-java-9/
 
+### javac
+* Optimizations performed by javac
+  * https://briangordon.github.io/2014/01/javac-optimizations.html
+
 ### JPA
 * How to detect the Hibernate N+1 query problem during testing
   * https://vladmihalcea.com/2014/02/01/how-to-detect-the-n-plus-one-query-problem-during-testing/
