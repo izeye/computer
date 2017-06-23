@@ -135,6 +135,10 @@
 * HotSpot Glossary of Terms
   * http://openjdk.java.net/groups/hotspot/docs/HotSpotGlossary.html
 
+### Java Platform, Standard Edition Java Scripting Programmer's Guide
+* 2 The Java Scripting API
+  * https://docs.oracle.com/javase/8/docs/technotes/guides/scripting/prog_guide/api.html
+
 ## Javadoc
 ### JDK
 * java.util.concurrent.CompletableFuture
