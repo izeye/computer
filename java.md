@@ -30,6 +30,8 @@
   * https://www.youtube.com/watch?v=xdw_9dADM-4&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=1
 * Containers Will Not Fix Your Broken Culture (and Other Hard Truths) — Bridget Kromhout
   * https://www.youtube.com/watch?v=3kMbEkm8p2w&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=2
+* A Transformation Journey — Brad Miller, Citi
+  * https://www.youtube.com/watch?v=WDvCIhfb6y4&index=3&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 * How Comcast Transformed the Product Delivery Experience — Greg Otto, Comcast
   * https://www.youtube.com/watch?v=b2pZRnjreHQ&index=4&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 
