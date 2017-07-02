@@ -34,6 +34,8 @@
   * https://www.youtube.com/watch?v=WDvCIhfb6y4&index=3&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 * How Comcast Transformed the Product Delivery Experience — Greg Otto, Comcast
   * https://www.youtube.com/watch?v=b2pZRnjreHQ&index=4&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
+* A Tale of Two Ladies: On Generating Opportunity for Women in Tech — Cornelia Davis
+  * https://www.youtube.com/watch?v=2lFv3qknbqQ&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=5
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
