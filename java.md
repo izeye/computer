@@ -38,6 +38,8 @@
   * https://www.youtube.com/watch?v=2lFv3qknbqQ&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=5
 * SpringOne Platform 2016 Keynote - Spring and the Circle of Feedback
   * https://www.youtube.com/watch?v=Tcjdh6yCaDQ&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=6
+* SpringOne Platform 2016 Keynote - Reactive Spring
+  * https://www.youtube.com/watch?v=Xm-KjMY_Z_w&index=7&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
