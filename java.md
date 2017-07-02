@@ -36,6 +36,8 @@
   * https://www.youtube.com/watch?v=b2pZRnjreHQ&index=4&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 * A Tale of Two Ladies: On Generating Opportunity for Women in Tech — Cornelia Davis
   * https://www.youtube.com/watch?v=2lFv3qknbqQ&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=5
+* SpringOne Platform 2016 Keynote - Spring and the Circle of Feedback
+  * https://www.youtube.com/watch?v=Tcjdh6yCaDQ&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=6
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
