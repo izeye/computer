@@ -44,6 +44,8 @@
   * https://www.youtube.com/watch?v=Xm-KjMY_Z_w&index=7&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 * Zen and the Art of Platform — Sam Ramji, Cloud Foundry
   * https://www.youtube.com/watch?v=3sl1VR7wgaA&index=9&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
+* Results Should Be More Fun — Andy Zitney, McKesson
+  * https://www.youtube.com/watch?v=Izo2RNmBsw0&index=10&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
