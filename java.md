@@ -46,6 +46,8 @@
   * https://www.youtube.com/watch?v=3sl1VR7wgaA&index=9&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 * Results Should Be More Fun — Andy Zitney, McKesson
   * https://www.youtube.com/watch?v=Izo2RNmBsw0&index=10&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
+* Transforming Culture at Bloomberg — Justin Erenkrantz, Bloomberg
+  * https://www.youtube.com/watch?v=nVEoZRpst3c&index=11&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
