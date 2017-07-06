@@ -48,6 +48,8 @@
   * https://www.youtube.com/watch?v=Izo2RNmBsw0&index=10&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 * Transforming Culture at Bloomberg — Justin Erenkrantz, Bloomberg
   * https://www.youtube.com/watch?v=nVEoZRpst3c&index=11&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
+* Microsoft and Manulife, Fireside Chat
+  * https://www.youtube.com/watch?v=dWJexxudXQE&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=12
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
