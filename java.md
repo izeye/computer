@@ -50,6 +50,8 @@
   * https://www.youtube.com/watch?v=nVEoZRpst3c&index=11&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 * Microsoft and Manulife, Fireside Chat
   * https://www.youtube.com/watch?v=dWJexxudXQE&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=12
+* Comcast and Accenture, Fireside Chat
+  * https://www.youtube.com/watch?v=R1-O-niFGKE&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=13
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
