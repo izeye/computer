@@ -54,6 +54,8 @@
   * https://www.youtube.com/watch?v=R1-O-niFGKE&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=13
 * SpringOne Platform 2016 Keynote - Spring Boot Weather Application Demo
   * https://www.youtube.com/watch?v=7U90Lfxatpk&index=14&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
+* Rob Mee at SpringOne Platform
+  * https://www.youtube.com/watch?v=n-gehEPgHy4&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=15
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
