@@ -22,6 +22,12 @@
   * https://www.youtube.com/watch?v=4HuAnM6b2d8
 
 ## Documentation
+### Docker
+* Install Docker
+  * https://docs.docker.com/engine/installation/
+* Get Docker CE for CentOS
+  * https://docs.docker.com/engine/installation/linux/docker-ce/centos/
+
 ### Microsoft
 * Understanding user-agent strings
   * https://msdn.microsoft.com/en-us/library/ms537503(v=vs.85).aspx
