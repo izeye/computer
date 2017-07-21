@@ -58,6 +58,8 @@
   * https://www.youtube.com/watch?v=n-gehEPgHy4&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=15
 * Simplifying the Future — Adrian Cockcroft, Battery Ventures
   * https://www.youtube.com/watch?v=DGK6jjamzfY&index=16&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
+* 12 Factor, or Cloud Native Apps: What EXACTLY Does that Mean for Spring Developers? — Thomas Gamble
+  * https://www.youtube.com/watch?v=t2zfJBc1SeE&index=18&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
