@@ -15,3 +15,8 @@
 #### Post-Deployment
 * Indexing Performance Tips
   * https://www.elastic.co/guide/en/elasticsearch/guide/current/indexing-performance.html
+
+## Java API
+### Search API
+* Using scrolls in Java
+  * https://www.elastic.co/guide/en/elasticsearch/client/java-api/current/java-search-scrolling.html
