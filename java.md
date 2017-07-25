@@ -68,6 +68,8 @@
   * https://www.youtube.com/watch?v=oUWw6h-mi0o&index=21&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 * Ignite Talk: I AM a robot, how do I log in? —Jayson DeLancey, GE Digital
   * https://www.youtube.com/watch?v=Gv77kY6VMrM&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=22
+* Ignite Talk: Devops: If the Path is Open, Move Forward — Andrew Clay Shafer
+  * https://www.youtube.com/watch?v=XACJ1CRcKZs&index=23&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
