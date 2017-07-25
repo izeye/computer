@@ -66,6 +66,8 @@
   * https://www.youtube.com/watch?v=6ClPQtXrrgE&index=20&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 * Ignite Talk: Lending Privilege — Anjuan Simmons
   * https://www.youtube.com/watch?v=oUWw6h-mi0o&index=21&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
+* Ignite Talk: I AM a robot, how do I log in? —Jayson DeLancey, GE Digital
+  * https://www.youtube.com/watch?v=Gv77kY6VMrM&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=22
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
