@@ -62,6 +62,8 @@
   * https://www.youtube.com/watch?v=t2zfJBc1SeE&index=18&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 * Ignite Talk: Fear of the Bus: DevOps and Docs — Heidi Waterhouse
   * https://www.youtube.com/watch?v=Mu0hrWyFqbc&index=19&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
+* Ignite Talk: Pioneers, Settlers, and Town Planners of Catan — Bridget Kromhout
+  * https://www.youtube.com/watch?v=6ClPQtXrrgE&index=20&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
