@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-05-11
+  * Spring Session 2.0.0 M1 Released
+    * https://spring.io/blog/2017/05/11/spring-session-2-0-0-m1-released
 * 2017-04-18
   * Spring Framework 4.3.8 released
      * https://spring.io/blog/2017/04/18/spring-framework-4-3-8-released
