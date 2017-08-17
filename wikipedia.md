@@ -27,6 +27,8 @@
   * https://en.wikipedia.org/wiki/Reverse_geocoding
 * Run queue
   * https://en.wikipedia.org/wiki/Run_queue
+* sar (Unix)
+  * https://en.wikipedia.org/wiki/Sar_(Unix)
 * Server-sent events
   * https://en.wikipedia.org/wiki/Server-sent_events
 * Serverless computing
