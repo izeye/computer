@@ -23,6 +23,8 @@
   * https://en.wikipedia.org/wiki/HTTP_pipelining
 * Loop unswitching
   * https://en.wikipedia.org/wiki/Loop_unswitching
+* mmap
+  * https://en.wikipedia.org/wiki/Mmap
 * Reverse geocoding
   * https://en.wikipedia.org/wiki/Reverse_geocoding
 * Run queue
