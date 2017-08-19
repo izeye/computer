@@ -1,9 +1,18 @@
 # Elasticsearch
 ## Elasticsearch Reference
+### Set up Elasticsearch
+#### Important System Configuration
+* Virtual memory
+  * https://www.elastic.co/guide/en/elasticsearch/reference/current/vm-max-map-count.html
+
 ### Search APIs
 #### Request Body Search
 * Scroll
   * https://www.elastic.co/guide/en/elasticsearch/reference/2.3/search-request-scroll.html
+
+### Index Modules
+* Store
+  * https://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-store.html
 
 ## Elasticsearch: The Definitive Guide
 ### Search in Depth
