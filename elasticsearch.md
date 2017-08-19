@@ -1,5 +1,9 @@
 # Elasticsearch
 ## Elasticsearch Reference
+### Getting Started
+* Installation
+  * https://www.elastic.co/guide/en/elasticsearch/reference/current/_installation.html
+
 ### Set up Elasticsearch
 #### Important System Configuration
 * Virtual memory
