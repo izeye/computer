@@ -33,3 +33,8 @@
 ### Search API
 * Using scrolls in Java
   * https://www.elastic.co/guide/en/elasticsearch/client/java-api/current/java-search-scrolling.html
+
+## Kibana User Guide
+### Introduction
+* Introduction
+  * https://www.elastic.co/guide/en/kibana/current/introduction.html
