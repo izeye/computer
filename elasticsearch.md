@@ -42,3 +42,5 @@
 ### Set Up Kibana
 * Set Up Kibana
   * https://www.elastic.co/guide/en/kibana/current/setup.html
+* Installing Kibana
+  * https://www.elastic.co/guide/en/kibana/current/install.html
