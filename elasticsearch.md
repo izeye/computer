@@ -8,6 +8,9 @@
 #### Important System Configuration
 * Virtual memory
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/vm-max-map-count.html
+#### Bootstrap Checks
+* System call filter check
+  * https://www.elastic.co/guide/en/elasticsearch/reference/master/_system_call_filter_check.html
 
 ### Search APIs
 #### Request Body Search
