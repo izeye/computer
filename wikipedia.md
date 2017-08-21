@@ -27,6 +27,8 @@
   * https://en.wikipedia.org/wiki/Mmap
 * Reverse geocoding
   * https://en.wikipedia.org/wiki/Reverse_geocoding
+* Round-robin DNS
+  * https://en.wikipedia.org/wiki/Round-robin_DNS
 * Run queue
   * https://en.wikipedia.org/wiki/Run_queue
 * sar (Unix)
