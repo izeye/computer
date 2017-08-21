@@ -44,3 +44,5 @@
   * https://www.elastic.co/guide/en/kibana/current/setup.html
 * Installing Kibana
   * https://www.elastic.co/guide/en/kibana/current/install.html
+* Install Kibana with .tar.gz
+  * https://www.elastic.co/guide/en/kibana/current/targz.html
