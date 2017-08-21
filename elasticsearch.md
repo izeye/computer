@@ -51,3 +51,5 @@
 ### Introduction
 * Introduction
   * https://www.elastic.co/guide/en/x-pack/current/xpack-introduction.html
+* Installing X-Pack
+  * https://www.elastic.co/guide/en/x-pack/current/installing-xpack.html
