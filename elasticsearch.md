@@ -44,6 +44,16 @@
   * https://www.elastic.co/guide/en/elasticsearch/guide/current/indexing-performance.html
 
 ## Java API
+### Maven Repository
+* Maven Repository
+  * https://www.elastic.co/guide/en/elasticsearch/client/java-api/current/_maven_repository.html
+
+### Client
+* Client
+  * https://www.elastic.co/guide/en/elasticsearch/client/java-api/current/client.html
+* Transport Client
+  * https://www.elastic.co/guide/en/elasticsearch/client/java-api/current/transport-client.html
+
 ### Search API
 * Using scrolls in Java
   * https://www.elastic.co/guide/en/elasticsearch/client/java-api/current/java-search-scrolling.html
