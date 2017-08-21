@@ -46,3 +46,8 @@
   * https://www.elastic.co/guide/en/kibana/current/install.html
 * Install Kibana with .tar.gz
   * https://www.elastic.co/guide/en/kibana/current/targz.html
+
+## X-Pack for the Elastic Stack
+### Introduction
+* Introduction
+  * https://www.elastic.co/guide/en/x-pack/current/xpack-introduction.html
