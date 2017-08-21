@@ -17,6 +17,10 @@
 * Scroll
   * https://www.elastic.co/guide/en/elasticsearch/reference/2.3/search-request-scroll.html
 
+### Modules
+* Network Settings
+  * https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-network.html
+
 ### Index Modules
 * Store
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-store.html
