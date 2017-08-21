@@ -8,9 +8,16 @@
 #### Important System Configuration
 * Virtual memory
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/vm-max-map-count.html
+
 #### Bootstrap Checks
 * System call filter check
   * https://www.elastic.co/guide/en/elasticsearch/reference/master/_system_call_filter_check.html
+
+#### Set up X-Pack
+* Set up X-Pack
+  * https://www.elastic.co/guide/en/elasticsearch/reference/5.5/setup-xpack.html
+* Installing X-Pack in Elasticsearch
+  * https://www.elastic.co/guide/en/elasticsearch/reference/5.5/installing-xpack-es.html
 
 ### Search APIs
 #### Request Body Search
