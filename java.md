@@ -76,6 +76,8 @@
   * https://www.youtube.com/watch?v=qK79w3WpJsM&index=26&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 * Industrial Strength Access Control for Spring Applications — Dariush Amiri, GE Digital
   * https://www.youtube.com/watch?v=61TsCWoZ5Us&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=27
+* Pragmatic Steps to DevOps: EMC Dojo One Year Later — Brian Roche, EMC
+  * https://www.youtube.com/watch?v=hIm5pGwBI1k&index=28&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 
 ### YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
