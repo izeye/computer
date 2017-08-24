@@ -159,12 +159,16 @@
   * https://dzone.com/articles/java-lambda-expressions-vs
 * Memory Puzzle with Lambdas
   * http://javaspecialists.eu/archive/Issue247.html
+* Subscription-based licensing model vs. perpetual licensing model
+  * https://sales.jetbrains.com/hc/en-gb/articles/206544479-Subscription-based-licensing-model-vs-perpetual-licensing-model
 * The Factory Pattern Using Lambda Expressions in Java 8
   * https://dzone.com/articles/factory-pattern-using-lambda-expression-in-java-8
 * The Future Of Java
   * https://dzone.com/articles/the-future-of-java-1
 * The Future of Java in the Enterprise - InfoQ’s Opinion
   * https://www.infoq.com/articles/enterprise-java-opinion
+* What is perpetual fallback license?
+  * https://sales.jetbrains.com/hc/en-gb/articles/207240845-What-is-perpetual-fallback-license-
 
 ## Java Bean Validation (JSR 303)
 * Getting started with Hibernate Validator
