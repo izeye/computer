@@ -124,6 +124,10 @@
 * Lambda Type References
   * http://benjiweber.co.uk/blog/2015/08/04/lambda-type-references/
 
+### Metaspace
+* Metaspace in Java 8
+  * http://java-latte.blogspot.kr/2014/03/metaspace-in-java-8.html
+
 ### Monitoring
 * Java Performance Monitoring: 5 Open Source Tools You Should Know
   * http://blog.takipi.com/java-performance-monitoring-5-open-source-tools-you-should-know/
