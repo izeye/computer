@@ -21,6 +21,8 @@
   * https://en.wikipedia.org/wiki/Head-of-line_blocking
 * HTTP pipelining
   * https://en.wikipedia.org/wiki/HTTP_pipelining
+* Load (computing)
+  * https://en.wikipedia.org/wiki/Load_(computing)
 * Loop unswitching
   * https://en.wikipedia.org/wiki/Loop_unswitching
 * mmap
@@ -41,6 +43,8 @@
   * https://en.wikipedia.org/wiki/Serverless_Framework
 * Site reliability engineering
   * https://en.wikipedia.org/wiki/Site_reliability_engineering
+* Sleep (system call)
+  * https://en.wikipedia.org/wiki/Sleep_(system_call)
 * Smoke testing (software)
   * https://en.wikipedia.org/wiki/Smoke_testing_(software)
 * SonarQube
