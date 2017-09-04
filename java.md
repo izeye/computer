@@ -185,6 +185,9 @@
 * Getting Started with the G1 Garbage Collector
   * http://www.oracle.com/technetwork/tutorials/tutorials-1876574.html
 
+* The Garbage-First Garbage Collector
+  * http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html
+
 ### Java Platform, Standard Edition Java Scripting Programmer's Guide
 * 2 The Java Scripting API
   * https://docs.oracle.com/javase/8/docs/technotes/guides/scripting/prog_guide/api.html
