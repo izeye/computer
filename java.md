@@ -181,6 +181,14 @@
   * http://hibernate.org/validator/documentation/getting-started/
 
 ## Documentation
+### G1 GC
+* Getting Started with the G1 Garbage Collector
+  * http://www.oracle.com/technetwork/tutorials/tutorials-1876574.html
+
+### Java Platform, Standard Edition Java Scripting Programmer's Guide
+* 2 The Java Scripting API
+  * https://docs.oracle.com/javase/8/docs/technotes/guides/scripting/prog_guide/api.html
+
 ### JMH
 * Code Tools: jmh
   * http://openjdk.java.net/projects/code-tools/jmh/
@@ -192,10 +200,6 @@
 ### OpenJDK
 * HotSpot Glossary of Terms
   * http://openjdk.java.net/groups/hotspot/docs/HotSpotGlossary.html
-
-### Java Platform, Standard Edition Java Scripting Programmer's Guide
-* 2 The Java Scripting API
-  * https://docs.oracle.com/javase/8/docs/technotes/guides/scripting/prog_guide/api.html
 
 ## Javadoc
 ### JDK
