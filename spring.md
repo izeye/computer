@@ -18,3 +18,5 @@
 ## Javadoc
 * org.springframework.context.annotation.Bean
   * http://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/Bean.html
+* org.springframework.context.annotation.Configuration
+  * https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/Configuration.html
