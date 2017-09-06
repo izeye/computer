@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-07-27
+  * Spring Boot 1.5.6 available now
+    * https://spring.io/blog/2017/07/27/spring-boot-1-5-6-available-now
 * 2017-06-08
   * Spring Boot 1.4.7 Available Now
     * https://spring.io/blog/2017/06/08/spring-boot-1-4-7-available-now
