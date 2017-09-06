@@ -223,6 +223,16 @@
 * reactor.core.publisher.Mono
  * https://projectreactor.io/docs/core/release/api/reactor/core/publisher/Mono.html
 
+## JEP
+* JEP 122: Remove the Permanent Generation
+  * http://openjdk.java.net/jeps/122
+* JEP 156: G1 GC: Reduce need for full GCs
+  * http://openjdk.java.net/jeps/156
+* JEP 248: Make G1 the Default Garbage Collector
+  * http://openjdk.java.net/jeps/248
+* JEP 291: Deprecate the Concurrent Mark Sweep (CMS) Garbage Collector
+  * http://openjdk.java.net/jeps/291
+
 ## Wikipedia
 * Constant interface
   * https://en.wikipedia.org/wiki/Constant_interface
