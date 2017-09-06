@@ -2,6 +2,9 @@
 * 2017-07-27
   * Spring Boot 1.5.6 available now
     * https://spring.io/blog/2017/07/27/spring-boot-1-5-6-available-now
+* 2017-07-26
+  * Spring Boot 2.0.0.M3 available now
+    * https://spring.io/blog/2017/07/26/spring-boot-2-0-0-m3-available-now
 * 2017-07-24
   * Spring Framework 5.0 RC3 - on the way to GA
     * https://spring.io/blog/2017/07/24/spring-framework-5-0-rc3-on-the-way-to-ga
