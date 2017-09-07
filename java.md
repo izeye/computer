@@ -233,6 +233,12 @@
 * JEP 291: Deprecate the Concurrent Mark Sweep (CMS) Garbage Collector
   * http://openjdk.java.net/jeps/291
 
+## JDK 9
+* JDK 9
+  * http://openjdk.java.net/projects/jdk9/
+* Java SE 9 Platform Umbrella JSR (379)
+  * http://openjdk.java.net/projects/jdk9/spec/
+
 ## Wikipedia
 * Constant interface
   * https://en.wikipedia.org/wiki/Constant_interface
