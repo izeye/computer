@@ -228,6 +228,10 @@
   * http://openjdk.java.net/jeps/122
 * JEP 156: G1 GC: Reduce need for full GCs
   * http://openjdk.java.net/jeps/156
+* JEP 173: Retire Some Rarely-Used GC Combinations
+  * http://openjdk.java.net/jeps/173
+* JEP 214: Remove GC Combinations Deprecated in JDK 8
+  * http://openjdk.java.net/jeps/214
 * JEP 248: Make G1 the Default Garbage Collector
   * http://openjdk.java.net/jeps/248
 * JEP 291: Deprecate the Concurrent Mark Sweep (CMS) Garbage Collector
