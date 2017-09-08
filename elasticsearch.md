@@ -24,6 +24,10 @@
 * Scroll
   * https://www.elastic.co/guide/en/elasticsearch/reference/2.3/search-request-scroll.html
 
+### Mapping
+* Mapping
+  * https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html
+
 ### Modules
 * Network Settings
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-network.html
