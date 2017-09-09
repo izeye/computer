@@ -94,6 +94,10 @@
 * Solving Fat JAR Woes at HubSpot
   * https://www.infoq.com/news/2016/08/fatjars-woes-at-hubspot
 
+### GC
+* Garbage Collectors - Serial vs. Parallel vs. CMS vs. G1 (and what’s new in Java 8)
+  * http://blog.takipi.com/garbage-collectors-serial-vs-parallel-vs-cms-vs-the-g1-and-whats-new-in-java-8/
+
 ### Handlebars.java
 * Using Handlebars Java as a Server Side Templating Language
   * https://dzone.com/articles/using-handlebars-java-as-a-server-side-templating
