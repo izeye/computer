@@ -234,6 +234,10 @@
   * http://openjdk.java.net/jeps/214
 * JEP 248: Make G1 the Default Garbage Collector
   * http://openjdk.java.net/jeps/248
+* JEP 271: Unified GC Logging
+  * http://openjdk.java.net/jeps/271
+* JEP 278: Additional Tests for Humongous Objects in G1
+  * http://openjdk.java.net/jeps/278
 * JEP 291: Deprecate the Concurrent Mark Sweep (CMS) Garbage Collector
   * http://openjdk.java.net/jeps/291
 
