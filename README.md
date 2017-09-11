@@ -8,6 +8,8 @@
 ### InfoQ
 * gRPC 101 for Spring Developers
   * https://www.infoq.com/presentations/spring-grpc
+* Hire Education - Making Interviews Rock
+  * https://www.infoq.com/presentations/job-interview-tips
 
 ### JavaOne
 * Core Software Design Principles
