@@ -190,13 +190,14 @@
 ### G1 GC
 * Getting Started with the G1 Garbage Collector
   * http://www.oracle.com/technetwork/tutorials/tutorials-1876574.html
-
 * The Garbage-First Garbage Collector
   * http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html
 
 ### Java Platform, Standard Edition HotSpot Virtual Machine Garbage Collection Tuning Guide
 * 9 Garbage-First Garbage Collector
   * https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/g1_gc.html
+* 10 Garbage-First Garbage Collector Tuning
+  * https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/g1_gc_tuning.html
 
 ### Java Platform, Standard Edition Java Scripting Programmer's Guide
 * 2 The Java Scripting API
