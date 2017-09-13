@@ -20,6 +20,8 @@
   * https://www.youtube.com/watch?v=pqeJFYwnkjE
 
 ## Tutorials
+* Bloom Filters by Example
+  * https://llimllib.github.io/bloomfilter-tutorial/
 * Handlebars Tutorial
   * https://www.youtube.com/watch?v=4HuAnM6b2d8
 
