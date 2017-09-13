@@ -182,6 +182,10 @@
 * What is perpetual fallback license?
   * https://sales.jetbrains.com/hc/en-gb/articles/207240845-What-is-perpetual-fallback-license-
 
+## Tutorials
+* Bloom Filter in Java using Guava
+  * http://www.baeldung.com/guava-bloom-filter
+
 ## Java Bean Validation (JSR 303)
 * Getting started with Hibernate Validator
   * http://hibernate.org/validator/documentation/getting-started/
