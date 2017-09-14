@@ -11,6 +11,8 @@
     * https://vimeo.com/205223073
 
 ### InfoQ
+* Deep Dive into G1 Garbage Collector
+  * https://www.infoq.com/presentations/java-g1
 * Nashorn - Native JavaScript Support in Java 8
   * https://www.infoq.com/presentations/nashorn-java8
 * Preparing Your Code for JDK 9
