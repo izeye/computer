@@ -37,6 +37,11 @@
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-store.html
 
 ## Elasticsearch: The Definitive Guide
+### Getting Started
+#### Inside a Shard
+* Segment Merging
+  * https://www.elastic.co/guide/en/elasticsearch/guide/current/merge-process.html
+
 ### Search in Depth
 #### Structured Search
 * Dealing with Null Values
