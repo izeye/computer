@@ -33,6 +33,8 @@
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-network.html
 
 ### Index Modules
+* Merge
+  * https://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-merge.html
 * Store
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-store.html
 
