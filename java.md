@@ -99,6 +99,8 @@
 ### GC
 * Garbage Collectors - Serial vs. Parallel vs. CMS vs. G1 (and what’s new in Java 8)
   * http://blog.takipi.com/garbage-collectors-serial-vs-parallel-vs-cms-vs-the-g1-and-whats-new-in-java-8/
+* Understanding G1 GC Logs
+  * https://blogs.oracle.com/poonam/understanding-g1-gc-logs
 
 ### Handlebars.java
 * Using Handlebars Java as a Server Side Templating Language
