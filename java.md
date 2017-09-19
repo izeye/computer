@@ -209,6 +209,8 @@
 #### Oracle JDK 9 Documentation Early Access
 * 9 Garbage-First Garbage Collector
   * https://docs.oracle.com/javase/9/gctuning/garbage-first-garbage-collector.htm
+* 10 Garbage-First Garbage Collector Tuning
+  * https://docs.oracle.com/javase/9/gctuning/garbage-first-garbage-collector-tuning.htm
 
 ### Java Platform, Standard Edition Java Scripting Programmer's Guide
 * 2 The Java Scripting API
