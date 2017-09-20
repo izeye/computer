@@ -28,6 +28,10 @@
 * Mapping
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html
 
+#### Mapping parameters
+* doc_values
+  * https://www.elastic.co/guide/en/elasticsearch/reference/current/doc-values.html
+
 ### Modules
 * Network Settings
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-network.html
