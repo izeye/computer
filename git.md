@@ -5,6 +5,8 @@
   * https://www.youtube.com/watch?v=C6MGKHkNtxU
 
 ### Blogs
+* A Note About Git Commit Messages
+  * http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 * Branch and Tag Labels For Commit Pages
   * https://github.com/blog/1451-branch-and-tag-labels-for-commit-pages
 
