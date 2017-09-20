@@ -13,6 +13,8 @@
   * https://en.wikipedia.org/wiki/Common_subexpression_elimination
 * Copy propagation
   * https://en.wikipedia.org/wiki/Copy_propagation
+* Garbage-first collector
+  * https://en.wikipedia.org/wiki/Garbage-first_collector
 * Generative adversarial networks
   * https://en.wikipedia.org/wiki/Generative_adversarial_networks
 * Global value numbering
