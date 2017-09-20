@@ -173,6 +173,8 @@
   * https://www.infoq.com/articles/G1-One-Garbage-Collector-To-Rule-Them-All
 * Happy New Year, Java: A Look Back at Java's 21st Birthday
   * https://dzone.com/articles/happy-new-year-java-a-look-back-at-javas-21st-birthday
+* Java 9’s new garbage collector: What’s changing? What’s staying?
+  * https://jaxenter.com/java-9s-new-garbage-collector-whats-changing-whats-staying-118313.html
 * Java Garbage Collectors: When Will G1GC Force CMS Out?
   * https://dzone.com/articles/java-garbage-collectors-when-will-g1gc-force-cms-out
 * Java Lambda Expressions vs Method References
