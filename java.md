@@ -169,6 +169,8 @@
 ## Articles
 * ClassNotFoundException vs. NoClassDefFoundError
   * https://dzone.com/articles/java-classnotfoundexception-vs-noclassdeffounderro
+* G1: One Garbage Collector To Rule Them All
+  * https://www.infoq.com/articles/G1-One-Garbage-Collector-To-Rule-Them-All
 * Happy New Year, Java: A Look Back at Java's 21st Birthday
   * https://dzone.com/articles/happy-new-year-java-a-look-back-at-javas-21st-birthday
 * Java Garbage Collectors: When Will G1GC Force CMS Out?
