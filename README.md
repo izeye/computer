@@ -75,6 +75,8 @@
   * http://gafter.blogspot.kr/2006/12/super-type-tokens.html
 * The Pretentious Haskell Phase
   * http://www.virtuouscode.com/2017/04/04/the-pretentious-haskell-phase/
+* Third-Party Cookies Explained
+  * http://www.ravelrumba.com/blog/third-party-cookies/
 
 ## Misc.
 * A cartoon intro to WebAssembly
