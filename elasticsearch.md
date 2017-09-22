@@ -104,5 +104,7 @@
   * https://www.elastic.co/guide/en/x-pack/current/installing-xpack.html
 
 ## Blogs
+* A Heap of Trouble
+  * https://www.elastic.co/blog/a-heap-of-trouble
 * How to resolve unassigned shards in Elasticsearch
   * https://www.datadoghq.com/blog/elasticsearch-unassigned-shards/
