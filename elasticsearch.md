@@ -31,6 +31,8 @@
 #### Mapping parameters
 * doc_values
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/doc-values.html
+* fielddata
+  * https://www.elastic.co/guide/en/elasticsearch/reference/current/fielddata.html
 
 ### Modules
 * Network Settings
