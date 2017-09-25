@@ -110,3 +110,5 @@
   * https://www.elastic.co/blog/a-heap-of-trouble
 * How to resolve unassigned shards in Elasticsearch
   * https://www.datadoghq.com/blog/elasticsearch-unassigned-shards/
+* Support in the Wild: My Biggest Elasticsearch Problem at Scale
+  * https://www.elastic.co/blog/support-in-the-wild-my-biggest-elasticsearch-problem-at-scale
