@@ -71,6 +71,8 @@
   * http://www.thinkfu.com/blog/gifjavascript-polyglots
 * Hello, Hexagonal Architecture
   * https://dzone.com/articles/hello-hexagonal-architecture-1
+* Page Cache, the Affair Between Memory and Files
+  * http://duartes.org/gustavo/blog/post/page-cache-the-affair-between-memory-and-files/
 * Super Type Tokens
   * http://gafter.blogspot.kr/2006/12/super-type-tokens.html
 * The Pretentious Haskell Phase
