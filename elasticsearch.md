@@ -108,6 +108,8 @@
 ## Blogs
 * A Heap of Trouble
   * https://www.elastic.co/blog/a-heap-of-trouble
+* Disk-Based Field Data a.k.a. Doc Values
+  * https://www.elastic.co/blog/disk-based-field-data-a-k-a-doc-values
 * How to resolve unassigned shards in Elasticsearch
   * https://www.datadoghq.com/blog/elasticsearch-unassigned-shards/
 * Support in the Wild: My Biggest Elasticsearch Problem at Scale
