@@ -14,6 +14,8 @@
 ### InfoQ
 * High Level Plans for Spring 4.3 and 5.0 Announced at SpringOne2GX
   * https://www.infoq.com/news/2015/09/spring-43-5
+* Spring and Big Data
+  * https://www.infoq.com/presentations/big-data-spring
 
 ## Javadoc
 * org.springframework.context.annotation.Bean
