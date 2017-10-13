@@ -14,8 +14,6 @@
 ### InfoQ
 * High Level Plans for Spring 4.3 and 5.0 Announced at SpringOne2GX
   * https://www.infoq.com/news/2015/09/spring-43-5
-* Spring and Big Data
-  * https://www.infoq.com/presentations/big-data-spring
 
 ## Javadoc
 * org.springframework.context.annotation.Bean
@@ -24,5 +22,10 @@
   * https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/Configuration.html
 
 ## Presentations
+### InfoQ
+* Spring and Big Data
+  * https://www.infoq.com/presentations/big-data-spring
+* Spring for Apache Kafka
+  * https://www.infoq.com/presentations/spring-apache-kafka
 * Spring Framework 5 - Preview & Roadmap
   * https://www.infoq.com/presentations/spring-framework-5
