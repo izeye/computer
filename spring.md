@@ -29,3 +29,5 @@
   * https://www.infoq.com/presentations/spring-apache-kafka
 * Spring Framework 5 - Preview & Roadmap
   * https://www.infoq.com/presentations/spring-framework-5
+* Spring MVC 4 Web Apps
+  * https://www.infoq.com/presentations/spring4-web-development
