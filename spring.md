@@ -23,6 +23,8 @@
 
 ## Presentations
 ### InfoQ
+* A Spring Developer's Guide to Social Integration
+  * https://www.infoq.com/presentations/spring-social-integration
 * Spring and Big Data
   * https://www.infoq.com/presentations/big-data-spring
 * Spring for Apache Kafka
