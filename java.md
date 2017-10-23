@@ -21,6 +21,8 @@
   * https://www.infoq.com/presentations/upgrading-java9
 * Project Jigsaw in JDK 9: Modularity Comes To Java
   * https://www.infoq.com/presentations/jigsaw-jdk-9
+* Reactor 3.0, a JVM Foundation for Java 8 and Reactive Streams
+  * https://www.infoq.com/presentations/reactor-3-java8
 * Understanding HotSpot JVM Performance with JITWatch
   * https://www.infoq.com/presentations/jitwatch
 
