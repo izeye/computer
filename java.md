@@ -13,6 +13,8 @@
 ### InfoQ
 * Deep Dive into G1 Garbage Collector
   * https://www.infoq.com/presentations/java-g1
+* Generics and Java's Evolution
+  * https://www.infoq.com/presentations/java-generics
 * Java 9 - The (G1) GC Awakens!
   * https://www.infoq.com/presentations/g1-jdk-9
 * Nashorn - Native JavaScript Support in Java 8
