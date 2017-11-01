@@ -10,6 +10,8 @@
   * https://www.infoq.com/presentations/spring-grpc
 * Hire Education - Making Interviews Rock
   * https://www.infoq.com/presentations/job-interview-tips
+* React Native: A Better Way To Do Mobile
+  * https://www.infoq.com/presentations/react-native
 
 ### JavaOne
 * Core Software Design Principles
