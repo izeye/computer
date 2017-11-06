@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-10-02
+  * Spring For Apache Kafka 2.0 GA Available
+    * https://spring.io/blog/2017/10/02/spring-for-apache-kafka-2-0-ga-available
 * 2017-07-27
   * Spring Boot 1.5.6 available now
     * https://spring.io/blog/2017/07/27/spring-boot-1-5-6-available-now
