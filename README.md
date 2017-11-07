@@ -6,12 +6,16 @@
   * https://www.youtube.com/watch?v=v1XIcgFUIEw&feature=youtu.be&list=PLEx5khR4g7PKoaARvtC9b2xLcnX_lKgHS
 
 ### InfoQ
+* Developing a Geospatial Webservice with Kotlin and Spring Boot
+  * https://www.infoq.com/presentations/geospatial-kotlin-boot
 * gRPC 101 for Spring Developers
   * https://www.infoq.com/presentations/spring-grpc
 * Hire Education - Making Interviews Rock
   * https://www.infoq.com/presentations/job-interview-tips
 * React Native: A Better Way To Do Mobile
   * https://www.infoq.com/presentations/react-native
+* The Kotlin Programming Language
+  * https://www.infoq.com/presentations/The-Kotlin-Programming-Language
 
 ### JavaOne
 * Core Software Design Principles
