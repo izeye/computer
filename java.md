@@ -17,6 +17,8 @@
   * https://www.infoq.com/presentations/java-generics
 * Java 9 - The (G1) GC Awakens!
   * https://www.infoq.com/presentations/g1-jdk-9
+* Java Performance Engineer's Survival Guide
+  * https://www.infoq.com/presentations/java-performance-guide
 * Nashorn - Native JavaScript Support in Java 8
   * https://www.infoq.com/presentations/nashorn-java8
 * Preparing Your Code for JDK 9
