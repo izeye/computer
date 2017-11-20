@@ -11,6 +11,8 @@
     * https://vimeo.com/205223073
 
 ### InfoQ
+* Cloud Native Java
+  * https://www.infoq.com/presentations/spring-boot-cloud-case-study
 * Deep Dive into G1 Garbage Collector
   * https://www.infoq.com/presentations/java-g1
 * Generics and Java's Evolution
