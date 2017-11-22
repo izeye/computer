@@ -12,6 +12,8 @@
   * https://www.infoq.com/presentations/geospatial-kotlin-boot
 * gRPC 101 for Spring Developers
   * https://www.infoq.com/presentations/spring-grpc
+* GraphQL for All? A Few Things to Think about before Blindly Dumping REST for GraphQL
+  * https://www.infoq.com/presentations/api-rest-graphql
 * Hire Education - Making Interviews Rock
   * https://www.infoq.com/presentations/job-interview-tips
 * Practical Blockchains: Building on Bitcoin
