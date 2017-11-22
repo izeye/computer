@@ -17,6 +17,8 @@
   * https://www.infoq.com/presentations/java-g1
 * Generics and Java's Evolution
   * https://www.infoq.com/presentations/java-generics
+* It Is Possible to Do Object-Oriented Programming in Java
+  * https://www.infoq.com/presentations/It-Is-Possible-to-Do-OOP-in-Java
 * Java 9 - The (G1) GC Awakens!
   * https://www.infoq.com/presentations/g1-jdk-9
 * Java Performance Engineer's Survival Guide
