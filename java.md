@@ -21,6 +21,8 @@
   * https://www.infoq.com/presentations/It-Is-Possible-to-Do-OOP-in-Java
 * Java 9 - The (G1) GC Awakens!
   * https://www.infoq.com/presentations/g1-jdk-9
+* Java Futures: Modules and More
+  * https://www.infoq.com/presentations/java-9-modules
 * Java Performance Engineer's Survival Guide
   * https://www.infoq.com/presentations/java-performance-guide
 * Nashorn - Native JavaScript Support in Java 8
