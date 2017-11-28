@@ -35,6 +35,8 @@
   * https://www.infoq.com/presentations/reactor-3-java8
 * Understanding HotSpot JVM Performance with JITWatch
   * https://www.infoq.com/presentations/jitwatch
+* Understanding Java Garbage Collection and What You Can Do about It
+  * https://www.infoq.com/presentations/Understanding-Java-Garbage-Collection
 
 ### JavaOne
 * JUnit5: Features, Architecture, and Extensibility
