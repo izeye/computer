@@ -35,6 +35,8 @@
   * https://www.infoq.com/presentations/java9-reactive-programming
 * Reactor 3.0, a JVM Foundation for Java 8 and Reactive Streams
   * https://www.infoq.com/presentations/reactor-3-java8
+* Testing Java Code With Confidence
+  * https://www.infoq.com/presentations/Testing-Java
 * Understanding HotSpot JVM Performance with JITWatch
   * https://www.infoq.com/presentations/jitwatch
 * Understanding Java Garbage Collection and What You Can Do about It
