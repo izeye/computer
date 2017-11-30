@@ -41,6 +41,8 @@
   * https://www.infoq.com/presentations/jitwatch
 * Understanding Java Garbage Collection and What You Can Do about It
   * https://www.infoq.com/presentations/Understanding-Java-Garbage-Collection
+* Understanding Parallel Stream Performance in Java SE 8
+  * https://www.infoq.com/presentations/parallel-java-se-8
 
 ### JavaOne
 * JUnit5: Features, Architecture, and Extensibility
