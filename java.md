@@ -21,6 +21,8 @@
   * https://www.infoq.com/presentations/It-Is-Possible-to-Do-OOP-in-Java
 * Java 9 - The (G1) GC Awakens!
   * https://www.infoq.com/presentations/g1-jdk-9
+* Java for Low Latency - You’ve Got to Be Joking!
+  * https://www.infoq.com/presentations/java-low-latency
 * Java Futures: Modules and More
   * https://www.infoq.com/presentations/java-9-modules
 * Java Performance Engineer's Survival Guide
