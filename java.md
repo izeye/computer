@@ -41,6 +41,8 @@
   * https://www.infoq.com/presentations/reactor-3-java8
 * Testing Java Code With Confidence
   * https://www.infoq.com/presentations/Testing-Java
+* The Quest for Low-latency with Concurrent Java
+  * https://www.infoq.com/presentations/low-latency-concurrrent-java-8
 * Understanding HotSpot JVM Performance with JITWatch
   * https://www.infoq.com/presentations/jitwatch
 * Understanding Java Garbage Collection and What You Can Do about It
