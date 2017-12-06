@@ -31,6 +31,8 @@
   * https://www.infoq.com/presentations/java-performance-guide
 * Nashorn - Native JavaScript Support in Java 8
   * https://www.infoq.com/presentations/nashorn-java8
+* Performance Testing in Java
+  * https://www.infoq.com/presentations/java-performance-testing
 * Preparing Your Code for JDK 9
   * https://www.infoq.com/presentations/upgrading-java9
 * Project Jigsaw in JDK 9: Modularity Comes To Java
