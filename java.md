@@ -29,6 +29,8 @@
   * https://www.infoq.com/presentations/java-9-modules
 * Java Performance Engineer's Survival Guide
   * https://www.infoq.com/presentations/java-performance-guide
+* Java vs. C Performance
+  * https://www.infoq.com/presentations/java-vs-c-performance
 * Nashorn - Native JavaScript Support in Java 8
   * https://www.infoq.com/presentations/nashorn-java8
 * Performance Testing in Java
