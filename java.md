@@ -31,6 +31,8 @@
   * https://www.infoq.com/presentations/java-performance-guide
 * Java vs. C Performance
   * https://www.infoq.com/presentations/java-vs-c-performance
+* Lambdas and Streams in Java 8
+  * https://www.infoq.com/presentations/java-8-lambda-streams
 * Nashorn - Native JavaScript Support in Java 8
   * https://www.infoq.com/presentations/nashorn-java8
 * Performance Testing in Java
