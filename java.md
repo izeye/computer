@@ -17,6 +17,8 @@
   * https://www.infoq.com/presentations/java-g1
 * Generics and Java's Evolution
   * https://www.infoq.com/presentations/java-generics
+* Improve Your Java with Groovy
+  * https://www.infoq.com/presentations/Improve-Your-Java-with-Groovy
 * It Is Possible to Do Object-Oriented Programming in Java
   * https://www.infoq.com/presentations/It-Is-Possible-to-Do-OOP-in-Java
 * Java 8 in Anger
@@ -33,8 +35,12 @@
   * https://www.infoq.com/presentations/java-vs-c-performance
 * Java.next
   * https://www.infoq.com/presentations/Java-next
+* JDK 8: Lessons Learnt with Lambdas and Streams
+  * https://www.infoq.com/presentations/java8-lambdas-streams
 * Lambdas and Streams in Java 8
   * https://www.infoq.com/presentations/java-8-lambda-streams
+* Low Latency Microservices in Java
+  * https://www.infoq.com/presentations/microservices-monolith
 * Nashorn - Native JavaScript Support in Java 8
   * https://www.infoq.com/presentations/nashorn-java8
 * Performance Testing in Java
