@@ -21,6 +21,8 @@
   * https://www.infoq.com/presentations/Improve-Your-Java-with-Groovy
 * It Is Possible to Do Object-Oriented Programming in Java
   * https://www.infoq.com/presentations/It-Is-Possible-to-Do-OOP-in-Java
+* Java (SE) State of the Union
+  * https://www.infoq.com/presentations/java-past-future-openjdk
 * Java 8 in Anger
   * https://www.infoq.com/presentations/java8-tutorial
 * Java 9 - The (G1) GC Awakens!
