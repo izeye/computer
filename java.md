@@ -19,6 +19,8 @@
   * https://www.infoq.com/presentations/java-generics
 * Improve Your Java with Groovy
   * https://www.infoq.com/presentations/Improve-Your-Java-with-Groovy
+* Introduction to Java Profiling
+  * https://www.infoq.com/presentations/java-profiling
 * It Is Possible to Do Object-Oriented Programming in Java
   * https://www.infoq.com/presentations/It-Is-Possible-to-Do-OOP-in-Java
 * Java (SE) State of the Union
@@ -27,6 +29,8 @@
   * https://www.infoq.com/presentations/java8-tutorial
 * Java 9 - The (G1) GC Awakens!
   * https://www.infoq.com/presentations/g1-jdk-9
+* Java 9 and Beyond
+  * https://www.infoq.com/presentations/java-9-10
 * Java for Low Latency - You’ve Got to Be Joking!
   * https://www.infoq.com/presentations/java-low-latency
 * Java Futures: Modules and More
