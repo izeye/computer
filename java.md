@@ -37,6 +37,8 @@
   * https://www.infoq.com/presentations/java-9-modules
 * Java Performance Engineer's Survival Guide
   * https://www.infoq.com/presentations/java-performance-guide
+* Java Puzzlers NG S02: down the Rabbit Hole
+  * https://www.infoq.com/presentations/java-puzzle
 * Java vs. C Performance
   * https://www.infoq.com/presentations/java-vs-c-performance
 * Java.next
@@ -59,6 +61,8 @@
   * https://www.infoq.com/presentations/java9-reactive-programming
 * Reactor 3.0, a JVM Foundation for Java 8 and Reactive Streams
   * https://www.infoq.com/presentations/reactor-3-java8
+* Real-World Java 9
+  * https://www.infoq.com/presentations/java9-flow-stream-api
 * Testing Java Code With Confidence
   * https://www.infoq.com/presentations/Testing-Java
 * The Quest for Low-latency with Concurrent Java
