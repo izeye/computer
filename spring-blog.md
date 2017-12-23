@@ -1,4 +1,7 @@
 # Spring Blog
+* 2017-11-28
+  * Spring REST Docs 2.0.0.RELEASE
+    * https://spring.io/blog/2017/11/28/spring-rest-docs-2-0-0-release
 * 2017-10-02
   * Spring For Apache Kafka 2.0 GA Available
     * https://spring.io/blog/2017/10/02/spring-for-apache-kafka-2-0-ga-available
