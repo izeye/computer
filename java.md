@@ -49,6 +49,8 @@
   * https://www.infoq.com/presentations/java-8-lambda-streams
 * Low Latency Microservices in Java
   * https://www.infoq.com/presentations/microservices-monolith
+* Micro Services: Java, the Unix Way
+  * https://www.infoq.com/presentations/Micro-Services
 * Nashorn - Native JavaScript Support in Java 8
   * https://www.infoq.com/presentations/nashorn-java8
 * Performance Testing in Java
