@@ -47,6 +47,8 @@
   * https://www.infoq.com/presentations/Java-next
 * JDK 8: Lessons Learnt with Lambdas and Streams
   * https://www.infoq.com/presentations/java8-lambdas-streams
+* Lambdas & Streams
+  * https://www.infoq.com/presentations/lambda-streams-java-8
 * Lambdas and Streams in Java 8
   * https://www.infoq.com/presentations/java-8-lambda-streams
 * Low Latency Microservices in Java
