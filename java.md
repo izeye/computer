@@ -15,6 +15,8 @@
   * https://www.infoq.com/presentations/spring-boot-cloud-case-study
 * Deep Dive into G1 Garbage Collector
   * https://www.infoq.com/presentations/java-g1
+* Extreme Performance with Java
+  * https://www.infoq.com/presentations/Extreme-Performance-Java
 * Generics and Java's Evolution
   * https://www.infoq.com/presentations/java-generics
 * Improve Your Java with Groovy
