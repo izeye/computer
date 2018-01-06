@@ -17,6 +17,8 @@
   * https://www.infoq.com/presentations/java-g1
 * Extreme Performance with Java
   * https://www.infoq.com/presentations/Extreme-Performance-Java
+* From Concurrent to Parallel
+  * https://www.infoq.com/presentations/tecniques-parallelism-java
 * Generics and Java's Evolution
   * https://www.infoq.com/presentations/java-generics
 * Improve Your Java with Groovy
