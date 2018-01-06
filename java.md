@@ -33,6 +33,8 @@
   * https://www.infoq.com/presentations/g1-jdk-9
 * Java 9 and Beyond
   * https://www.infoq.com/presentations/java-9-10
+* Java 9's Other Puzzle Pieces
+  * https://www.infoq.com/presentations/java9-improvements
 * Java at 20 and Where We Are Going
   * https://www.infoq.com/presentations/java-20
 * Java for Low Latency - You’ve Got to Be Joking!
