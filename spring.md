@@ -29,6 +29,8 @@
   * https://www.infoq.com/presentations/spring-boot-sleuth-elasticsearch-kibana
 * Spring and Big Data
   * https://www.infoq.com/presentations/big-data-spring
+* Spring Cloud with Consul and Vault
+  * https://www.infoq.com/presentations/spring-cloud-consul-vault
 * Spring for Apache Kafka
   * https://www.infoq.com/presentations/spring-apache-kafka
 * Spring Framework 5 - Preview & Roadmap
