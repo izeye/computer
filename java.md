@@ -153,6 +153,12 @@
 
 ## Blogs
 ### Concurrency
+* Immutability in Java
+  * http://jeremymanson.blogspot.kr/2008/04/immutability-in-java.html
+* Immutability in Java, Part 2
+  * http://jeremymanson.blogspot.kr/2008/07/immutability-in-java-part-2.html
+* Immutability in Java, Part 3: Deserialization and Reflection
+  * http://jeremymanson.blogspot.kr/2008/07/immutability-in-java-part-3.html
 * Introduction to CompletionStage and CompletableFuture
   * http://millross-consultants.com/completion-stage-future-introduction.html
 
