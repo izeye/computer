@@ -27,6 +27,8 @@
   * https://www.infoq.com/presentations/spring-social-integration
 * Let's Visualize Your Spring Boot Applications
   * https://www.infoq.com/presentations/spring-boot-sleuth-elasticsearch-kibana
+* Managing Secrets at Scale
+  * https://www.infoq.com/presentations/secrets-at-scale
 * Spring and Big Data
   * https://www.infoq.com/presentations/big-data-spring
 * Spring Cloud with Consul and Vault
