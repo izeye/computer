@@ -60,6 +60,17 @@
 * Working with BFCache
   * https://developer.mozilla.org/en-US/docs/Working_with_BFCache
 
+### osquery
+#### Introduction
+* Welcome to osquery
+  * https://osquery.readthedocs.io/en/stable/
+* osqueryi (shell)
+  * https://osquery.readthedocs.io/en/stable/introduction/using-osqueryi/
+* osqueryd (daemon)
+  * https://osquery.readthedocs.io/en/stable/introduction/using-osqueryd/
+* SQL Introduction
+  * https://osquery.readthedocs.io/en/stable/introduction/sql/
+
 ### SDKMAN!
 * Home
   * http://sdkman.io/
@@ -83,6 +94,8 @@
   * http://www.thinkfu.com/blog/gifjavascript-polyglots
 * Hello, Hexagonal Architecture
   * https://dzone.com/articles/hello-hexagonal-architecture-1
+* Introducing osquery
+  * https://code.facebook.com/posts/844436395567983/introducing-osquery/
 * Page Cache, the Affair Between Memory and Files
   * http://duartes.org/gustavo/blog/post/page-cache-the-affair-between-memory-and-files/
 * Super Type Tokens
