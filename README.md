@@ -140,3 +140,6 @@
 * In the internet’s darkest time, people are finding solace in Netflix
   * http://www.polygon.com/2017/2/28/14766584/amazon-s3-server-outage-netflix-working
 
+## xkcd
+* ISO 8601
+  * https://xkcd.com/1179/
