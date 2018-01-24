@@ -10,6 +10,8 @@
   * https://www.infoq.com/presentations/concourse-cd-ci
 * Developing a Geospatial Webservice with Kotlin and Spring Boot
   * https://www.infoq.com/presentations/geospatial-kotlin-boot
+* Easier, Better, Faster, Safer Deployment with Docker and Immutable Containers
+  * https://www.infoq.com/presentations/immutable-servers-docker
 * gRPC 101 for Spring Developers
   * https://www.infoq.com/presentations/spring-grpc
 * GraphQL for All? A Few Things to Think about before Blindly Dumping REST for GraphQL
