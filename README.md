@@ -118,6 +118,8 @@
   * https://theoutline.com/post/1166/programmers-are-confessing-their-coding-sins-to-protest-a-broken-job-interview-process
 * The 5 laws of API dates and times
   * http://apiux.com/2013/03/20/5-laws-api-dates-and-times/
+* The Bitcoin Design Pattern [Comic]
+  * https://dzone.com/articles/the-bitcoin-design-pattern-comic
 * The War for Port 80 [Comic]
   * https://dzone.com/articles/the-war-for-port-80-comic
 * Understanding CORS
