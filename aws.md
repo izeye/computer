@@ -2,6 +2,8 @@
 ## Home
 * Amazon EC2 Spot Instances
   * https://aws.amazon.com/ec2/spot/
+* AWS Lambda
+  * https://aws.amazon.com/lambda/
 * Serverless Computing and Applications
   * https://aws.amazon.com/serverless/
 
