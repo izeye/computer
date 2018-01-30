@@ -6,6 +6,8 @@
   * https://www.youtube.com/watch?v=v1XIcgFUIEw&feature=youtu.be&list=PLEx5khR4g7PKoaARvtC9b2xLcnX_lKgHS
 
 ### InfoQ
+* Agility in Containers: How Work Evolves with Docker
+  * https://www.infoq.com/presentations/containers-docker-organization
 * Continuous Delivery for Microservice Architectures with Concourse & Cloud Foundry
   * https://www.infoq.com/presentations/concourse-cd-ci
 * Developing a Geospatial Webservice with Kotlin and Spring Boot
