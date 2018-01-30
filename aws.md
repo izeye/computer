@@ -2,6 +2,8 @@
 ## Home
 * Amazon EC2 Spot Instances
   * https://aws.amazon.com/ec2/spot/
+* AWS Elastic Beanstalk
+  * https://aws.amazon.com/elasticbeanstalk/
 * AWS Lambda
   * https://aws.amazon.com/lambda/
 * AWS Quick Starts - Pivotal Cloud Foundry on AWS
