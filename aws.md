@@ -10,13 +10,17 @@
   * https://aws.amazon.com/serverless/
 
 ## AWS Elastic Beanstalk
-### Documentation
+### Home
 * AWS Elastic Beanstalk
   * https://aws.amazon.com/elasticbeanstalk/
 * AWS Elastic Beanstalk Product Details
   * https://aws.amazon.com/elasticbeanstalk/details/
 * AWS Elastic Beanstalk Pricing
   * https://aws.amazon.com/elasticbeanstalk/pricing/
+
+### Developer Guide
+* What Is AWS Elastic Beanstalk?
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
 
 ## AWS Lambda
 ### Tutorials
