@@ -20,6 +20,8 @@
   * https://www.infoq.com/presentations/api-rest-graphql
 * Hire Education - Making Interviews Rock
   * https://www.infoq.com/presentations/job-interview-tips
+* Is Docker Dead?
+  * https://www.infoq.com/presentations/docker-serverless
 * Practical Blockchains: Building on Bitcoin
   * https://www.infoq.com/presentations/blockchain-bitcoin
 * React Native: A Better Way To Do Mobile
