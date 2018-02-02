@@ -54,6 +54,10 @@
 * What is a Container
   * https://www.docker.com/what-container
 
+### Chart.js
+* Chart.js
+  * http://www.chartjs.org/docs/latest/
+
 ### Microsoft
 * Understanding user-agent strings
   * https://msdn.microsoft.com/en-us/library/ms537503(v=vs.85).aspx
