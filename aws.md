@@ -21,6 +21,8 @@
 ### Developer Guide
 * What Is AWS Elastic Beanstalk?
   * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
+* Getting Started Using Elastic Beanstalk
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html
 
 ## AWS Lambda
 ### Tutorials
