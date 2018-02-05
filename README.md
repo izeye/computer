@@ -12,6 +12,8 @@
   * https://www.infoq.com/presentations/concourse-cd-ci
 * Developing a Geospatial Webservice with Kotlin and Spring Boot
   * https://www.infoq.com/presentations/geospatial-kotlin-boot
+* Docker vs PaaS: May the Best Container Win
+  * https://www.infoq.com/presentations/paas-vs-docker
 * Easier, Better, Faster, Safer Deployment with Docker and Immutable Containers
   * https://www.infoq.com/presentations/immutable-servers-docker
 * gRPC 101 for Spring Developers
