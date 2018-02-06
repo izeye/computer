@@ -59,6 +59,8 @@
 ### Chart.js
 * Chart.js
   * http://www.chartjs.org/docs/latest/
+* Mixed Chart Types
+  * http://www.chartjs.org/docs/latest/charts/mixed.html
 
 ### Microsoft
 * Understanding user-agent strings
