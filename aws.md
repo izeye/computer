@@ -28,3 +28,9 @@
 ### Tutorials
 * Technical Introduction to AWS Lambda - Serverless Compute on AWS
   * https://www.youtube.com/watch?v=QzipnZzAQEk
+
+## Blogs
+### AWS DevOps Blog
+* Deploying a Spring Boot Application on AWS Using AWS Elastic Beanstalk
+  * https://aws.amazon.com/blogs/devops/deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk/
+
