@@ -24,6 +24,13 @@
 * Getting Started Using Elastic Beanstalk
   * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html
 
+## Amazon Simple Storage Service
+### Developer Guide
+* What Is Amazon S3?
+  * https://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
+* Introduction to Amazon S3
+  * https://docs.aws.amazon.com/AmazonS3/latest/dev/Introduction.html
+
 ## AWS Lambda
 ### Tutorials
 * Technical Introduction to AWS Lambda - Serverless Compute on AWS
