@@ -34,3 +34,7 @@
 * Deploying a Spring Boot Application on AWS Using AWS Elastic Beanstalk
   * https://aws.amazon.com/blogs/devops/deploying-a-spring-boot-application-on-aws-using-aws-elastic-beanstalk/
 
+## Tutorials
+### Baeldung
+* AWS S3 with Java
+  * http://www.baeldung.com/aws-s3-java
