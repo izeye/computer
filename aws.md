@@ -23,6 +23,8 @@
   * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
 * Getting Started Using Elastic Beanstalk
   * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html
+* AWS Elastic Beanstalk Concepts
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.html
 
 ## Amazon Simple Storage Service
 ### Developer Guide
