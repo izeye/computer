@@ -55,5 +55,7 @@
   * https://en.wikipedia.org/wiki/Super-server
 * vmstat
   * https://en.wikipedia.org/wiki/Vmstat
+* Webhook
+  * https://en.wikipedia.org/wiki/Webhook
 * X-Forwarded-For
   * https://en.wikipedia.org/wiki/X-Forwarded-For
