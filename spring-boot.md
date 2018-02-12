@@ -6,3 +6,8 @@
 
 ## GitHub
 * https://github.com/spring-projects/spring-boot/blob/master/README.adoc
+
+## Presentations
+### InfoQ
+* What's New in Spring Boot 2.0
+  * https://www.infoq.com/presentations/spring-boot-2
