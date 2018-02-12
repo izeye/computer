@@ -62,6 +62,10 @@
 * Mixed Chart Types
   * http://www.chartjs.org/docs/latest/charts/mixed.html
 
+### Telegram
+* Bots: An introduction for developers
+  * https://core.telegram.org/bots
+
 ### Microsoft
 * Understanding user-agent strings
   * https://msdn.microsoft.com/en-us/library/ms537503(v=vs.85).aspx
