@@ -1,4 +1,7 @@
 # Spring Blog
+* 2018-01-31
+  * Spring Boot 1.5.10 available now
+    * https://spring.io/blog/2018/01/31/spring-boot-1-5-10-available-now
 * 2017-11-28
   * Spring REST Docs 2.0.0.RELEASE
     * https://spring.io/blog/2017/11/28/spring-rest-docs-2-0-0-release
