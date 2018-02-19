@@ -162,6 +162,10 @@
 * Introduction to CompletionStage and CompletableFuture
   * http://millross-consultants.com/completion-stage-future-introduction.html
 
+### Constructor Injection
+* Why field injection is evil
+  * http://olivergierke.de/2013/11/why-field-injection-is-evil/
+
 ### Fat JAR
 * Solving Fat JAR Woes at HubSpot
   * https://www.infoq.com/news/2016/08/fatjars-woes-at-hubspot
