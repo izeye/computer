@@ -152,6 +152,10 @@
   * https://www.youtube.com/watch?v=I9hf-HUxQiA
 
 ## Blogs
+### Array
+* Arrays of Wisdom of the Ancients
+  * https://shipilev.net/blog/2016/arrays-wisdom-ancients/
+
 ### Concurrency
 * Immutability in Java
   * http://jeremymanson.blogspot.kr/2008/04/immutability-in-java.html
