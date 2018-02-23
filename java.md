@@ -245,6 +245,8 @@
 ## Articles
 * ClassNotFoundException vs. NoClassDefFoundError
   * https://dzone.com/articles/java-classnotfoundexception-vs-noclassdeffounderro
+* Dealing with InterruptedException
+  * https://www.ibm.com/developerworks/library/j-jtp05236/
 * G1: One Garbage Collector To Rule Them All
   * https://www.infoq.com/articles/G1-One-Garbage-Collector-To-Rule-Them-All
 * Happy New Year, Java: A Look Back at Java's 21st Birthday
