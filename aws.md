@@ -90,6 +90,11 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
 * Technical Introduction to AWS Lambda - Serverless Compute on AWS
   * https://www.youtube.com/watch?v=QzipnZzAQEk
 
+## AWS Quick Starts
+* Git Webhooks with AWS services
+  * https://aws.amazon.com/quickstart/architecture/git-to-s3-using-webhooks/
+  * https://s3.amazonaws.com/quickstart-reference/git2s3/latest/doc/git-to-amazon-s3-using-webhooks.pdf
+
 ## Blogs
 ### AWS DevOps Blog
 * Deploying a Spring Boot Application on AWS Using AWS Elastic Beanstalk
