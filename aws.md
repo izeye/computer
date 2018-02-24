@@ -52,12 +52,31 @@
   * https://aws.amazon.com/elasticbeanstalk/pricing/
 
 ### Developer Guide
+#### What Is AWS Elastic Beanstalk?
 * What Is AWS Elastic Beanstalk?
   * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
+
+#### Getting Started
 * Getting Started Using Elastic Beanstalk
   * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html
+
+#### Concepts
 * AWS Elastic Beanstalk Concepts
   * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.html
+
+#### Advanced Configuration
+##### .ebextensions
+Advanced Environment Customization with Configuration Files (.ebextensions)
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
+
+#### Integrating AWS Services
+##### Amazon S3
+* Using Elastic Beanstalk with Amazon Simple Storage Service
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.S3.html
+
+#### Working with Java
+* Creating and Deploying Java Applications on AWS Elastic Beanstalk
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Java.html
 
 ## Amazon Simple Storage Service
 ### Developer Guide
