@@ -14,6 +14,19 @@
 * AWS CodeDeploy
   * https://aws.amazon.com/codedeploy/
 
+## AWS CodePipeline
+### Home
+* AWS CodePipeline
+  * https://aws.amazon.com/codepipeline/
+* Product Details
+  * https://aws.amazon.com/codepipeline/details/
+* Getting Started
+  * https://aws.amazon.com/codepipeline/getting-started/
+
+### User Guide
+* What Is AWS CodePipeline?
+  * https://docs.aws.amazon.com/codepipeline/latest/userguide/welcome.html
+
 ## AWS Elastic Beanstalk
 ### Home
 * AWS Elastic Beanstalk
