@@ -9,6 +9,21 @@
 * Serverless Computing and Applications
   * https://aws.amazon.com/serverless/
 
+## AWS CodeBuild
+### Home
+* AWS CodeBuild
+  * https://aws.amazon.com/codebuild/
+
+### User Guide
+* What Is AWS CodeBuild?
+  * https://docs.aws.amazon.com/codebuild/latest/userguide/welcome.html
+* AWS CodeBuild Concepts
+  * https://docs.aws.amazon.com/codebuild/latest/userguide/concepts.html
+* Getting Started with AWS CodeBuild
+  * https://docs.aws.amazon.com/codebuild/latest/userguide/getting-started.html
+* AWS Elastic Beanstalk Sample for AWS CodeBuild
+  * https://docs.aws.amazon.com/codebuild/latest/userguide/sample-elastic-beanstalk.html
+
 ## AWS CodeDeploy
 ### Home
 * AWS CodeDeploy
