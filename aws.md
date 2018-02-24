@@ -9,6 +9,11 @@
 * Serverless Computing and Applications
   * https://aws.amazon.com/serverless/
 
+## AWS CodeDeploy
+### Home
+* AWS CodeDeploy
+  * https://aws.amazon.com/codedeploy/
+
 ## AWS Elastic Beanstalk
 ### Home
 * AWS Elastic Beanstalk
