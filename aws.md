@@ -78,6 +78,14 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
 * Creating and Deploying Java Applications on AWS Elastic Beanstalk
   * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Java.html
 
+##### The Java SE Platform
+* Using the AWS Elastic Beanstalk Java SE Platform
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/java-se-platform.html
+
+###### Procfile
+* Configuring the Application Process with a Procfile
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/java-se-procfile.html
+
 ## Amazon Simple Storage Service
 ### Developer Guide
 * What Is Amazon S3?
