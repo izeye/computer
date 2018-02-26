@@ -86,6 +86,14 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
 * Configuring the Application Process with a Procfile
   * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/java-se-procfile.html
 
+## Amazon Relational Database Service
+### User Guide
+#### Using Amazon RDS with Amazon VPC
+* Amazon Virtual Private Cloud (VPCs) and Amazon RDS
+  * https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.html
+* Determining Whether You Are Using the EC2-VPC or EC2-Classic Platform
+  * https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.FindDefaultVPC.html
+
 ## Amazon Simple Storage Service
 ### Developer Guide
 * What Is Amazon S3?
