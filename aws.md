@@ -88,11 +88,19 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
 
 ## Amazon Relational Database Service
 ### User Guide
+#### What Is Amazon RDS?
+* What Is Amazon Relational Database Service (Amazon RDS)?
+  * https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html
+
 #### Using Amazon RDS with Amazon VPC
 * Amazon Virtual Private Cloud (VPCs) and Amazon RDS
   * https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.html
 * Determining Whether You Are Using the EC2-VPC or EC2-Classic Platform
   * https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.FindDefaultVPC.html
+
+#### Amazon Aurora
+* Amazon Aurora on Amazon RDS
+  * https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Aurora.html
 
 ## Amazon Simple Storage Service
 ### Developer Guide
