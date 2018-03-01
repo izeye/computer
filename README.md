@@ -153,6 +153,8 @@
   * https://www.w3.org/Security/wiki/Same_Origin_Policy
 
 ## Misc.
+* THE SPEED-UP LOOP
+  * https://thedailywtf.com/articles/The-Speedup-Loop
 * ZooKeeper Getting Started Guide
   * https://zookeeper.apache.org/doc/r3.4.8/zookeeperStarted.html
 
