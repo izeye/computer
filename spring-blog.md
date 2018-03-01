@@ -1,4 +1,7 @@
 # Spring Blog
+* 2018-03-01
+  * Spring Boot 2.0 goes GA
+    * https://spring.io/blog/2018/03/01/spring-boot-2-0-goes-ga
 * 2018-01-31
   * Spring Boot 1.5.10 available now
     * https://spring.io/blog/2018/01/31/spring-boot-1-5-10-available-now
