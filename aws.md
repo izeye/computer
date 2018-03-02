@@ -102,6 +102,11 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
 * Amazon Aurora on Amazon RDS
   * https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Aurora.html
 
+## Amazon Simple Email Service
+### Home
+* Amazon Simple Email Service
+  * https://aws.amazon.com/ses/
+
 ## Amazon Simple Storage Service
 ### Developer Guide
 * What Is Amazon S3?
