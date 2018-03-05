@@ -29,6 +29,8 @@
   * https://www.infoq.com/presentations/spring-boot-sleuth-elasticsearch-kibana
 * Managing Secrets at Scale
   * https://www.infoq.com/presentations/secrets-at-scale
+* Serverless Spring
+  * https://www.infoq.com/presentations/spring-cloud-function
 * Spring and Big Data
   * https://www.infoq.com/presentations/big-data-spring
 * Spring Cloud with Consul and Vault
