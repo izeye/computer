@@ -23,6 +23,8 @@
   * https://www.infoq.com/presentations/java-generics
 * Improve Your Java with Groovy
   * https://www.infoq.com/presentations/Improve-Your-Java-with-Groovy
+* Introducing Micrometer Application Metrics
+  * https://www.infoq.com/presentations/micrometer
 * Introduction to Java Profiling
   * https://www.infoq.com/presentations/java-profiling
 * It Is Possible to Do Object-Oriented Programming in Java
