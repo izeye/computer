@@ -28,6 +28,8 @@
   * https://www.infoq.com/presentations/blockchain-bitcoin
 * React Native: A Better Way To Do Mobile
   * https://www.infoq.com/presentations/react-native
+* Service-Oriented Development
+  * https://www.infoq.com/presentations/service-oriented-development
 * The Kotlin Programming Language
   * https://www.infoq.com/presentations/The-Kotlin-Programming-Language
 
