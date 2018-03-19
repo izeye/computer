@@ -179,6 +179,8 @@
 ### GC
 * Garbage Collectors - Serial vs. Parallel vs. CMS vs. G1 (and what’s new in Java 8)
   * http://blog.takipi.com/garbage-collectors-serial-vs-parallel-vs-cms-vs-the-g1-and-whats-new-in-java-8/
+* Java GC, HotSpot's CMS promotion buffers
+  * http://blog.ragozin.info/2011/11/java-gc-hotspots-cms-promotion-buffers.html
 * Understanding G1 GC Logs
   * https://blogs.oracle.com/poonam/understanding-g1-gc-logs
 
