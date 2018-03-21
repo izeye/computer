@@ -27,6 +27,7 @@
 * org.ta4j.core.analysis.criteria.AverageProfitableTradesCriterion
 * org.ta4j.core.analysis.criteria.VersusBuyAndHoldCriterion
 * org.ta4j.core.analysis.criteria.RewardRiskRatioCriterion
+* org.ta4j.core.analysis.criteria.TotalProfitCriterion
 * org.ta4j.core.indicators.AbstractEMAIndicator
 * org.ta4j.core.indicators.AbstractIndicator
 * org.ta4j.core.indicators.CachedIndicator
