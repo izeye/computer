@@ -12,6 +12,8 @@
 		* https://ta4j.github.io/ta4j-wiki/Technical-indicators.html
 	* Trading Strategies
 		* https://ta4j.github.io/ta4j-wiki/Trading-strategies.html
+	* Backtesting
+		* https://ta4j.github.io/ta4j-wiki/Backtesting.html
 * Contributing
 	* How to Contribute
 		* https://ta4j.github.io/ta4j-wiki/How-to-contribute
