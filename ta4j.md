@@ -8,8 +8,8 @@
 		* https://ta4j.github.io/ta4j-wiki/Getting-started.html
 	* Time Series and Bars
 		* https://ta4j.github.io/ta4j-wiki/Time-series-and-bars.html
-  * Technical Indicators
-    * https://ta4j.github.io/ta4j-wiki/Technical-indicators.html
+	* Technical Indicators
+		* https://ta4j.github.io/ta4j-wiki/Technical-indicators.html
 * Contributing
 	* How to Contribute
 		* https://ta4j.github.io/ta4j-wiki/How-to-contribute
