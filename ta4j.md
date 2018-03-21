@@ -10,6 +10,8 @@
 		* https://ta4j.github.io/ta4j-wiki/Time-series-and-bars.html
 	* Technical Indicators
 		* https://ta4j.github.io/ta4j-wiki/Technical-indicators.html
+	* Trading Strategies
+		* https://ta4j.github.io/ta4j-wiki/Trading-strategies.html
 * Contributing
 	* How to Contribute
 		* https://ta4j.github.io/ta4j-wiki/How-to-contribute
