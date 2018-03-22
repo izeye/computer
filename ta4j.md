@@ -21,6 +21,7 @@
 		* https://ta4j.github.io/ta4j-wiki/How-to-contribute
 
 ## Source
+### ta4j-core
 * org.ta4j.core.AnalysisCriterion
 * org.ta4j.core.BaseStrategy
 * org.ta4j.core.BaseTradingRecord
@@ -44,8 +45,16 @@
 * org.ta4j.core.indicators.RecursiveCachedIndicator
 * org.ta4j.core.indicators.SMAIndicator
 * org.ta4j.core.indicators.helpers.ClosePriceIndicator
+* org.ta4j.core.indicators.helpers.ConstantIndicator
 * org.ta4j.core.trading.rules.AbstractRule
 * org.ta4j.core.trading.rules.CrossedDownIndicatorRule
 * org.ta4j.core.trading.rules.CrossedUpIndicatorRule
+* org.ta4j.core.trading.rules.OverIndicatorRule
 * org.ta4j.core.trading.rules.StopGainRule
 * org.ta4j.core.trading.rules.StopLossRule
+* org.ta4j.core.trading.rules.UnderIndicatorRule
+
+### ta4j-examples
+* ta4jexamples.Quickstart
+* ta4jexamples.bots.TradingBotOnMovingTimeSeries
+* ta4jexamples.loaders.CsvTradesLoader
