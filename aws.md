@@ -66,13 +66,25 @@
 
 #### Advanced Configuration
 ##### .ebextensions
-Advanced Environment Customization with Configuration Files (.ebextensions)
-https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
+* Advanced Environment Customization with Configuration Files (.ebextensions)
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
 
 #### Integrating AWS Services
 ##### Amazon S3
 * Using Elastic Beanstalk with Amazon Simple Storage Service
   * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.S3.html
+
+#### The EB CLI
+* The Elastic Beanstalk Command Line Interface (EB CLI)
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3.html
+
+##### Install the EB CLI
+* Install the Elastic Beanstalk Command Line Interface (EB CLI)
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
+
+##### Configure the EB CLI
+* Configure the EB CLI
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-configuration.html
 
 #### Working with Java
 * Creating and Deploying Java Applications on AWS Elastic Beanstalk
