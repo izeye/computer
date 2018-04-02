@@ -69,6 +69,21 @@
 * Advanced Environment Customization with Configuration Files (.ebextensions)
   * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
 
+##### HTTPS
+* Configuring HTTPS for your Elastic Beanstalk Environment
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/configuring-https.html
+
+###### Create a Certificate
+* Create and Sign an X509 Certificate
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/configuring-https-ssl.html
+
+###### Terminate at the Instance
+* Configuring Your Application to Terminate HTTPS Connections at the Instance
+  * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/https-singleinstance.html
+* HTTPS on Java
+  * Terminating HTTPS on EC2 Instances Running Java SE
+    * https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/https-singleinstance-java.html
+
 #### Integrating AWS Services
 ##### Amazon S3
 * Using Elastic Beanstalk with Amazon Simple Storage Service
