@@ -115,6 +115,8 @@
   * https://www.elastic.co/blog/a-heap-of-trouble
 * Disk-Based Field Data a.k.a. Doc Values
   * https://www.elastic.co/blog/disk-based-field-data-a-k-a-doc-values
+* Elasticsearch tips: inserting vs. updating your index
+  * https://blog.codecentric.de/en/2014/12/elasticsearch-usage-tipps-transform-update-heavy-index-heavy-indexing/
 * How to resolve unassigned shards in Elasticsearch
   * https://www.datadoghq.com/blog/elasticsearch-unassigned-shards/
 * Support in the Wild: My Biggest Elasticsearch Problem at Scale
