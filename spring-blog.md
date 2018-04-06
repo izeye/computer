@@ -1,4 +1,7 @@
 # Spring Blog
+* 2018-04-05
+  * Multiple CVE reports published for the Spring Framework
+    * https://spring.io/blog/2018/04/05/multiple-cve-reports-published-for-the-spring-framework
 * 2018-03-01
   * Spring Boot 2.0 goes GA
     * https://spring.io/blog/2018/03/01/spring-boot-2-0-goes-ga
