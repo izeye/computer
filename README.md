@@ -155,6 +155,8 @@
   * https://www.w3.org/Security/wiki/Same_Origin_Policy
 
 ## Misc.
+* Convenience Methods
+  * http://wiki.c2.com/?ConvenienceMethods
 * THE SPEED-UP LOOP
   * https://thedailywtf.com/articles/The-Speedup-Loop
 * ZooKeeper Getting Started Guide
