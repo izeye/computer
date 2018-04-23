@@ -3,7 +3,10 @@
 * https://micrometer.io/
 
 ## Documentation
-* https://micrometer.io/docs
+* Home
+  * https://micrometer.io/docs
+* Installing
+  * https://micrometer.io/docs/installing
 
 ## GitHub
 * https://github.com/micrometer-metrics/micrometer/blob/master/implementations/micrometer-registry-elastic/src/main/java/io/micrometer/elastic/ElasticConfig.java
