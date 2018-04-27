@@ -8,3 +8,6 @@
 * Kubernetes: Crossing the Chasm
   * Ian Crosby
   * https://www.infoq.com/presentations/kubernetes-cluster-production
+* Securing Serverless - by Breaking in
+  * Guy Podjarny
+  * https://www.infoq.com/presentations/serverless-security-2018
