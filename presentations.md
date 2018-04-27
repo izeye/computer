@@ -5,6 +5,9 @@
   * https://www.dotconferences.com/2017/04/adrian-cole-observability-3-ways-logging-metrics-tracing
 
 ## InfoQ
+* How to Build Spring Services for Cloud-Native Platforms Using the Open Service Broker API
+  * Matthew McNeeney, Sam Gunaratne
+  * https://www.infoq.com/presentations/pivotal-service-broker-api
 * Hypermedia Web API as a Network of Data
   * Todd Brackley
   * https://www.infoq.com/presentations/data-hypermedia-rest
