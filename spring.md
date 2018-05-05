@@ -15,6 +15,10 @@
 * High Level Plans for Spring 4.3 and 5.0 Announced at SpringOne2GX
   * https://www.infoq.com/news/2015/09/spring-43-5
 
+## GitHub
+* org.springframework.jdbc.support.DatabaseStartupValidator
+  * https://github.com/spring-projects/spring-framework/blob/master/spring-jdbc/src/main/java/org/springframework/jdbc/support/DatabaseStartupValidator.java
+
 ## Javadoc
 * org.springframework.context.annotation.Bean
   * http://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/Bean.html
