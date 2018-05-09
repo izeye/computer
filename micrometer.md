@@ -7,6 +7,8 @@
   * https://micrometer.io/docs
 * Installing
   * https://micrometer.io/docs/installing
+* Concepts
+  * https://micrometer.io/docs/concepts
 
 ## GitHub
 * https://github.com/micrometer-metrics/micrometer/blob/master/implementations/micrometer-registry-elastic/src/main/java/io/micrometer/elastic/ElasticConfig.java
