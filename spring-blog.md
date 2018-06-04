@@ -1,4 +1,7 @@
 # Spring Blog
+* 2018-04-09
+  * Spring IO Platform end-of-life announcement
+    * https://spring.io/blog/2018/04/09/spring-io-platform-end-of-life-announcement
 * 2018-04-05
   * Multiple CVE reports published for the Spring Framework
     * https://spring.io/blog/2018/04/05/multiple-cve-reports-published-for-the-spring-framework
