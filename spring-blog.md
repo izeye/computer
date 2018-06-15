@@ -1,4 +1,7 @@
 # Spring Blog
+* 2018-06-14
+  * Spring Boot 2.0.3 available now
+    * https://spring.io/blog/2018/06/14/spring-boot-2-0-3-available-now
 * 2018-04-09
   * Spring IO Platform end-of-life announcement
     * https://spring.io/blog/2018/04/09/spring-io-platform-end-of-life-announcement
