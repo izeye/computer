@@ -29,6 +29,8 @@
   * https://en.wikipedia.org/wiki/Loop_unswitching
 * mmap
   * https://en.wikipedia.org/wiki/Mmap
+* Persistent data structure
+  * https://en.wikipedia.org/wiki/Persistent_data_structure
 * Reverse geocoding
   * https://en.wikipedia.org/wiki/Reverse_geocoding
 * Round-robin DNS
