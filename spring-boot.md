@@ -11,3 +11,7 @@
 ### InfoQ
 * What's New in Spring Boot 2.0
   * https://www.infoq.com/presentations/spring-boot-2
+
+## Wiki
+* Merging Pull Requests
+  * https://github.com/spring-projects/spring-boot/wiki/Merging-Pull-Requests
