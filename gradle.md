@@ -2,6 +2,8 @@
 ## Gradle User Guide
 * Chapter 34. Maven Publishing (new)
   * https://docs.gradle.org/current/userguide/publishing_maven.html
+* Dependency Locking
+  * https://docs.gradle.org/current/userguide/dependency_locking.html
 
 ## Blogs
 ### Gradle Blog
