@@ -12,11 +12,16 @@
 
 ## GitHub
 ### micrometer-core
-* https://github.com/micrometer-metrics/micrometer/blob/master/micrometer-core/src/main/java/io/micrometer/core/instrument/AbstractTimer.java
-* https://github.com/micrometer-metrics/micrometer/blob/master/micrometer-core/src/main/java/io/micrometer/core/instrument/distribution/HistogramGauges.java
+```
+io.micrometer.core.instrument.AbstractTimer
+io.micrometer.core.instrument.Statistic
+io.micrometer.core.instrument.distribution.HistogramGauges
+```
 
 ### micrometer-registry-elastic
-* https://github.com/micrometer-metrics/micrometer/blob/master/implementations/micrometer-registry-elastic/src/main/java/io/micrometer/elastic/ElasticConfig.java
+```
+io.micrometer.elastic.ElasticConfig
+```
 
 ### etc.
 * https://github.com/micrometer-metrics/micrometer/blob/master/README.md
