@@ -9,6 +9,9 @@
   * https://micrometer.io/docs/installing
 * Concepts
   * https://micrometer.io/docs/concepts
+* Setup
+  * StatsD
+    * https://micrometer.io/docs/registry/statsD
 
 ## GitHub
 ### micrometer-core
