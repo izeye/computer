@@ -12,6 +12,9 @@
 * Setup
   * StatsD
     * https://micrometer.io/docs/registry/statsD
+* Guides
+  * Passing through to Dropwizard's console reporter
+    * http://micrometer.io/docs/guide/consoleReporter
 
 ## GitHub
 ### micrometer-core
