@@ -10,6 +10,8 @@
 * Concepts
   * https://micrometer.io/docs/concepts
 * Setup
+  * Graphite
+    * https://micrometer.io/docs/registry/graphite
   * StatsD
     * https://micrometer.io/docs/registry/statsD
 * Guides
