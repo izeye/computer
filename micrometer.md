@@ -10,6 +10,8 @@
 * Concepts
   * https://micrometer.io/docs/concepts
 * Setup
+  * Datadog
+    * https://micrometer.io/docs/registry/datadog
   * Graphite
     * https://micrometer.io/docs/registry/graphite
   * StatsD
