@@ -14,6 +14,8 @@
     * https://micrometer.io/docs/registry/datadog
   * Graphite
     * https://micrometer.io/docs/registry/graphite
+  * JMX
+    * https://micrometer.io/docs/registry/jmx
   * StatsD
     * https://micrometer.io/docs/registry/statsD
 * Guides
