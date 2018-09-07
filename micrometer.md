@@ -37,5 +37,10 @@ io.micrometer.core.instrument.distribution.HistogramGauges
 io.micrometer.elastic.ElasticConfig
 ```
 
+### micrometer-registry-graphite
+```
+io.micrometer.graphite.GraphiteMeterRegistry
+```
+
 ### etc.
 * https://github.com/micrometer-metrics/micrometer/blob/master/README.md
