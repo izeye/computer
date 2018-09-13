@@ -176,6 +176,10 @@
 * Why field injection is evil
   * http://olivergierke.de/2013/11/why-field-injection-is-evil/
 
+### Design Pattern
+* Structural Pattern Matching in Java
+  * http://blog.higher-order.com/blog/2009/08/21/structural-pattern-matching-in-java/
+
 ### Fat JAR
 * Solving Fat JAR Woes at HubSpot
   * https://www.infoq.com/news/2016/08/fatjars-woes-at-hubspot
