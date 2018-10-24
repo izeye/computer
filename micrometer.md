@@ -37,6 +37,11 @@ io.micrometer.core.instrument.distribution.HistogramGauges
 io.micrometer.elastic.ElasticConfig
 ```
 
+### micrometer-registry-ganglia
+```
+io.micrometer.ganglia.GangliaMeterRegistry
+```
+
 ### micrometer-registry-graphite
 ```
 io.micrometer.graphite.GraphiteMeterRegistry
