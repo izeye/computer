@@ -34,6 +34,13 @@ io.micrometer.core.instrument.distribution.HistogramGauges
 io.micrometer.core.instrument.util.JsonUtils
 ```
 
+### micrometer-registry-appoptics
+```
+io.micrometer.appoptics.AppOpticsConfig
+io.micrometer.appoptics.AppOpticsMeterRegistry
+io.micrometer.appoptics.AppOpticsNamingConvention
+```
+
 ### micrometer-registry-elastic
 ```
 io.micrometer.elastic.ElasticConfig
