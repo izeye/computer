@@ -26,6 +26,7 @@
 ### micrometer-core
 ```
 io.micrometer.core.instrument.AbstractTimer
+io.micrometer.core.instrument.Measurement
 io.micrometer.core.instrument.Statistic
 io.micrometer.core.instrument.StrongReferenceGaugeFunction
 io.micrometer.core.instrument.binder.MeterBinder
