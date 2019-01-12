@@ -43,8 +43,16 @@ io.micrometer.appoptics.AppOpticsNamingConvention
 ```
 
 ### micrometer-registry-elastic
+#### main
 ```
 io.micrometer.elastic.ElasticConfig
+io.micrometer.elastic.ElasticMeterRegistry
+io.micrometer.elastic.ElasticNamingConvention
+```
+
+#### test
+```
+io.micrometer.elastic.ElasticMeterRegistryTest
 ```
 
 ### micrometer-registry-ganglia
