@@ -19,6 +19,8 @@
   * https://www.infoq.com/presentations/spring-boot-cloud-case-study
 * Deep Dive into G1 Garbage Collector
   * https://www.infoq.com/presentations/java-g1
+* Effective Java, Third Edition - Keepin' it Effective
+  * https://www.infoq.com/presentations/effective-java-third-edition
 * Extreme Performance with Java
   * https://www.infoq.com/presentations/Extreme-Performance-Java
 * From Concurrent to Parallel
