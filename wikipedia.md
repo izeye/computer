@@ -29,6 +29,8 @@
   * https://en.wikipedia.org/wiki/Loop_unswitching
 * mmap
   * https://en.wikipedia.org/wiki/Mmap
+* Nagle's algorithm
+  * https://en.wikipedia.org/wiki/Nagle%27s_algorithm
 * Persistent data structure
   * https://en.wikipedia.org/wiki/Persistent_data_structure
 * Reverse geocoding
