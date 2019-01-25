@@ -33,6 +33,8 @@
 
 ## Tutorials
 ### JUnit
+* A Guide to JUnit 5
+  * https://www.baeldung.com/junit-5
 * The Basics of JUnit 5 – A Preview
   * https://www.baeldung.com/junit-5-preview
 
