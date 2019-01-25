@@ -32,6 +32,11 @@
   * https://sales.jetbrains.com/hc/en-gb/articles/207240845-What-is-perpetual-fallback-license-
 
 ## Tutorials
+### JUnit
+* The Basics of JUnit 5 – A Preview
+  * https://www.baeldung.com/junit-5-preview
+
+### Misc.
 * Bloom Filter in Java using Guava
   * http://www.baeldung.com/guava-bloom-filter
 
