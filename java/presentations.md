@@ -1,15 +1,15 @@
-## Presentations
-### DEVOXX
-#### DEVOXX UK 2013
+# Presentations
+## DEVOXX
+### DEVOXX UK 2013
 * Project Nashorn in Java 8
   * https://www.youtube.com/watch?v=8IxwLKMC0Nc
 
-### GOTO Nights
+## GOTO Nights
 * 2017-02-16
   * Chris Richardson & Kenny Bastini on Eventual Consistency in JVM Microservices with Event Sourcing
     * https://vimeo.com/205223073
 
-### InfoQ
+## InfoQ
 * Cloud Native Java
   * https://www.infoq.com/presentations/spring-boot-cloud-case-study
 * Deep Dive into G1 Garbage Collector
@@ -89,12 +89,12 @@
 * Understanding Parallel Stream Performance in Java SE 8
   * https://www.infoq.com/presentations/parallel-java-se-8
 
-### JavaOne
+## JavaOne
 * JUnit5: Features, Architecture, and Extensibility
   * https://www.youtube.com/watch?v=Nqf6GSk_ZvI
 
-### SpringOne
-#### SpringOne Platform 2016
+## SpringOne
+### SpringOne Platform 2016
 * Help Developers Do What They Love — Onsi Fakhouri
   * https://www.youtube.com/watch?v=xdw_9dADM-4&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx&index=1
 * Containers Will Not Fix Your Broken Culture (and Other Hard Truths) — Bridget Kromhout
@@ -150,6 +150,6 @@
 * Cloud Foundry: Cloud Native, Community, and Momentum — Jared Wray, CenturyLink
   * https://www.youtube.com/watch?v=atyt1t5VvmM&index=29&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 
-### YouTube
+## YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
   * https://www.youtube.com/watch?v=I9hf-HUxQiA
