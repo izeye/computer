@@ -33,6 +33,7 @@ io.micrometer.core.instrument.binder.MeterBinder
 io.micrometer.core.instrument.binder.tomcat.TomcatMetrics
 io.micrometer.core.instrument.distribution.HistogramGauges
 io.micrometer.core.instrument.util.JsonUtils
+io.micrometer.core.ipc.http.OkHttpSender
 ```
 
 ### micrometer-registry-appoptics
