@@ -37,6 +37,8 @@
   * https://www.baeldung.com/junit-5
 * The Basics of JUnit 5 – A Preview
   * https://www.baeldung.com/junit-5-preview
+* Using JUnit 5 with Gradle
+  * https://www.baeldung.com/junit-5-gradle
 
 ### Misc.
 * Bloom Filter in Java using Guava
