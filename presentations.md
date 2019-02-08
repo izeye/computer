@@ -20,3 +20,6 @@
 * Securing Serverless - by Breaking in
   * Guy Podjarny
   * https://www.infoq.com/presentations/serverless-security-2018
+* Your Attention, Please: Optimizing Metrics for Humans
+  * John Feminella
+  * https://www.infoq.com/presentations/data-visualization-metrics-humans
