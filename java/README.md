@@ -32,6 +32,10 @@
   * https://sales.jetbrains.com/hc/en-gb/articles/207240845-What-is-perpetual-fallback-license-
 
 ## Tutorials
+### AspectJ
+* Intro to AspectJ
+  * https://www.baeldung.com/aspectj
+
 ### JUnit
 * A Guide to JUnit 5
   * https://www.baeldung.com/junit-5
