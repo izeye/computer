@@ -9,6 +9,8 @@
   * https://spring.io/guides/gs/rest-service-cors/
 * Routing and Filtering
   * https://spring.io/guides/gs/routing-and-filtering/
+* Service Registration and Discovery
+  * https://spring.io/guides/gs/service-registration-and-discovery/
 * Spring Boot with Docker
   * https://spring.io/guides/gs/spring-boot-docker/
 
