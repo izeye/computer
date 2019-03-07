@@ -48,6 +48,8 @@
 ## JPA
 * How to detect the Hibernate N+1 query problem during testing
   * https://vladmihalcea.com/2014/02/01/how-to-detect-the-n-plus-one-query-problem-during-testing/
+* The Open Session In View Anti-Pattern
+  * https://vladmihalcea.com/the-open-session-in-view-anti-pattern/
 
 ## JVM
 * Hotspot caused exceptions to lose their stack traces in production and the fix
