@@ -35,6 +35,8 @@
   * https://en.wikipedia.org/wiki/Persistent_data_structure
 * Reverse geocoding
   * https://en.wikipedia.org/wiki/Reverse_geocoding
+* Robustness principle
+  * https://en.wikipedia.org/wiki/Robustness_principle
 * Round-robin DNS
   * https://en.wikipedia.org/wiki/Round-robin_DNS
 * Run queue
