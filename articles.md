@@ -12,6 +12,8 @@
   * https://martinfowler.com/bliki/SelfTestingCode.html
 * TechnicalDebt
   * https://martinfowler.com/bliki/TechnicalDebt.html
+* TolerantReader
+  * https://martinfowler.com/bliki/TolerantReader.html
 * WhatIsFailure
   * https://martinfowler.com/bliki/WhatIsFailure.html
 * Yagni
