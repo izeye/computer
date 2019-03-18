@@ -34,6 +34,8 @@
 ## Blogs
 * StringBuffer and StringBuilder performance with JMH
   * http://alblue.bandlem.com/2016/04/jmh-stringbuffer-stringbuilder.html
+* The append (x) .append (y) call chain in StringBuilder is faster than typical sb.append (x); sb.append (y)
+  * https://habr.com/ru/post/330220/
 
 ## Tutorials
 ### AspectJ
