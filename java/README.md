@@ -31,6 +31,10 @@
 * What is perpetual fallback license?
   * https://sales.jetbrains.com/hc/en-gb/articles/207240845-What-is-perpetual-fallback-license-
 
+## Blogs
+* StringBuffer and StringBuilder performance with JMH
+  * http://alblue.bandlem.com/2016/04/jmh-stringbuffer-stringbuilder.html
+
 ## Tutorials
 ### AspectJ
 * Intro to AspectJ
