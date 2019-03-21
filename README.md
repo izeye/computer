@@ -114,6 +114,8 @@
   * http://www.thinkfu.com/blog/gifjavascript-polyglots
 * Hello, Hexagonal Architecture
   * https://dzone.com/articles/hello-hexagonal-architecture-1
+* In Defense of YAML
+  * https://blog.atomist.com/in-defense-of-yaml/
 * Introducing osquery
   * https://code.facebook.com/posts/844436395567983/introducing-osquery/
 * Page Cache, the Affair Between Memory and Files
