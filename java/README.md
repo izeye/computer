@@ -1,7 +1,14 @@
 # Java
 ## Libraries
-* PCollections
+### PCollections
+* GitHub
   * https://github.com/hrldcpr/pcollections
+
+### Resilience4j
+#### Resilience4j User Guide
+##### 3. Usage Guide
+* 3.4. Retry
+  * http://resilience4j.github.io/resilience4j/#_retry
 
 ## Tools
 * Spring Java Format
