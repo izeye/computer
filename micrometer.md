@@ -31,6 +31,7 @@ io.micrometer.core.instrument.Measurement
 io.micrometer.core.instrument.Statistic
 io.micrometer.core.instrument.StrongReferenceGaugeFunction
 io.micrometer.core.instrument.Tag
+io.micrometer.core.instrument.Tags
 io.micrometer.core.instrument.binder.MeterBinder
 io.micrometer.core.instrument.binder.tomcat.TomcatMetrics
 io.micrometer.core.instrument.distribution.HistogramGauges
