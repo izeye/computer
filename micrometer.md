@@ -26,9 +26,11 @@
 ### micrometer-core
 ```
 io.micrometer.core.instrument.AbstractTimer
+io.micrometer.core.instrument.ImmutableTag
 io.micrometer.core.instrument.Measurement
 io.micrometer.core.instrument.Statistic
 io.micrometer.core.instrument.StrongReferenceGaugeFunction
+io.micrometer.core.instrument.Tag
 io.micrometer.core.instrument.binder.MeterBinder
 io.micrometer.core.instrument.binder.tomcat.TomcatMetrics
 io.micrometer.core.instrument.distribution.HistogramGauges
