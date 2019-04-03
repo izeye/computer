@@ -29,6 +29,8 @@
   * https://dzone.com/articles/java-garbage-collectors-when-will-g1gc-force-cms-out
 * Java Lambda Expressions vs Method References
   * https://dzone.com/articles/java-lambda-expressions-vs
+* JDK 9/JEP 280: String Concatenations Will Never Be the Same
+  * https://dzone.com/articles/jdk-9jep-280-string-concatenations-will-never-be-t
 * Memory Puzzle with Lambdas
   * http://javaspecialists.eu/archive/Issue247.html
 * Subscription-based licensing model vs. perpetual licensing model
