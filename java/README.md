@@ -68,6 +68,8 @@
 ### Misc.
 * Bloom Filter in Java using Guava
   * http://www.baeldung.com/guava-bloom-filter
+* Invokedynamic 101
+  * https://www.javaworld.com/article/2860079/invokedynamic-101.html
 
 ## Java Bean Validation (JSR 303)
 * Getting started with Hibernate Validator
