@@ -26,8 +26,13 @@
   * https://www.infoq.com/news/2015/09/spring-43-5
 
 ## GitHub
+### Code
 * org.springframework.jdbc.support.DatabaseStartupValidator
   * https://github.com/spring-projects/spring-framework/blob/master/spring-jdbc/src/main/java/org/springframework/jdbc/support/DatabaseStartupValidator.java
+
+### Wiki
+* Logging
+  * https://github.com/spring-projects/spring-framework/wiki/Logging
 
 ## Javadoc
 * org.springframework.context.annotation.Bean
