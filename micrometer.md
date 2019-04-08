@@ -35,6 +35,7 @@ io.micrometer.core.instrument.Tag
 io.micrometer.core.instrument.Tags
 io.micrometer.core.instrument.binder.MeterBinder
 io.micrometer.core.instrument.binder.tomcat.TomcatMetrics
+io.micrometer.core.instrument.config.NamingConvention
 io.micrometer.core.instrument.distribution.HistogramGauges
 io.micrometer.core.instrument.util.JsonUtils
 io.micrometer.core.ipc.http.OkHttpSender
