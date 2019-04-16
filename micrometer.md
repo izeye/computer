@@ -75,3 +75,7 @@ io.micrometer.graphite.GraphiteMeterRegistry
 
 ### etc.
 * https://github.com/micrometer-metrics/micrometer/blob/master/README.md
+
+### Wiki
+* Releasing Micrometer
+  * https://github.com/micrometer-metrics/micrometer/wiki/Releasing-Micrometer
