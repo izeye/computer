@@ -1,5 +1,7 @@
 # GitHub
 ## Blog
+* Introducing draft pull requests
+  * https://github.blog/2019-02-14-introducing-draft-pull-requests/
 * Manage issues and pull requests with keyword updates
   * https://github.com/blog/2398-manage-issues-and-pull-requests-with-keyword-updates
 * SUPPORT file support
