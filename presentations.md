@@ -1,4 +1,8 @@
 # Presentations
+## NDC Conferences 2014
+* Robert C. Martin - Clean Architecture and Design
+  * https://vimeo.com/97530863
+
 ## dotScale 2017
 * Observability 3 ways: Logging, Metrics & Tracing
   * Adrian Cole
