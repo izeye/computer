@@ -104,6 +104,8 @@
   * https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
 * Back to the Future: Eclipse Converge & Devoxx US
   * http://melb.enix.org/general/back-to-the-future-eclipse-converge-devoxx-us/
+* Clean Architecture Example in Kotlin
+  * https://hackernoon.com/clean-architecture-example-in-kotlin-9f23169219be
 * Firebug Tip: What the heck is BFCache?
   * http://www.softwareishard.com/blog/firebug/firebug-tip-what-the-heck-is-bfcache/
 * Graphite vs. Grafana: Build the Best Monitoring Architecture for Your Application
