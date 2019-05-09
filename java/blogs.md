@@ -37,6 +37,10 @@
 * Using Handlebars Java as a Server Side Templating Language
   * https://dzone.com/articles/using-handlebars-java-as-a-server-side-templating
 
+## Jackson
+* On Jackson CVEs: Don’t Panic — Here is what you need to know
+  * https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062
+
 ## Java 9
 * Using sun.misc.Unsafe in Java 9
   * http://gregluck.com/blog/archives/2017/03/using-sun-misc-unsafe-in-java-9/
