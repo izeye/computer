@@ -1,4 +1,7 @@
 # Spring Blog
+* 2019-04-03
+  * Spring Boot 2.0.9 Released
+    * https://spring.io/blog/2019/04/03/spring-boot-2-0-9-released
 * 2018-07-30
   * Spring Boot 1.x EOL Aug 1st 2019
     * https://spring.io/blog/2018/07/30/spring-boot-1-x-eol-aug-1st-2019
