@@ -14,6 +14,8 @@
       * https://www.testcontainers.org/modules/databases/mysql/
     * Postgres Module
       * https://www.testcontainers.org/modules/databases/postgres/
+  * Elasticsearch container
+    * https://www.testcontainers.org/modules/elasticsearch/
 * Test framework integration
   * JUnit 4
     * https://www.testcontainers.org/test_framework_integration/junit_4/
