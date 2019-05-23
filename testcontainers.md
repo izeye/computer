@@ -21,3 +21,7 @@
     * https://www.testcontainers.org/test_framework_integration/junit_4/
   * Jupiter / JUnit 5
     * https://www.testcontainers.org/test_framework_integration/junit_5/
+* System Requirements
+  * Continuous Integration
+    * CircleCI 2.0
+      * https://www.testcontainers.org/supported_docker_environment/continuous_integration/circle_ci/
