@@ -78,6 +78,10 @@
   * http://hibernate.org/validator/documentation/getting-started/
 
 ## Documentation
+### Eclipse OpenJ9
+* Garbage collection
+  * https://www.eclipse.org/openj9/docs/gc/
+
 ### G1 GC
 * Getting Started with the G1 Garbage Collector
   * http://www.oracle.com/technetwork/tutorials/tutorials-1876574.html
