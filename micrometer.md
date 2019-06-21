@@ -28,6 +28,7 @@
 io.micrometer.core.instrument.AbstractMeter
 io.micrometer.core.instrument.AbstractTimer
 io.micrometer.core.instrument.Clock
+io.micrometer.core.instrument.Counter
 io.micrometer.core.instrument.ImmutableTag
 io.micrometer.core.instrument.Measurement
 io.micrometer.core.instrument.Meter
