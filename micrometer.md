@@ -25,6 +25,7 @@
 ## GitHub
 ### micrometer-core
 ```
+io.micrometer.core.instrument.AbstractMeter
 io.micrometer.core.instrument.AbstractTimer
 io.micrometer.core.instrument.Clock
 io.micrometer.core.instrument.ImmutableTag
@@ -35,6 +36,7 @@ io.micrometer.core.instrument.StrongReferenceGaugeFunction
 io.micrometer.core.instrument.Tag
 io.micrometer.core.instrument.Tags
 io.micrometer.core.instrument.binder.MeterBinder
+io.micrometer.core.instrument.binder.jvm.JvmGcMetrics
 io.micrometer.core.instrument.binder.tomcat.TomcatMetrics
 io.micrometer.core.instrument.config.MeterFilter
 io.micrometer.core.instrument.config.NamingConvention
