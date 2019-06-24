@@ -42,7 +42,9 @@ io.micrometer.core.instrument.binder.jvm.JvmGcMetrics
 io.micrometer.core.instrument.binder.tomcat.TomcatMetrics
 io.micrometer.core.instrument.config.MeterFilter
 io.micrometer.core.instrument.config.NamingConvention
+io.micrometer.core.instrument.distribution.CountAtBucket
 io.micrometer.core.instrument.distribution.HistogramGauges
+io.micrometer.core.instrument.distribution.ValueAtPercentile
 io.micrometer.core.instrument.util.JsonUtils
 io.micrometer.core.ipc.http.OkHttpSender
 ```
