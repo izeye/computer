@@ -10,5 +10,9 @@
   * https://github.blog/2017-07-20-support-file-support/
 
 ## Help
+* About issue and pull request templates
+  * https://help.github.com/en/articles/about-issue-and-pull-request-templates
 * About saved replies
   * https://help.github.com/articles/about-saved-replies/
+* Creating issue templates for your repository
+  * https://help.github.com/en/articles/creating-issue-templates-for-your-repository
