@@ -47,6 +47,7 @@ io.micrometer.core.instrument.distribution.HistogramGauges
 io.micrometer.core.instrument.distribution.HistogramSnapshot
 io.micrometer.core.instrument.distribution.HistogramSupport
 io.micrometer.core.instrument.distribution.ValueAtPercentile
+io.micrometer.core.instrument.internal.Mergeable
 io.micrometer.core.instrument.util.JsonUtils
 io.micrometer.core.ipc.http.OkHttpSender
 ```
