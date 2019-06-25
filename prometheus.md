@@ -8,6 +8,8 @@
 ## INTRODUCTION
 * Overview
   * https://prometheus.io/docs/introduction/overview/
+* First steps
+  * https://prometheus.io/docs/introduction/first_steps/
 
 # Presentations
 * Monitoring, the Prometheus Way
