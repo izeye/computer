@@ -4,3 +4,5 @@
   * http://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-average-random.html
 * Best IT Infrastructure Monitoring Tools in 2019
   * https://dzone.com/articles/best-it-infrastructure-monitoring-tools-in-2019
+* Logs and Metrics and Graphs, Oh My!
+  * https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/
