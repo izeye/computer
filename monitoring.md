@@ -6,3 +6,5 @@
   * https://dzone.com/articles/best-it-infrastructure-monitoring-tools-in-2019
 * Logs and Metrics and Graphs, Oh My!
   * https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/
+* Monitoring: Not Just For Outages
+  * https://www.robustperception.io/monitoring-not-just-for-outages
