@@ -10,6 +10,8 @@
   * https://prometheus.io/docs/introduction/overview/
 * First steps
   * https://prometheus.io/docs/introduction/first_steps/
+* Comparison to alternatives
+  * https://prometheus.io/docs/introduction/comparison/
 
 # Presentations
 * Monitoring, the Prometheus Way
