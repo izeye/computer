@@ -4,5 +4,7 @@
   * https://www.youtube.com/watch?v=HNjlJpuA5kQ&feature=youtu.be
 
 ## Blogs
+* Optimizing Spring Integration Tests
+  * https://www.baeldung.com/spring-tests
 * What is a Unit Test? (The Answer Might Surprise You)
   * https://content.pivotal.io/blog/what-is-a-unit-test-the-answer-might-surprise-you
