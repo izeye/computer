@@ -49,6 +49,7 @@ io.micrometer.core.instrument.distribution.HistogramSupport
 io.micrometer.core.instrument.distribution.ValueAtPercentile
 io.micrometer.core.instrument.internal.Mergeable
 io.micrometer.core.instrument.util.JsonUtils
+io.micrometer.core.instrument.util.MeterPartition
 io.micrometer.core.ipc.http.OkHttpSender
 ```
 
@@ -57,6 +58,23 @@ io.micrometer.core.ipc.http.OkHttpSender
 io.micrometer.appoptics.AppOpticsConfig
 io.micrometer.appoptics.AppOpticsMeterRegistry
 io.micrometer.appoptics.AppOpticsNamingConvention
+```
+
+### micrometer-registry-cloudwatch2
+#### main
+```
+io.micrometer.cloudwatch2.CloudWatchConfig
+io.micrometer.cloudwatch2.CloudWatchMeterRegistry
+io.micrometer.cloudwatch2.CloudWatchUtils
+io.micrometer.cloudwatch2.MetricDatumPartition
+io.micrometer.cloudwatch2.package-info
+```
+
+#### test
+```
+io.micrometer.cloudwatch2.CloudWatchMeterRegistryCompatibilityTest
+io.micrometer.cloudwatch2.CloudWatchMeterRegistryTest
+io.micrometer.cloudwatch2.CloudWatchUtilsTest
 ```
 
 ### micrometer-registry-elastic
