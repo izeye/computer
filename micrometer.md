@@ -66,7 +66,6 @@ io.micrometer.appoptics.AppOpticsNamingConvention
 io.micrometer.cloudwatch2.CloudWatchConfig
 io.micrometer.cloudwatch2.CloudWatchMeterRegistry
 io.micrometer.cloudwatch2.CloudWatchUtils
-io.micrometer.cloudwatch2.MetricDatumPartition
 io.micrometer.cloudwatch2.package-info
 ```
 
