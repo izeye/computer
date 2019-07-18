@@ -8,3 +8,8 @@
   * https://www.baeldung.com/spring-tests
 * What is a Unit Test? (The Answer Might Surprise You)
   * https://content.pivotal.io/blog/what-is-a-unit-test-the-answer-might-surprise-you
+
+## Documentation
+### Software Testing Fundamentals (STF)
+* Smoke Testing
+  * http://softwaretestingfundamentals.com/smoke-testing/
