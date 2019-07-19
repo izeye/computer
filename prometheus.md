@@ -16,6 +16,8 @@
   * https://prometheus.io/docs/introduction/faq/
 * Roadmap
   * https://prometheus.io/docs/introduction/roadmap/
+* Glossary
+  * https://prometheus.io/docs/introduction/glossary/
 
 # Presentations
 * Monitoring, the Prometheus Way
