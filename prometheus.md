@@ -14,6 +14,8 @@
   * https://prometheus.io/docs/introduction/comparison/
 * FAQ
   * https://prometheus.io/docs/introduction/faq/
+* Roadmap
+  * https://prometheus.io/docs/introduction/roadmap/
 
 # Presentations
 * Monitoring, the Prometheus Way
