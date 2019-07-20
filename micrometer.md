@@ -38,6 +38,7 @@ io.micrometer.core.instrument.StrongReferenceGaugeFunction
 io.micrometer.core.instrument.Tag
 io.micrometer.core.instrument.Tags
 io.micrometer.core.instrument.binder.MeterBinder
+io.micrometer.core.instrument.binder.jvm.ExecutorServiceMetrics
 io.micrometer.core.instrument.binder.jvm.JvmGcMetrics
 io.micrometer.core.instrument.binder.tomcat.TomcatMetrics
 io.micrometer.core.instrument.config.MeterFilter
@@ -48,6 +49,8 @@ io.micrometer.core.instrument.distribution.HistogramSnapshot
 io.micrometer.core.instrument.distribution.HistogramSupport
 io.micrometer.core.instrument.distribution.ValueAtPercentile
 io.micrometer.core.instrument.internal.Mergeable
+io.micrometer.core.instrument.internal.TimedExecutor
+io.micrometer.core.instrument.internal.TimedExecutorService
 io.micrometer.core.instrument.util.JsonUtils
 io.micrometer.core.instrument.util.MeterPartition
 io.micrometer.core.ipc.http.OkHttpSender
