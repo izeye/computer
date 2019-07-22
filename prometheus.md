@@ -18,6 +18,13 @@
   * https://prometheus.io/docs/introduction/roadmap/
 * Glossary
   * https://prometheus.io/docs/introduction/glossary/
+## CONCEPTS
+* Data model
+  * https://prometheus.io/docs/concepts/data_model/
+* Metric types
+  * https://prometheus.io/docs/concepts/metric_types/
+* Jobs and instances
+  * https://prometheus.io/docs/concepts/jobs_instances/
 
 # Presentations
 * Monitoring, the Prometheus Way
