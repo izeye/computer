@@ -25,6 +25,9 @@
   * https://prometheus.io/docs/concepts/metric_types/
 * Jobs and instances
   * https://prometheus.io/docs/concepts/jobs_instances/
+## PROMETHEUS
+* Getting started
+  * https://prometheus.io/docs/prometheus/latest/getting_started/
 
 # Presentations
 * Monitoring, the Prometheus Way
