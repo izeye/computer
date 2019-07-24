@@ -28,7 +28,8 @@
 ## PROMETHEUS
 * Getting started
   * https://prometheus.io/docs/prometheus/latest/getting_started/
-
+* Storage
+  * https://prometheus.io/docs/prometheus/latest/storage/
 # Presentations
 * Monitoring, the Prometheus Way
   * Speaker: Julius Volz - Co-Founder, Prometheus
