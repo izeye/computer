@@ -32,6 +32,9 @@
   * https://prometheus.io/docs/prometheus/latest/storage/
 * Federation
   * https://prometheus.io/docs/prometheus/latest/federation/
+## VISUALIZATION
+* Expression browser
+  * https://prometheus.io/docs/visualization/browser/
 
 # Presentations
 * Monitoring, the Prometheus Way
