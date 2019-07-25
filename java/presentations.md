@@ -153,3 +153,7 @@
 ## YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
   * https://www.youtube.com/watch?v=I9hf-HUxQiA
+* Project Loom, Part I
+  * https://www.youtube.com/watch?v=XosXpwtxP5A
+* Project Loom, Part II
+  * https://www.youtube.com/watch?v=z_tus_m-6FI
