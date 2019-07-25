@@ -45,5 +45,7 @@
   * Video: https://www.youtube.com/watch?v=PDxcEzu62jk
 
 # Blogs
+* Target labels are for life, not just for Christmas
+  * https://www.robustperception.io/target-labels-are-for-life-not-just-for-christmas
 * Translating between monitoring languages
   * https://www.robustperception.io/translating-between-monitoring-languages
