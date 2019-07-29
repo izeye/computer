@@ -40,6 +40,8 @@
 ## BEST PRACTICES
 * Metric and label naming
   * https://prometheus.io/docs/practices/naming/
+* Consoles and dashboards
+  * https://prometheus.io/docs/practices/consoles/
 
 # Presentations
 * Monitoring, the Prometheus Way
