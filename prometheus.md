@@ -45,6 +45,8 @@
   * Video: https://www.youtube.com/watch?v=PDxcEzu62jk
 
 # Blogs
+* Exposing the software version to Prometheus
+  * https://www.robustperception.io/exposing-the-software-version-to-prometheus
 * How to have labels for machine roles
   * https://www.robustperception.io/how-to-have-labels-for-machine-roles
 * Target labels are for life, not just for Christmas
