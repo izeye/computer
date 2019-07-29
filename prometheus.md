@@ -45,6 +45,8 @@
   * Video: https://www.youtube.com/watch?v=PDxcEzu62jk
 
 # Blogs
+* How to have labels for machine roles
+  * https://www.robustperception.io/how-to-have-labels-for-machine-roles
 * Target labels are for life, not just for Christmas
   * https://www.robustperception.io/target-labels-are-for-life-not-just-for-christmas
 * Translating between monitoring languages
