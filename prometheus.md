@@ -37,6 +37,9 @@
   * https://prometheus.io/docs/visualization/browser/
 * Grafana
   * https://prometheus.io/docs/visualization/grafana/
+## BEST PRACTICES
+* Metric and label naming
+  * https://prometheus.io/docs/practices/naming/
 
 # Presentations
 * Monitoring, the Prometheus Way
