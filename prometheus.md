@@ -42,6 +42,8 @@
   * https://prometheus.io/docs/practices/naming/
 * Consoles and dashboards
   * https://prometheus.io/docs/practices/consoles/
+* Instrumentation
+  * https://prometheus.io/docs/practices/instrumentation/
 
 # Presentations
 * Monitoring, the Prometheus Way
