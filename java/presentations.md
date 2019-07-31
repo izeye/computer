@@ -150,6 +150,11 @@
 * Cloud Foundry: Cloud Native, Community, and Momentum — Jared Wray, CenturyLink
   * https://www.youtube.com/watch?v=atyt1t5VvmM&index=29&list=PLAdzTan_eSPQ1fuLSBhyB4eEZF7JQM0Mx
 
+## JVM Language Summit
+### JVM Language Summit 2019
+* Thread Sanitizing for Java with Jean Christophe Beyler, Arthur Eubanks, and Man Cao
+  * https://www.youtube.com/watch?v=T_SOhTv6LR8
+
 ## YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
   * https://www.youtube.com/watch?v=I9hf-HUxQiA
