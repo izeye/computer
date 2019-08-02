@@ -93,6 +93,11 @@
 * JUnit5: Features, Architecture, and Extensibility
   * https://www.youtube.com/watch?v=Nqf6GSk_ZvI
 
+## Spring I/O
+### Spring I/O 2019
+* Cloud Native Spring Boot Admin by Johannes Edmeier @ Spring I/O 2019
+  * https://www.youtube.com/watch?v=Ql1Gnz4L_-c
+
 ## SpringOne
 ### SpringOne Platform 2016
 * Help Developers Do What They Love — Onsi Fakhouri
