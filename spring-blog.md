@@ -1,4 +1,7 @@
 # Spring Blog
+* 2019-08-06
+  * It is time - Goodbye Spring Boot 1.x!
+    * https://spring.io/blog/2019/08/06/it-is-time-goodbye-spring-boot-1-x
 * 2019-04-03
   * Spring Boot 2.0.9 Released
     * https://spring.io/blog/2019/04/03/spring-boot-2-0-9-released
