@@ -64,3 +64,7 @@
   * https://www.infoq.com/presentations/spring4-web-development
 * What's New in Spring Data?
   * https://www.infoq.com/presentations/spring-data-4
+
+## Blogs
+* Spring JSON-P with Jackson
+  * https://www.baeldung.com/spring-jackson-jsonp
