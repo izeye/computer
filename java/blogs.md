@@ -21,6 +21,10 @@
 * Structural Pattern Matching in Java
   * http://blog.higher-order.com/blog/2009/08/21/structural-pattern-matching-in-java/
 
+## Exception
+* The Exceptional Performance of Lil' Exception
+  * https://shipilev.net/blog/2014/exceptional-performance/
+
 ## Fat JAR
 * Solving Fat JAR Woes at HubSpot
   * https://www.infoq.com/news/2016/08/fatjars-woes-at-hubspot
