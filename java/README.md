@@ -67,6 +67,10 @@
 * Intro To Reactor Core
   * https://www.baeldung.com/reactor-core
 
+### ResourceBundle
+* A Guide to the ResourceBundle
+  * https://www.baeldung.com/java-resourcebundle
+
 ### Misc.
 * Bloom Filter in Java using Guava
   * http://www.baeldung.com/guava-bloom-filter
