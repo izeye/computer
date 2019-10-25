@@ -1,5 +1,7 @@
 # Gradle
 ## Gradle User Guide
+* Build Cache
+  * https://docs.gradle.org/current/userguide/build_cache.html
 * Chapter 34. Maven Publishing (new)
   * https://docs.gradle.org/current/userguide/publishing_maven.html
 * Dependency Locking
