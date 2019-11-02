@@ -16,3 +16,7 @@
   * https://www.zenhub.com/blog/how-to-use-epics-and-milestones/
 * Working with Epics inside GitHub: Introducing ZenHub Epics
   * https://www.zenhub.com/blog/working-with-epics-in-github/
+
+## Blogs
+* git rebase –onto
+  * https://content.pivotal.io/blog/git-rebase-onto
