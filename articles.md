@@ -6,6 +6,8 @@
 ## martinfowler.com
 * BeckDesignRules
   * https://martinfowler.com/bliki/BeckDesignRules.html
+* BlueGreenDeployment
+  * https://martinfowler.com/bliki/BlueGreenDeployment.html
 * CannotMeasureProductivity
   * https://martinfowler.com/bliki/CannotMeasureProductivity.html
 * SelfTestingCode
