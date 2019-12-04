@@ -1,4 +1,7 @@
 # Spring Blog
+* 2019-11-07
+  * Spring Boot 2.2.1 available now
+    * https://spring.io/blog/2019/11/07/spring-boot-2-2-1-available-now
 * 2019-08-06
   * It is time - Goodbye Spring Boot 1.x!
     * https://spring.io/blog/2019/08/06/it-is-time-goodbye-spring-boot-1-x
