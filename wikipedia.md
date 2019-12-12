@@ -3,6 +3,8 @@
   * https://en.wikipedia.org/wiki/Apache_Ambari
 * Apache HBase
   * https://en.wikipedia.org/wiki/Apache_HBase
+* Apdex
+  * https://en.wikipedia.org/wiki/Apdex
 * AWS Lambda
   * https://en.wikipedia.org/wiki/AWS_Lambda
 * Bounds-checking elimination
