@@ -28,6 +28,9 @@
 ## PROMETHEUS
 * Getting started
   * https://prometheus.io/docs/prometheus/latest/getting_started/
+* Querying
+  * [Functions](https://prometheus.io/docs/prometheus/latest/querying/functions/)
+    * rate()
 * Storage
   * https://prometheus.io/docs/prometheus/latest/storage/
 * Federation
