@@ -48,6 +48,8 @@
   * https://prometheus.io/docs/practices/consoles/
 * Instrumentation
   * https://prometheus.io/docs/practices/instrumentation/
+* Histograms and summaries
+  * https://prometheus.io/docs/practices/histograms/
 
 # Presentations
 * Monitoring, the Prometheus Way
