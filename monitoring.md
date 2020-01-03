@@ -5,6 +5,8 @@
   * http://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-average-random.html
 * #LatencyTipOfTheDay: You can't average percentiles. Period.
   * https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-you-cant-average.html
+
+### Misc.
 * Best IT Infrastructure Monitoring Tools in 2019
   * https://dzone.com/articles/best-it-infrastructure-monitoring-tools-in-2019
 * Logs and Metrics and Graphs, Oh My!
