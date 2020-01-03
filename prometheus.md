@@ -31,6 +31,7 @@
 * Querying
   * [Functions](https://prometheus.io/docs/prometheus/latest/querying/functions/)
     * histogram_quantile()
+    * irate()
     * rate()
 * Storage
   * https://prometheus.io/docs/prometheus/latest/storage/
