@@ -8,3 +8,5 @@
 ### [Concepts](https://kubernetes.io/docs/concepts/) 
 * Overview
   * [What is Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+  * [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
+  * [The Kubernetes API](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
