@@ -5,6 +5,10 @@
   * https://www.infoq.com/presentations/kubernetes-cluster-production
 
 ## Documentation
+### [Getting started](https://kubernetes.io/docs/setup/)
+* Learning environment
+  * [Installing Kubernetes with Minikube](https://kubernetes.io/docs/setup/learning-environment/minikube/)
+
 ### [Concepts](https://kubernetes.io/docs/concepts/) 
 * Overview
   * [What is Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
