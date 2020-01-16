@@ -15,3 +15,5 @@
   * https://blog.gradle.org/incremental-compiler-avoidance
 * Introducing Compile-Only Dependencies
   * https://blog.gradle.org/introducing-compile-only-dependencies
+* Introducing flaky test mitigation tools for Gradle
+  * https://blog.gradle.org/gradle-flaky-test-retry-plugin
