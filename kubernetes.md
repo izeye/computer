@@ -20,7 +20,9 @@
   * [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
   * [The Kubernetes API](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
 
-### [Tutorials](https://kubernetes.io/docs/tutorials/)
+### [Tasks](https://kubernetes.io/docs/tasks/)
 * Install Tools
   * [Install and Set Up kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
   * [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+
+### [Tutorials](https://kubernetes.io/docs/tutorials/)
