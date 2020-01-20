@@ -26,3 +26,4 @@
   * [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 
 ### [Tutorials](https://kubernetes.io/docs/tutorials/)
+* [Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
