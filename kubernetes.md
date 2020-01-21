@@ -27,3 +27,9 @@
 
 ### [Tutorials](https://kubernetes.io/docs/tutorials/)
 * [Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
+* Learn Kubernetes Basics
+  * [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+    * Create a Cluster
+      * [Using Minikube to Create a Cluster](https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/)
+      * [Interactive Tutorial - Creating a Cluster](https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/)
+      
