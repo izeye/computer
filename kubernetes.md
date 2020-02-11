@@ -47,3 +47,11 @@
     * Update Your App
       * [Performing a Rolling Update](https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/)
       * [Interactive Tutorial - Updating Your App](https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-interactive/)
+
+## Blogs
+* Kubernetes Federation V2 on OpenShift 3.11
+  * https://blog.openshift.com/kubernetes-federation-v2-on-openshift-3-11/
+
+## GitHub
+* Kubernetes Cluster Federation
+  * https://github.com/kubernetes-sigs/kubefed
