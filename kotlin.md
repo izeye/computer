@@ -6,6 +6,10 @@
 * Kotlin for Server Side
   * https://kotlinlang.org/docs/reference/server-overview.html
 
+#### Getting Started
+* Basic Syntax
+  * https://kotlinlang.org/docs/reference/basic-syntax.html
+
 ### [Tutorials](https://kotlinlang.org/docs/tutorials/)
 #### Getting Started
 * Getting Started with IntelliJ IDEA
