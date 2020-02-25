@@ -6,6 +6,10 @@
   * https://docs.gradle.org/current/userguide/publishing_maven.html
 * Dependency Locking
   * https://docs.gradle.org/current/userguide/dependency_locking.html
+* The Java Library Plugin
+  * https://docs.gradle.org/current/userguide/java_library_plugin.html
+* The Java Plugin
+  * https://docs.gradle.org/current/userguide/java_plugin.html
 
 ## Blogs
 ### Gradle Blog
