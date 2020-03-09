@@ -12,6 +12,10 @@
 * Idioms
   * https://kotlinlang.org/docs/reference/idioms.html
 
+#### Tools
+* Documenting Kotlin Code
+  * https://kotlinlang.org/docs/reference/kotlin-doc.html
+
 ### [Tutorials](https://kotlinlang.org/docs/tutorials/)
 #### Getting Started
 * Getting Started with IntelliJ IDEA
