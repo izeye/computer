@@ -9,6 +9,8 @@
 #### Getting Started
 * Basic Syntax
   * https://kotlinlang.org/docs/reference/basic-syntax.html
+* Idioms
+  * https://kotlinlang.org/docs/reference/idioms.html
 
 ### [Tutorials](https://kotlinlang.org/docs/tutorials/)
 #### Getting Started
