@@ -26,6 +26,8 @@
   * [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 * Run Applications
   * [Run a Stateless Application Using a Deployment](https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/)
+* Access Applications in a Cluster
+  * [Use a Service to Access an Application in a Cluster](https://kubernetes.io/docs/tasks/access-application-cluster/service-access-application-cluster/)
 
 ### [Tutorials](https://kubernetes.io/docs/tutorials/)
 * [Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
