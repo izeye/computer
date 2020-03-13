@@ -24,6 +24,8 @@
 * Install Tools
   * [Install and Set Up kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
   * [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+* Run Applications
+  * [Run a Stateless Application Using a Deployment](https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/)
 
 ### [Tutorials](https://kubernetes.io/docs/tutorials/)
 * [Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
