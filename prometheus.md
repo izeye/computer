@@ -61,6 +61,8 @@
 # Blogs
 * Exposing the software version to Prometheus
   * https://www.robustperception.io/exposing-the-software-version-to-prometheus
+* Get thee to a NaNnary
+  * https://www.robustperception.io/get-thee-to-a-nannary
 * How to have labels for machine roles
   * https://www.robustperception.io/how-to-have-labels-for-machine-roles
 * Target labels are for life, not just for Christmas
