@@ -8,6 +8,8 @@
   * https://github.blog/2018-01-25-multiple-issue-and-pull-request-templates/
 * SUPPORT file support
   * https://github.blog/2017-07-20-support-file-support/
+* Your new web notifications experience is here
+  * https://github.blog/2020-02-25-your-new-web-notifications-experience-is-here/
 
 ## Help
 * About issue and pull request templates
