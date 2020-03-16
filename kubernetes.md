@@ -51,6 +51,8 @@
     * Update Your App
       * [Performing a Rolling Update](https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/)
       * [Interactive Tutorial - Updating Your App](https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-interactive/)
+* Stateless Applications
+  * [Example: Deploying PHP Guestbook application with Redis](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/)
 
 ## Blogs
 * Kubernetes Federation V2 on OpenShift 3.11
