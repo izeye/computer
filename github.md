@@ -16,5 +16,11 @@
   * https://help.github.com/en/articles/about-issue-and-pull-request-templates
 * About saved replies
   * https://help.github.com/articles/about-saved-replies/
+* Configuring a publishing source for your GitHub Pages site
+  * https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 * Creating issue templates for your repository
   * https://help.github.com/en/articles/creating-issue-templates-for-your-repository
+
+## etc.
+* GitHub Pages
+  * https://pages.github.com/
