@@ -1,5 +1,7 @@
 # Docker
 ## Documentation
+* About Registry
+  * https://docs.docker.com/registry/introduction/
 * Install Docker
   * https://docs.docker.com/engine/installation/
 * Get Docker CE for CentOS
