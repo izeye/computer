@@ -21,3 +21,7 @@
   * https://blog.gradle.org/introducing-compile-only-dependencies
 * Introducing flaky test mitigation tools for Gradle
   * https://blog.gradle.org/gradle-flaky-test-retry-plugin
+
+## Misc.
+* gradle-git-publish
+  * https://github.com/ajoberstar/gradle-git-publish
