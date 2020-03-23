@@ -53,6 +53,10 @@
 * Optimizations performed by javac
   * https://briangordon.github.io/2014/01/javac-optimizations.html
 
+## JDK
+* OpenJDK — what flavour, what version?
+  * https://medium.com/@sdkman_/openjdk-what-flavour-what-version-5fb4c3e8df81
+
 ## JPA
 * How to detect the Hibernate N+1 query problem during testing
   * https://vladmihalcea.com/2014/02/01/how-to-detect-the-n-plus-one-query-problem-during-testing/
