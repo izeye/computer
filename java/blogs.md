@@ -56,6 +56,8 @@
 ## JDK
 * OpenJDK — what flavour, what version?
   * https://medium.com/@sdkman_/openjdk-what-flavour-what-version-5fb4c3e8df81
+* Which Java SDK Should You Use?
+  * https://developer.okta.com/blog/2019/01/16/which-java-sdk
 
 ## JPA
 * How to detect the Hibernate N+1 query problem during testing
