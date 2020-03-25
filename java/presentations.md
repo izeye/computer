@@ -160,6 +160,10 @@
 * Thread Sanitizing for Java with Jean Christophe Beyler, Arthur Eubanks, and Man Cao
   * https://www.youtube.com/watch?v=T_SOhTv6LR8
 
+## v JUG
+* The Future of Java / OpenJDK and how it impacts You!
+  * https://www.youtube.com/watch?v=078QIrp0SD8
+
 ## YouTube
 * Hibernate Tip: How to map a to-one association to an Optional
   * https://www.youtube.com/watch?v=I9hf-HUxQiA
