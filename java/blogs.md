@@ -56,6 +56,8 @@
 ## JDK
 * OpenJDK — what flavour, what version?
   * https://medium.com/@sdkman_/openjdk-what-flavour-what-version-5fb4c3e8df81
+* Using Java 11 In Production: Important Things To Know
+  * https://blog.jetbrains.com/idea/2018/09/using-java-11-in-production-important-things-to-know/
 * Which Java SDK Should You Use?
   * https://developer.okta.com/blog/2019/01/16/which-java-sdk
 
