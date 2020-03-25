@@ -158,6 +158,10 @@
 * Java SE 9 Platform Umbrella JSR (379)
   * http://openjdk.java.net/projects/jdk9/spec/
 
+## AdoptOpenJDK
+* Support
+  * https://adoptopenjdk.net/support.html
+
 ## Wikipedia
 * Constant interface
   * https://en.wikipedia.org/wiki/Constant_interface
