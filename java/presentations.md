@@ -4,6 +4,10 @@
 * Project Nashorn in Java 8
   * https://www.youtube.com/watch?v=8IxwLKMC0Nc
 
+### DEVOXX BELGIUM 18th edition
+* Quarkus why, how and what by Emmanuel Bernard
+  * https://www.youtube.com/watch?v=SQDR34KoC-8
+
 ## GOTO Nights
 * 2017-02-16
   * Chris Richardson & Kenny Bastini on Eventual Consistency in JVM Microservices with Event Sourcing
