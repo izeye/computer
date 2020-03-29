@@ -160,6 +160,10 @@
 * Thread Sanitizing for Java with Jean Christophe Beyler, Arthur Eubanks, and Man Cao
   * https://www.youtube.com/watch?v=T_SOhTv6LR8
 
+## Oracle Learning
+* Technical Intro to Graal: A Multi-language VM Platform
+  * https://www.youtube.com/watch?v=8aku17r-oaU
+
 ## v JUG
 * The Future of Java / OpenJDK and how it impacts You!
   * https://www.youtube.com/watch?v=078QIrp0SD8
