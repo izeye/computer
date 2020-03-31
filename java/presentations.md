@@ -168,6 +168,11 @@
 * Technical Intro to Graal: A Multi-language VM Platform
   * https://www.youtube.com/watch?v=8aku17r-oaU
 
+## Qcon
+### Qcon New York 2019
+* Graal: Not Just a New JIT for the JVM
+  * https://www.youtube.com/watch?v=giC1Vs7-xuU
+
 ## v JUG
 * The Future of Java / OpenJDK and how it impacts You!
   * https://www.youtube.com/watch?v=078QIrp0SD8
