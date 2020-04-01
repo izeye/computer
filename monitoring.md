@@ -17,5 +17,7 @@
   * https://dzone.com/articles/best-it-infrastructure-monitoring-tools-in-2019
 * Logs and Metrics and Graphs, Oh My!
   * https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/
+* TeamCity Memory Monitor
+  * https://www.jetbrains.com/help/teamcity/teamcity-memory-monitor.html
 * Why irate from Prometheus doesn't capture spikes
   * https://medium.com/@valyala/why-irate-from-prometheus-doesnt-capture-spikes-45f9896d7832
