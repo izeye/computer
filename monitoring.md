@@ -12,6 +12,12 @@
 * #LatencyTipOfTheDay: You can't average percentiles. Period.
   * https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-you-cant-average.html
 
+### Aliaksandr Valialkin
+* Improving histogram usability for Prometheus and Grafana
+  * https://medium.com/@valyala/improving-histogram-usability-for-prometheus-and-grafana-bc7e5df0e350
+* Why irate from Prometheus doesn't capture spikes
+  * https://medium.com/@valyala/why-irate-from-prometheus-doesnt-capture-spikes-45f9896d7832
+
 ### Misc.
 * Best IT Infrastructure Monitoring Tools in 2019
   * https://dzone.com/articles/best-it-infrastructure-monitoring-tools-in-2019
@@ -19,5 +25,3 @@
   * https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/
 * TeamCity Memory Monitor
   * https://www.jetbrains.com/help/teamcity/teamcity-memory-monitor.html
-* Why irate from Prometheus doesn't capture spikes
-  * https://medium.com/@valyala/why-irate-from-prometheus-doesnt-capture-spikes-45f9896d7832
