@@ -26,6 +26,8 @@
 * Install Tools
   * [Install and Set Up kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
   * [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+* Configure Pods and Containers
+  * [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
 * Run Applications
   * [Run a Stateless Application Using a Deployment](https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/)
 * Access Applications in a Cluster
