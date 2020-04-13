@@ -2,6 +2,9 @@
 * 2020-03-27
   * @DynamicPropertySource in Spring Framework 5.2.5 and Spring Boot 2.2.6
     * https://spring.io/blog/2020/03/27/dynamicpropertysource-in-spring-framework-5-2-5-and-spring-boot-2-2-6
+* 2020-03-25
+  * Liveness and Readiness Probes with Spring Boot
+    * https://spring.io/blog/2020/03/25/liveness-and-readiness-probes-with-spring-boot
 * 2020-01-27
   * Creating Docker images with Spring Boot 2.3.0.M1
     * https://spring.io/blog/2020/01/27/creating-docker-images-with-spring-boot-2-3-0-m1
