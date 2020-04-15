@@ -1,5 +1,7 @@
 # GitHub
 ## Blog
+* GitHub is now free for teams
+  * https://github.blog/2020-04-14-github-is-now-free-for-teams/
 * Introducing draft pull requests
   * https://github.blog/2019-02-14-introducing-draft-pull-requests/
 * Manage issues and pull requests with keyword updates
