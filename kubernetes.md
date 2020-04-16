@@ -19,6 +19,8 @@
   * [What is Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
   * [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
   * [The Kubernetes API](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
+* Services, Load Balancing, and Networking
+  * [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 * Configuration
   * [Configuration Best Practices](https://kubernetes.io/docs/concepts/configuration/overview/)
 
