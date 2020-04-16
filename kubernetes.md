@@ -69,3 +69,7 @@
 ## GitHub
 * Kubernetes Cluster Federation
   * https://github.com/kubernetes-sigs/kubefed
+
+## Misc.
+* NGINX Ingress Controller for Kubernetes
+  * https://www.nginx.com/products/nginx/kubernetes-ingress-controller
