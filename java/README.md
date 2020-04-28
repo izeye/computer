@@ -15,6 +15,8 @@
   * https://github.com/spring-io/spring-javaformat
 
 ## Articles
+* Automatic-Module-Name: Calling All Java Library Maintainers
+  * https://dzone.com/articles/automatic-module-name-calling-all-java-library-maintainers
 * ClassNotFoundException vs. NoClassDefFoundError
   * https://dzone.com/articles/java-classnotfoundexception-vs-noclassdeffounderro
 * Dealing with InterruptedException
