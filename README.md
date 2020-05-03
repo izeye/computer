@@ -151,6 +151,8 @@
 ## Misc.
 * Convenience Methods
   * http://wiki.c2.com/?ConvenienceMethods
+* Paketo Buildpacks
+  * https://paketo.io/
 * THE SPEED-UP LOOP
   * https://thedailywtf.com/articles/The-Speedup-Loop
 * ZooKeeper Getting Started Guide
