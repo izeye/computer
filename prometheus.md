@@ -69,3 +69,5 @@
   * https://www.robustperception.io/target-labels-are-for-life-not-just-for-christmas
 * Translating between monitoring languages
   * https://www.robustperception.io/translating-between-monitoring-languages
+* Using group_left to calculate label proportions
+  * https://www.robustperception.io/using-group_left-to-calculate-label-proportions
