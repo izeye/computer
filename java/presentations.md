@@ -8,6 +8,9 @@
 * Quarkus why, how and what by Emmanuel Bernard
   * https://www.youtube.com/watch?v=SQDR34KoC-8
 
+### DEVOXX UNITED STATES
+* [Optional by Stuart Marks](https://www.youtube.com/watch?v=fBYhtvY19xA)
+
 ## GOTO Nights
 * 2017-02-16
   * Chris Richardson & Kenny Bastini on Eventual Consistency in JVM Microservices with Event Sourcing
