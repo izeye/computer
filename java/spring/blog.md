@@ -1,4 +1,6 @@
 # Spring Blog
+* 2020-06-12
+  * [Spring Boot 2.3.1 available now](https://spring.io/blog/2020/06/12/spring-boot-2-3-1-available-now)
 * 2020-05-01
   * [Spring Boot 2.3.0.RC1 available now](https://spring.io/blog/2020/05/01/spring-boot-2-3-0-rc1-available-now)
 * 2020-03-27
