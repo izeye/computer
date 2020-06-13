@@ -10,3 +10,6 @@
   * https://www.docker.com/what-docker
 * What is a Container
   * https://www.docker.com/what-container
+
+## Presentations
+* [2017 swampUP Sessions | Distroless Docker: Containerizing Apps, not VMs - Matthew Moore](https://www.youtube.com/watch?v=lviLZFciDv4)
