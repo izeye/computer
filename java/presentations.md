@@ -9,6 +9,7 @@
   * https://www.youtube.com/watch?v=SQDR34KoC-8
 
 ### DEVOXX UNITED STATES
+* [Collections Refueled by Stuart Marks](https://www.youtube.com/watch?v=q6zF3vf114M)
 * [Optional by Stuart Marks](https://www.youtube.com/watch?v=fBYhtvY19xA)
 
 ## GOTO Nights
