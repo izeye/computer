@@ -5,8 +5,8 @@
   * https://www.youtube.com/watch?v=8IxwLKMC0Nc
 
 ### DEVOXX BELGIUM 18th edition
-* Quarkus why, how and what by Emmanuel Bernard
-  * https://www.youtube.com/watch?v=SQDR34KoC-8
+* [Collections Corner Cases by Stuart Marks](https://www.youtube.com/watch?v=OXdm5BzQ8mI)
+* [Quarkus why, how and what by Emmanuel Bernard](https://www.youtube.com/watch?v=SQDR34KoC-8)
 
 ### DEVOXX UNITED STATES
 * [Collections Refueled by Stuart Marks](https://www.youtube.com/watch?v=q6zF3vf114M)
