@@ -1,4 +1,6 @@
 # Spring Blog
+* 2020-06-18
+  * [What's new in Spring Boot 2.3](https://spring.io/blog/2020/06/18/what-s-new-in-spring-boot-2-3)
 * 2020-06-12
   * [Spring Boot 2.3.1 available now](https://spring.io/blog/2020/06/12/spring-boot-2-3-1-available-now)
 * 2020-05-01
