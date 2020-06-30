@@ -1,4 +1,6 @@
 # Spring Blog
+* 2020-06-29
+  * [Spring Boot 2.4.0-M1 is now available](https://spring.io/blog/2020/06/29/spring-boot-2-4-0-m1-is-now-available)
 * 2020-06-18
   * [What's new in Spring Boot 2.3](https://spring.io/blog/2020/06/18/what-s-new-in-spring-boot-2-3)
 * 2020-06-12
