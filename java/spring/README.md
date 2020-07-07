@@ -11,14 +11,11 @@
   * https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-ann-async
 
 ## GETTING STARTED GUIDES
-* Enabling Cross Origin Requests for a RESTful Web Service
-  * https://spring.io/guides/gs/rest-service-cors/
-* Routing and Filtering
-  * https://spring.io/guides/gs/routing-and-filtering/
-* Service Registration and Discovery
-  * https://spring.io/guides/gs/service-registration-and-discovery/
-* Spring Boot with Docker
-  * https://spring.io/guides/gs/spring-boot-docker/
+* [Creating a Batch Service](https://spring.io/guides/gs/batch-processing/)
+* [Enabling Cross Origin Requests for a RESTful Web Service](https://spring.io/guides/gs/rest-service-cors/)
+* [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/)
+* [Service Registration and Discovery](https://spring.io/guides/gs/service-registration-and-discovery/)
+* [Spring Boot with Docker](https://spring.io/guides/gs/spring-boot-docker/)
 
 ## News
 ### InfoQ
