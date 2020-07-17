@@ -107,6 +107,9 @@
 * Named Capturing Group in JDK7 RegEx
   * https://blogs.oracle.com/xuemingshen/entry/named_capturing_group_in_jdk7
 
+## Security
+* [Calculate HMAC-Sha256 with Java](https://sorenpoulsen.com/calculate-hmac-sha256-with-java)
+
 ## Stream
 * JAVA 8: AN ENDLESS STREAM OF RANDOM NUMBERS
   * http://adambien.blog/roller/abien/entry/java_8_an_endless_stream
