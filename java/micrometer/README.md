@@ -24,4 +24,5 @@
 
 ## Presentations
 * [Introducing Micrometer Application Metrics](https://www.infoq.com/presentations/micrometer)
+* [Observability with Spring-Based Distributed Systems](https://www.youtube.com/watch?v=PM0mO4IxpSE)
 * [Webinar: Micrometer: It's SLF4J—but for Metrics!](https://www.youtube.com/watch?v=LkWVFz9WGeU)
