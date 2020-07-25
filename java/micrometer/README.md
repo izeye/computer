@@ -24,3 +24,4 @@
 
 ## Presentations
 * [Introducing Micrometer Application Metrics](https://www.infoq.com/presentations/micrometer)
+* [Webinar: Micrometer: It's SLF4J—but for Metrics!](https://www.youtube.com/watch?v=LkWVFz9WGeU)
