@@ -11,6 +11,7 @@
 ## SpringOne Platform 2019
 * [Best Practices to Spring to Kubernetes Easier and Faster](https://www.youtube.com/watch?v=YTPUNesUIbI)
 * [How to Get Productive with Spring Boot](https://www.youtube.com/watch?v=oZJ91pWBWpQ)
+* [JUnit 5 - Evolution and Innovation](https://www.youtube.com/watch?v=VP0vb-FxyNw)
 * [Testing Spring Boot Applications](https://www.youtube.com/watch?v=Wpz6b8ZEgcU)
 
 ## InfoQ
