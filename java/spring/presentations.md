@@ -14,5 +14,8 @@
 * [JUnit 5 - Evolution and Innovation](https://www.youtube.com/watch?v=VP0vb-FxyNw)
 * [Testing Spring Boot Applications](https://www.youtube.com/watch?v=Wpz6b8ZEgcU)
 
+## Spring I/O Bridge 2020
+* [Chaos Monkey for Spring Boot - John Fletcher & Manuel Wessner @ Spring I/O Bridge](https://www.youtube.com/watch?v=WeQFMEBp8nw)
+
 ## InfoQ
 * [What's New in Spring Boot 2.0](https://www.infoq.com/presentations/spring-boot-2)
