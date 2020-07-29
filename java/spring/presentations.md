@@ -5,6 +5,7 @@
 * [It's a Kind of Magic: Under the Covers of Spring Boot - Brian Clozel, Stéphane Nicoll](https://www.youtube.com/watch?v=jDchAEHIht0)
 
 ## SpringOne Platform 2018
+* [Guide to "Reactive" for Spring MVC Developers](https://www.youtube.com/watch?v=IZ2SoXUiS7M)
 * [JUnit 5: the Next Step in Automated Testing](https://www.youtube.com/watch?v=K7g2HUhWbNE)
 * [Mastering Spring Boot's Actuator](https://www.youtube.com/watch?v=otcYECeFS6Y)
 
