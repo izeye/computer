@@ -2,6 +2,9 @@
 
 ## Documentation
 ### Containers 
+#### Google Kubernetes Engine (GKE) 
+* [Exposing applications using services](https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps#kubectl-apply)
+
 #### Container Registry 
 * [Pushing and pulling images](https://cloud.google.com/container-registry/docs/pushing-and-pulling)
 
