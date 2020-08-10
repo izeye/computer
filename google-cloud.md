@@ -9,6 +9,8 @@
     * [Exposing applications using services](https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps)
 
 ##### Concepts
+* Workloads on GKE
+  * [StatefulSet](https://cloud.google.com/kubernetes-engine/docs/concepts/statefulset)
 * Storage
   * [Storage overview](https://cloud.google.com/kubernetes-engine/docs/concepts/storage-overview)
   * [Volumes](https://cloud.google.com/kubernetes-engine/docs/concepts/volumes)
