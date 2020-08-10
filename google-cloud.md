@@ -4,6 +4,8 @@
 ### Containers
 #### Google Kubernetes Engine (GKE)
 ##### How-to guides
+* Deploying workloads to clusters
+  * [Deploying a stateful application](https://cloud.google.com/kubernetes-engine/docs/how-to/stateful-apps)
 * Configuring cluster networking
   * Load balancing
     * [Exposing applications using services](https://cloud.google.com/kubernetes-engine/docs/how-to/exposing-apps)
