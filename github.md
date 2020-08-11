@@ -23,6 +23,10 @@
 * Creating issue templates for your repository
   * https://help.github.com/en/articles/creating-issue-templates-for-your-repository
 
+## Marketplace
+### Apps
+* [Google Cloud Build](https://github.com/marketplace/google-cloud-build)
+
 ## etc.
 * GitHub Pages
   * https://pages.github.com/
