@@ -63,5 +63,6 @@
   * https://www.infoq.com/presentations/spring-data-4
 
 ## Blogs
+* [An Introduction to Spring Data Redis Reactive](https://www.baeldung.com/spring-data-redis-reactive)
 * [Introduction to Spring Data Redis](https://www.baeldung.com/spring-data-redis-tutorial)
 * [Spring JSON-P with Jackson](https://www.baeldung.com/spring-jackson-jsonp)
