@@ -63,5 +63,5 @@
   * https://www.infoq.com/presentations/spring-data-4
 
 ## Blogs
-* Spring JSON-P with Jackson
-  * https://www.baeldung.com/spring-jackson-jsonp
+* [Introduction to Spring Data Redis](https://www.baeldung.com/spring-data-redis-tutorial)
+* [Spring JSON-P with Jackson](https://www.baeldung.com/spring-jackson-jsonp)
