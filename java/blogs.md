@@ -103,6 +103,9 @@
 * Tired of Null Pointer Exceptions? Consider Using Java SE 8's Optional!
   * http://www.oracle.com/technetwork/articles/java/java8-optional-2175753.html
 
+## Performance
+* [Micro optimizations in Java. String.equals()](https://medium.com/javarevisited/micro-optimizations-in-java-string-equals-22be19fd8416)
+
 ## Regular Expression
 * Named Capturing Group in JDK7 RegEx
   * https://blogs.oracle.com/xuemingshen/entry/named_capturing_group_in_jdk7
