@@ -11,6 +11,7 @@
   * https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-ann-async
 
 ## GETTING STARTED GUIDES
+* [Accessing Data Reactively with Redis](https://spring.io/guides/gs/spring-data-reactive-redis/)
 * [Creating a Batch Service](https://spring.io/guides/gs/batch-processing/)
 * [Enabling Cross Origin Requests for a RESTful Web Service](https://spring.io/guides/gs/rest-service-cors/)
 * [Routing and Filtering](https://spring.io/guides/gs/routing-and-filtering/)
