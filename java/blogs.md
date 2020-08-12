@@ -105,6 +105,7 @@
 
 ## Performance
 * [Micro optimizations in Java. String.equals()](https://medium.com/javarevisited/micro-optimizations-in-java-string-equals-22be19fd8416)
+* [Micro optimizations in Java. String.equalsIgnoreCase()](https://medium.com/javarevisited/micro-optimizations-in-java-string-equalsignorecase-ea25dfb03f95)
 
 ## Regular Expression
 * Named Capturing Group in JDK7 RegEx
