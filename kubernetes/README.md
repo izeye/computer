@@ -31,6 +31,8 @@
   * [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 * Configure Pods and Containers
   * [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
+* Inject Data Into Applications
+  * [Distribute Credentials Securely Using Secrets](https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/)
 * Run Applications
   * [Run a Stateless Application Using a Deployment](https://kubernetes.io/docs/tasks/run-application/run-stateless-application-deployment/)
 * Access Applications in a Cluster
