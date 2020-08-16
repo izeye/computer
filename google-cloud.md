@@ -28,5 +28,8 @@
 * [Quickstart for macOS](https://cloud.google.com/sdk/docs/quickstart-macos)
 
 #### Cloud Build
+##### [Quickstarts](https://cloud.google.com/cloud-build/docs/quickstarts)
+* [Quickstart: Build](https://cloud.google.com/cloud-build/docs/quickstart-build)
+
 ##### Concepts
 * [Build configuration overview](https://cloud.google.com/cloud-build/docs/build-config)
