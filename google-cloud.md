@@ -26,3 +26,7 @@
 #### Cloud SDK: Command Line Interface
 ##### Quickstarts
 * [Quickstart for macOS](https://cloud.google.com/sdk/docs/quickstart-macos)
+
+#### Cloud Build
+##### Concepts
+* [Build configuration overview](https://cloud.google.com/cloud-build/docs/build-config)
