@@ -18,6 +18,10 @@
   * [Volumes](https://cloud.google.com/kubernetes-engine/docs/concepts/volumes)
   * [Persistent volumes with persistent disks](https://cloud.google.com/kubernetes-engine/docs/concepts/persistent-volumes)
 
+##### Tutorials
+* Continuous integration and delivery
+  * [GitOps-style continuous delivery with Cloud Build](https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build)
+
 #### Container Registry
 ##### How-to guides
 * [Pushing and pulling images](https://cloud.google.com/container-registry/docs/pushing-and-pulling)
