@@ -33,3 +33,6 @@
 
 ##### Concepts
 * [Build configuration overview](https://cloud.google.com/cloud-build/docs/build-config)
+
+##### Tutorials
+* [Running builds on GitHub](https://cloud.google.com/cloud-build/docs/automating-builds/run-builds-on-github)
