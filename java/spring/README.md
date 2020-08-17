@@ -66,4 +66,5 @@
 ## Blogs
 * [An Introduction to Spring Data Redis Reactive](https://www.baeldung.com/spring-data-redis-reactive)
 * [Introduction to Spring Data Redis](https://www.baeldung.com/spring-data-redis-tutorial)
+* [Simultaneous Spring WebClient Calls](https://www.baeldung.com/spring-webclient-simultaneous-calls)
 * [Spring JSON-P with Jackson](https://www.baeldung.com/spring-jackson-jsonp)
