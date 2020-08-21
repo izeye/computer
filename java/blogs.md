@@ -103,6 +103,9 @@
 * Tired of Null Pointer Exceptions? Consider Using Java SE 8's Optional!
   * http://www.oracle.com/technetwork/articles/java/java8-optional-2175753.html
 
+## Object
+* [How to Get the Size of an Object in Java](https://www.baeldung.com/java-size-of-object)
+
 ## Performance
 * [Micro optimizations in Java. String.equals()](https://medium.com/javarevisited/micro-optimizations-in-java-string-equals-22be19fd8416)
 * [Micro optimizations in Java. String.equalsIgnoreCase()](https://medium.com/javarevisited/micro-optimizations-in-java-string-equalsignorecase-ea25dfb03f95)
