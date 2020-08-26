@@ -20,3 +20,6 @@
 ## Blogs
 * git rebase –onto
   * https://content.pivotal.io/blog/git-rebase-onto
+
+## Wikis
+* [Working with Git branches](https://github.com/spring-projects/spring-boot/wiki/Working-with-Git-branches)
