@@ -23,3 +23,6 @@
 
 ## Wikis
 * [Working with Git branches](https://github.com/spring-projects/spring-boot/wiki/Working-with-Git-branches)
+
+## Documentation
+* [Maintenance Branches](https://yastgithubio.readthedocs.io/en/latest/maintenance-branches/)
