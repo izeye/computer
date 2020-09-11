@@ -160,6 +160,10 @@
 * Java SE 9 Platform Umbrella JSR (379)
   * http://openjdk.java.net/projects/jdk9/spec/
 
+## VisualVM
+* VisualVM GitHub
+  * https://github.com/oracle/visualvm
+
 ## AdoptOpenJDK
 * Support
   * https://adoptopenjdk.net/support.html
