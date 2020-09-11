@@ -23,6 +23,8 @@
   * [GitOps-style continuous delivery with Cloud Build](https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build)
 
 #### Container Registry
+* [Quickstart for Container Registry](https://cloud.google.com/container-registry/docs/quickstart)
+
 ##### How-to guides
 * [Pushing and pulling images](https://cloud.google.com/container-registry/docs/pushing-and-pulling)
 
