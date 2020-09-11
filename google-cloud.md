@@ -44,3 +44,6 @@
 ##### Tutorials
 * [Accessing private GitHub repositories](https://cloud.google.com/cloud-build/docs/access-private-github-repos)
 * [Running builds on GitHub](https://cloud.google.com/cloud-build/docs/automating-builds/run-builds-on-github)
+
+## Blogs
+* [Using Google Container Registry with Kubernetes](https://blog.container-solutions.com/using-google-container-registry-with-kubernetes)
