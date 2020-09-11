@@ -27,6 +27,7 @@
 
 ##### How-to guides
 * [Pushing and pulling images](https://cloud.google.com/container-registry/docs/pushing-and-pulling)
+* [Authentication methods](https://cloud.google.com/container-registry/docs/advanced-authentication#console)
 
 ### Developer Tools
 #### Cloud SDK: Command Line Interface
