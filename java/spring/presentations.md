@@ -21,6 +21,7 @@
 * [What Is Spring?](https://www.youtube.com/watch?v=W6KTXsG7ToI)
 * [Introducing Spring Framework 5.3](https://www.youtube.com/watch?v=u0qrHua7s6M)
 * [Unleash the True Power of Spring Cloud: Learn How to Customize Spring Cloud](https://www.youtube.com/watch?v=rAEBIzaiqNw)
+* [Distribute Your App and Engage Your Community with a Helm Repository](https://www.youtube.com/watch?v=9Z7ntlg4xc4)
 
 ## Spring I/O Bridge 2020
 * [Chaos Monkey for Spring Boot - John Fletcher & Manuel Wessner @ Spring I/O Bridge](https://www.youtube.com/watch?v=WeQFMEBp8nw)
