@@ -49,6 +49,8 @@
 * Pre-loading data into the file system cache
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/_pre_loading_data_into_the_file_system_cache.html
 
+### [Index templates](https://www.elastic.co/guide/en/elasticsearch/reference/current/index-templates.html)
+
 ## Elasticsearch: The Definitive Guide
 ### Getting Started
 #### Inside a Shard
