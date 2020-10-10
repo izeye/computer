@@ -23,6 +23,7 @@
 * [Unleash the True Power of Spring Cloud: Learn How to Customize Spring Cloud](https://www.youtube.com/watch?v=rAEBIzaiqNw)
 * [Distribute Your App and Engage Your Community with a Helm Repository](https://www.youtube.com/watch?v=9Z7ntlg4xc4)
 * [Revealing Resilience Vulnerabilities in Spring Boot Architectures](https://www.youtube.com/watch?v=EFTCi9HRUt0)
+* [Fundamental Spring Boot: Keep it Simple, Get it Right, Be Productive and Have Fun!](https://www.youtube.com/watch?v=Hg4XT2y11lw)
 
 ## Spring I/O Bridge 2020
 * [Chaos Monkey for Spring Boot - John Fletcher & Manuel Wessner @ Spring I/O Bridge](https://www.youtube.com/watch?v=WeQFMEBp8nw)
