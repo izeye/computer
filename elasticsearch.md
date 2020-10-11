@@ -28,6 +28,9 @@
 * Mapping
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html
 
+#### Metadata fields
+* [`_source` field](https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-source-field.html)
+
 #### Mapping parameters
 * doc_values
   * https://www.elastic.co/guide/en/elasticsearch/reference/current/doc-values.html
