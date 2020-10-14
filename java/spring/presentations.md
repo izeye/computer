@@ -28,6 +28,7 @@
 * [Bulletproof Microservices with Spring and Kubernetes](https://www.youtube.com/watch?v=aI19ZYV4-7o)
 * [Introduction to Spring Cloud](https://www.youtube.com/watch?v=PpW5aPfw06I)
 * [What’s New in Spring Data MongoDB](https://www.youtube.com/watch?v=IrqwL3-B4NQ)
+* [Staying Ahead of the Curve with Spring and Cassandra 4](https://www.youtube.com/watch?v=DV33DBar5m8)
 
 ## Spring I/O Bridge 2020
 * [Chaos Monkey for Spring Boot - John Fletcher & Manuel Wessner @ Spring I/O Bridge](https://www.youtube.com/watch?v=WeQFMEBp8nw)
