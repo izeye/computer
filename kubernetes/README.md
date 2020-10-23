@@ -24,6 +24,7 @@
   * [Ingress Controllers](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)
 * Configuration
   * [Configuration Best Practices](https://kubernetes.io/docs/concepts/configuration/overview/)
+  * [Organizing Cluster Access Using kubeconfig Files](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/)
 
 ### [Tasks](https://kubernetes.io/docs/tasks/)
 * Install Tools
