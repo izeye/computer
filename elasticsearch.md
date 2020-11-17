@@ -115,6 +115,11 @@
 * Installing X-Pack
   * https://www.elastic.co/guide/en/x-pack/current/installing-xpack.html
 
+## Java REST Client
+### Java Low Level REST Client
+* [Sniffer](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/sniffer.html)
+  * [Usage](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/_usage.html)
+
 ## Blogs
 * A Heap of Trouble
   * https://www.elastic.co/blog/a-heap-of-trouble
