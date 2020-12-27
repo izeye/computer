@@ -1,17 +1,12 @@
 # GitHub
 ## Blog
-* GitHub is now free for teams
-  * https://github.blog/2020-04-14-github-is-now-free-for-teams/
-* Introducing draft pull requests
-  * https://github.blog/2019-02-14-introducing-draft-pull-requests/
-* Manage issues and pull requests with keyword updates
-  * https://github.com/blog/2398-manage-issues-and-pull-requests-with-keyword-updates
-* Multiple issue and pull request templates
-  * https://github.blog/2018-01-25-multiple-issue-and-pull-request-templates/
-* SUPPORT file support
-  * https://github.blog/2017-07-20-support-file-support/
-* Your new web notifications experience is here
-  * https://github.blog/2020-02-25-your-new-web-notifications-experience-is-here/
+* [GitHub is now free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
+* [Introducing draft pull requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
+* [Manage issues and pull requests with keyword updates](https://github.com/blog/2398-manage-issues-and-pull-requests-with-keyword-updates)
+* [Multiple issue and pull request templates](https://github.blog/2018-01-25-multiple-issue-and-pull-request-templates/)
+* [SUPPORT file support](https://github.blog/2017-07-20-support-file-support/)
+* [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
+* [Your new web notifications experience is here](https://github.blog/2020-02-25-your-new-web-notifications-experience-is-here/)
 
 ## Help
 * About issue and pull request templates
