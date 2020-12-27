@@ -1,10 +1,9 @@
 # monitoring
 ## Blogs
 ### Robust Perception
-* Irate graphs are better graphs
-  * https://www.robustperception.io/irate-graphs-are-better-graphs
-* Monitoring: Not Just For Outages
-  * https://www.robustperception.io/monitoring-not-just-for-outages
+* [How does a Prometheus Counter work?](https://www.robustperception.io/how-does-a-prometheus-counter-work)
+* [Irate graphs are better graphs](https://www.robustperception.io/irate-graphs-are-better-graphs)
+* [Monitoring: Not Just For Outages](https://www.robustperception.io/monitoring-not-just-for-outages)
 
 ### Latency Tip Of The Day
 * #LatencyTipOfTheDay: Average (def): a random number that falls somewhere between the maximum and 1/2 the median. Most often used to ignore reality.
