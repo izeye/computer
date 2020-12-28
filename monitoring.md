@@ -24,3 +24,8 @@
   * https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/
 * TeamCity Memory Monitor
   * https://www.jetbrains.com/help/teamcity/teamcity-memory-monitor.html
+
+## Presentations
+* Counting with Prometheus
+  * Video: [Counting with Prometheus [I] - Brian Brazil, Robust Perception](https://www.youtube.com/watch?v=67Ulrq6DxwA)
+  * Slides: [Counting with Prometheus (CloudNativeCon+Kubecon Europe 2017)](https://www.slideshare.net/brianbrazil/counting-with-prometheus-cloudnativeconkubecon-europe-2017)
