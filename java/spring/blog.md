@@ -9,6 +9,8 @@
   * [Spring Boot 2.3.1 available now](https://spring.io/blog/2020/06/12/spring-boot-2-3-1-available-now)
 * 2020-05-01
   * [Spring Boot 2.3.0.RC1 available now](https://spring.io/blog/2020/05/01/spring-boot-2-3-0-rc1-available-now)
+* 2020-04-07
+  * [Spring Data for Apache Solr Discontinued](https://spring.io/blog/2020/04/07/spring-data-for-apache-solr-discontinued)
 * 2020-03-27
   * @DynamicPropertySource in Spring Framework 5.2.5 and Spring Boot 2.2.6
     * https://spring.io/blog/2020/03/27/dynamicpropertysource-in-spring-framework-5-2-5-and-spring-boot-2-2-6
