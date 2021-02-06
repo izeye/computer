@@ -27,6 +27,7 @@
 * Counting with Prometheus
   * Video: [Counting with Prometheus [I] - Brian Brazil, Robust Perception](https://www.youtube.com/watch?v=67Ulrq6DxwA)
   * Slides: [Counting with Prometheus (CloudNativeCon+Kubecon Europe 2017)](https://www.slideshare.net/brianbrazil/counting-with-prometheus-cloudnativeconkubecon-europe-2017)
+* ["How NOT to Measure Latency" by Gil Tene](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
 
 ## Misc.
 * [HdrHistogram: A High Dynamic Range Histogram.](http://hdrhistogram.org/)
