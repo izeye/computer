@@ -18,12 +18,10 @@
   * https://medium.com/@valyala/why-irate-from-prometheus-doesnt-capture-spikes-45f9896d7832
 
 ### Misc.
-* Best IT Infrastructure Monitoring Tools in 2019
-  * https://dzone.com/articles/best-it-infrastructure-monitoring-tools-in-2019
-* Logs and Metrics and Graphs, Oh My!
-  * https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/
-* TeamCity Memory Monitor
-  * https://www.jetbrains.com/help/teamcity/teamcity-memory-monitor.html
+* [Best IT Infrastructure Monitoring Tools in 2019](https://dzone.com/articles/best-it-infrastructure-monitoring-tools-in-2019)
+* [Logs and Metrics and Graphs, Oh My!](https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/)
+* [TeamCity Memory Monitor](https://www.jetbrains.com/help/teamcity/teamcity-memory-monitor.html)
+* [Your Load Generator Is Probably Lying To You - Take The Red Pill And Find Out Why](http://highscalability.com/blog/2015/10/5/your-load-generator-is-probably-lying-to-you-take-the-red-pi.html)
 
 ## Presentations
 * Counting with Prometheus
