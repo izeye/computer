@@ -122,3 +122,6 @@
   * http://adambien.blog/roller/abien/entry/java_8_an_endless_stream
 * JAVA 8 FLATMAP EXAMPLE
   * http://www.adam-bien.com/roller/abien/entry/java_8_flatmap_example
+
+## Misc.
+* [Into the Sunset on May 1st: Bintray, JCenter, GoCenter, and ChartCenter](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/)
