@@ -8,6 +8,9 @@
   * Adrian Cole
   * https://www.dotconferences.com/2017/04/adrian-cole-observability-3-ways-logging-metrics-tracing
 
+## Devnexus 2021
+* [KEYNOTE Devnexus 2021 Lauren Schaefer Top Ten Tips for Making Remote Work Actually Work Right Now](https://www.youtube.com/watch?v=atxJEVQvvCs)
+
 ## InfoQ
 * Hello Ansible: A Story about Infrastructure Agility
   * Baraa Basata
