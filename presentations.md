@@ -11,6 +11,7 @@
 ## Devnexus 2021
 * [KEYNOTE Devnexus 2021 Lauren Schaefer Top Ten Tips for Making Remote Work Actually Work Right Now](https://www.youtube.com/watch?v=atxJEVQvvCs)
 * [KEYNOTE Devnexus 2021 Michael Carducci Ego Driven Development](https://www.youtube.com/watch?v=tsHecVMyM5s)
+* [Devnexus 2021 Valerie Regas Using Jenkins to Build, Deploy, and Automate Projects](https://www.youtube.com/watch?v=ZjAfEGubG6Q)
 
 ## InfoQ
 * Hello Ansible: A Story about Infrastructure Agility
