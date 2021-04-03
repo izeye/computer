@@ -4,6 +4,10 @@
 * GitHub
   * https://github.com/hrldcpr/pcollections
 
+### Rewrite
+* GitHub
+  * https://github.com/openrewrite/rewrite
+
 ### Resilience4j
 #### Resilience4j User Guide
 ##### 3. Usage Guide
