@@ -14,21 +14,9 @@
 * [Devnexus 2021 Valerie Regas Using Jenkins to Build, Deploy, and Automate Projects](https://www.youtube.com/watch?v=ZjAfEGubG6Q)
 
 ## InfoQ
-* Hello Ansible: A Story about Infrastructure Agility
-  * Baraa Basata
-  * https://www.infoq.com/presentations/ansible-automation-principles
-* How to Build Spring Services for Cloud-Native Platforms Using the Open Service Broker API
-  * Matthew McNeeney, Sam Gunaratne
-  * https://www.infoq.com/presentations/pivotal-service-broker-api
-* Hypermedia Web API as a Network of Data
-  * Todd Brackley
-  * https://www.infoq.com/presentations/data-hypermedia-rest
-* Paving the Road to Production
-  * Graham Jenson
-  * https://www.infoq.com/presentations/deploy-pipelines-coinbase/
-* Securing Serverless - by Breaking in
-  * Guy Podjarny
-  * https://www.infoq.com/presentations/serverless-security-2018
-* Your Attention, Please: Optimizing Metrics for Humans
-  * John Feminella
-  * https://www.infoq.com/presentations/data-visualization-metrics-humans
+* [Hello Ansible: A Story about Infrastructure Agility](https://www.infoq.com/presentations/ansible-automation-principles) by Baraa Basata
+* [How to Build Spring Services for Cloud-Native Platforms Using the Open Service Broker API](https://www.infoq.com/presentations/pivotal-service-broker-api) by Matthew McNeeney, Sam Gunaratne
+* [Hypermedia Web API as a Network of Data](https://www.infoq.com/presentations/data-hypermedia-rest) by Todd Brackley
+* [Paving the Road to Production](https://www.infoq.com/presentations/deploy-pipelines-coinbase/) by Graham Jenson
+* [Securing Serverless - by Breaking in](https://www.infoq.com/presentations/serverless-security-2018) by Guy Podjarny
+* [Your Attention, Please: Optimizing Metrics for Humans](https://www.infoq.com/presentations/data-visualization-metrics-humans) by John Feminella
