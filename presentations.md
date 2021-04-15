@@ -20,4 +20,5 @@
 * [Hypermedia Web API as a Network of Data](https://www.infoq.com/presentations/data-hypermedia-rest) by Todd Brackley
 * [Paving the Road to Production](https://www.infoq.com/presentations/deploy-pipelines-coinbase/) by Graham Jenson
 * [Securing Serverless - by Breaking in](https://www.infoq.com/presentations/serverless-security-2018) by Guy Podjarny
+* [Starting Fast: Investigating Java's Static Compilation Landscape](https://www.infoq.com/presentations/java-start-fast-graal-substrate/)
 * [Your Attention, Please: Optimizing Metrics for Humans](https://www.infoq.com/presentations/data-visualization-metrics-humans) by John Feminella
