@@ -1,6 +1,7 @@
 # Spring Blog
 * 2021-04-15
   * [Spring Boot 2.3.10 is now available](https://spring.io/blog/2021/04/15/spring-boot-2-3-10-is-now-available)
+  * [Spring Boot 2.4.5 available now](https://spring.io/blog/2021/04/15/spring-boot-2-4-5-available-now)
 * 2020-08-14
   * [Spring Boot 2.4.0-M2 is now available](https://spring.io/blog/2020/08/14/spring-boot-2-4-0-m2-is-now-available)
 * 2020-06-29
