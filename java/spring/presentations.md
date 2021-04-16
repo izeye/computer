@@ -36,3 +36,6 @@
 
 ## InfoQ
 * [What's New in Spring Boot 2.0](https://www.infoq.com/presentations/spring-boot-2)
+
+## Misc.
+* [Spring in 2021 - What's New, What's Changed, and What's Coming](https://www.youtube.com/watch?v=yBgzOWWEjqU)
