@@ -23,5 +23,5 @@
 * [Google Cloud Build](https://github.com/marketplace/google-cloud-build)
 
 ## etc.
-* GitHub Pages
-  * https://pages.github.com/
+* [GitHub Pages](https://pages.github.com/)
+* [Renaming the default branch from `master`](https://github.com/github/renaming)
