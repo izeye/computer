@@ -180,11 +180,8 @@
   * https://www.youtube.com/watch?v=078QIrp0SD8
 
 ## YouTube
-* Hibernate Tip: How to map a to-one association to an Optional
-  * https://www.youtube.com/watch?v=I9hf-HUxQiA
-* Project Loom, Part I
-  * https://www.youtube.com/watch?v=XosXpwtxP5A
-* Project Loom, Part II
-  * https://www.youtube.com/watch?v=z_tus_m-6FI
-* Thread Sanitizing for Java with Jean Christophe Beyler, Arthur Eubanks, and Man Cao
-  * https://www.youtube.com/watch?v=T_SOhTv6LR8
+* [CompletableFuture: The Promises of Java](https://www.youtube.com/watch?v=9ueIL0SwEWI)
+* [Hibernate Tip: How to map a to-one association to an Optional](https://www.youtube.com/watch?v=I9hf-HUxQiA)
+* [Project Loom, Part I](https://www.youtube.com/watch?v=XosXpwtxP5A)
+* [Project Loom, Part II](https://www.youtube.com/watch?v=z_tus_m-6FI)
+* [Thread Sanitizing for Java with Jean Christophe Beyler, Arthur Eubanks, and Man Cao](https://www.youtube.com/watch?v=T_SOhTv6LR8)
