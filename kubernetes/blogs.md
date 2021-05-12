@@ -1,4 +1,5 @@
 # Blogs
+* [Improving JVM Warm-up on Kubernetes](https://tech.olx.com/improving-jvm-warm-up-on-kubernetes-1b27dd8ecd58)
 * [Kubernetes Federation V2 on OpenShift 3.11](https://blog.openshift.com/kubernetes-federation-v2-on-openshift-3-11/)
 * [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 * [Understanding Kubernetes pod evicted and scheduling problems](https://sysdig.com/blog/kubernetes-pod-evicted/)
