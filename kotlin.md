@@ -36,3 +36,7 @@
 ### Baeldung
 * Idiomatic Logging in Kotlin
   * https://www.baeldung.com/kotlin-logging
+
+## Presentations
+### GOTO 2019
+* [GOTO 2019 • Server-side Kotlin with Coroutines • Roman Elizarov](https://www.youtube.com/watch?v=hQrFfwT1IMo)
