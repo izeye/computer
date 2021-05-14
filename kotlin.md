@@ -5,6 +5,7 @@
 #### Official libraries
 * Coroutines (kotlinx.coroutines)
   * [Coroutines guide](https://kotlinlang.org/docs/coroutines-guide.html)
+  * [Asynchronous programming techniques](https://kotlinlang.org/docs/async-programming.html)
 
 ### Language Guide
 #### Overview
