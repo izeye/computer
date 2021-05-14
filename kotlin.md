@@ -47,3 +47,6 @@
 ## Presentations
 ### GOTO 2019
 * [GOTO 2019 • Server-side Kotlin with Coroutines • Roman Elizarov](https://www.youtube.com/watch?v=hQrFfwT1IMo)
+
+### KotlinConf 2018
+* [KotlinConf 2018 - Exploring Coroutines in Kotlin by Venkat Subramaniam](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
