@@ -88,36 +88,22 @@
   * http://sdkman.io/install.html
 
 ## Blogs
-* 3 Situations That Call for a Red Team
-  * http://www.huffingtonpost.com/lisa-earle-mcleod/three-situations-that-cal_b_3974886.html
-* Announcing the first SHA1 collision
-  * https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
-* Back to the Future: Eclipse Converge & Devoxx US
-  * http://melb.enix.org/general/back-to-the-future-eclipse-converge-devoxx-us/
-* Clean Architecture Example in Kotlin
-  * https://hackernoon.com/clean-architecture-example-in-kotlin-9f23169219be
-* Firebug Tip: What the heck is BFCache?
-  * http://www.softwareishard.com/blog/firebug/firebug-tip-what-the-heck-is-bfcache/
-* Graphite vs. Grafana: Build the Best Monitoring Architecture for Your Application
-  * http://blog.takipi.com/graphite-vs-grafana-build-the-best-monitoring-architecture-for-your-application/
-* Greg
-  * http://blog.samaltman.com/greg
-* GIF/Javascript Polyglots
-  * http://www.thinkfu.com/blog/gifjavascript-polyglots
-* Hello, Hexagonal Architecture
-  * https://dzone.com/articles/hello-hexagonal-architecture-1
-* In Defense of YAML
-  * https://blog.atomist.com/in-defense-of-yaml/
-* Introducing osquery
-  * https://code.facebook.com/posts/844436395567983/introducing-osquery/
-* Page Cache, the Affair Between Memory and Files
-  * http://duartes.org/gustavo/blog/post/page-cache-the-affair-between-memory-and-files/
-* Super Type Tokens
-  * http://gafter.blogspot.kr/2006/12/super-type-tokens.html
-* The Pretentious Haskell Phase
-  * http://www.virtuouscode.com/2017/04/04/the-pretentious-haskell-phase/
-* Third-Party Cookies Explained
-  * http://www.ravelrumba.com/blog/third-party-cookies/
+* [3 Situations That Call for a Red Team](http://www.huffingtonpost.com/lisa-earle-mcleod/three-situations-that-cal_b_3974886.html)
+* [Announcing the first SHA1 collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html)
+* [Back to the Future: Eclipse Converge & Devoxx US](http://melb.enix.org/general/back-to-the-future-eclipse-converge-devoxx-us/)
+* [Clean Architecture Example in Kotlin](https://hackernoon.com/clean-architecture-example-in-kotlin-9f23169219be)
+* [Firebug Tip: What the heck is BFCache?](http://www.softwareishard.com/blog/firebug/firebug-tip-what-the-heck-is-bfcache/)
+* [Graphite vs. Grafana: Build the Best Monitoring Architecture for Your Application](http://blog.takipi.com/graphite-vs-grafana-build-the-best-monitoring-architecture-for-your-application/)
+* [Greg](http://blog.samaltman.com/greg)
+* [GIF/Javascript Polyglots](http://www.thinkfu.com/blog/gifjavascript-polyglots)
+* [Hello, Hexagonal Architecture](https://dzone.com/articles/hello-hexagonal-architecture-1)
+* [In Defense of YAML](https://blog.atomist.com/in-defense-of-yaml/)
+* [Introducing osquery](https://code.facebook.com/posts/844436395567983/introducing-osquery/)
+* [Page Cache, the Affair Between Memory and Files](http://duartes.org/gustavo/blog/post/page-cache-the-affair-between-memory-and-files/)
+* [Super Type Tokens](http://gafter.blogspot.kr/2006/12/super-type-tokens.html)
+* [The Pretentious Haskell Phase](http://www.virtuouscode.com/2017/04/04/the-pretentious-haskell-phase/)
+* [Third-Party Cookies Explained](http://www.ravelrumba.com/blog/third-party-cookies/)
+* [Why we should default to Tabs instead of Spaces for an 'accessible first' environment](https://dev.to/alexandersandberg/why-we-should-default-to-tabs-instead-of-spaces-for-an-accessible-first-environment-101f)
 
 ## Misc.
 * A cartoon intro to WebAssembly
