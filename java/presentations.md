@@ -180,6 +180,7 @@
   * https://www.youtube.com/watch?v=078QIrp0SD8
 
 ## YouTube
+* [[VDT18] Java 9/10/11 - What's new and why you should upgrade by Simone Bordet](https://www.youtube.com/watch?v=cUqcSFLnk_E)
 * [CompletableFuture: The Promises of Java](https://www.youtube.com/watch?v=9ueIL0SwEWI)
 * [Hibernate Tip: How to map a to-one association to an Optional](https://www.youtube.com/watch?v=I9hf-HUxQiA)
 * [Project Loom, Part I](https://www.youtube.com/watch?v=XosXpwtxP5A)
