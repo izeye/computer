@@ -186,3 +186,4 @@
 * [Project Loom, Part I](https://www.youtube.com/watch?v=XosXpwtxP5A)
 * [Project Loom, Part II](https://www.youtube.com/watch?v=z_tus_m-6FI)
 * [Thread Sanitizing for Java with Jean Christophe Beyler, Arthur Eubanks, and Man Cao](https://www.youtube.com/watch?v=T_SOhTv6LR8)
+* [Var with Style: Local Variable Type Inference in Java](https://www.youtube.com/watch?v=WWipb9qFRuo)
