@@ -50,3 +50,6 @@
 
 ### KotlinConf 2018
 * [KotlinConf 2018 - Exploring Coroutines in Kotlin by Venkat Subramaniam](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
+
+### YouTube
+* [What's New in Kotlin 1.5.20](https://www.youtube.com/watch?v=SV8CgSXQe44)
