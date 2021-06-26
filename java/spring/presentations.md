@@ -6,6 +6,7 @@
 
 ## SpringOne Platform 2018
 * [Guide to "Reactive" for Spring MVC Developers](https://www.youtube.com/watch?v=IZ2SoXUiS7M)
+* [JDK 9, 10, 11 and Beyond: Delivering New Feature in the JDK](https://www.youtube.com/watch?v=mFyzyVnYcoY)
 * [JUnit 5: the Next Step in Automated Testing](https://www.youtube.com/watch?v=K7g2HUhWbNE)
 * [Mastering Spring Boot's Actuator](https://www.youtube.com/watch?v=otcYECeFS6Y)
 
