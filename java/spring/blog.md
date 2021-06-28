@@ -10,6 +10,8 @@
   * [What's new in Spring Boot 2.3](https://spring.io/blog/2020/06/18/what-s-new-in-spring-boot-2-3)
 * 2020-06-12
   * [Spring Boot 2.3.1 available now](https://spring.io/blog/2020/06/12/spring-boot-2-3-1-available-now)
+* 2020-06-08
+  * [Migrating Spring Boot's Build to Gradle](https://spring.io/blog/2020/06/08/migrating-spring-boot-s-build-to-gradle)
 * 2020-05-01
   * [Spring Boot 2.3.0.RC1 available now](https://spring.io/blog/2020/05/01/spring-boot-2-3-0-rc1-available-now)
 * 2020-04-07
