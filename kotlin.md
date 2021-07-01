@@ -52,4 +52,8 @@
 * [KotlinConf 2018 - Exploring Coroutines in Kotlin by Venkat Subramaniam](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
 
 ### YouTube
+#### Spring Time in Kotlin
+* [Spring Time in Kotlin. Hello World!](https://www.youtube.com/watch?v=TCmrY4HXUj4)
+
+#### Misc.
 * [What's New in Kotlin 1.5.20](https://www.youtube.com/watch?v=SV8CgSXQe44)
