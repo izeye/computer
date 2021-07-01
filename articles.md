@@ -4,22 +4,15 @@
   * https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt
 
 ## martinfowler.com
-* BeckDesignRules
-  * https://martinfowler.com/bliki/BeckDesignRules.html
-* BlueGreenDeployment
-  * https://martinfowler.com/bliki/BlueGreenDeployment.html
-* CannotMeasureProductivity
-  * https://martinfowler.com/bliki/CannotMeasureProductivity.html
-* SelfTestingCode
-  * https://martinfowler.com/bliki/SelfTestingCode.html
-* TechnicalDebt
-  * https://martinfowler.com/bliki/TechnicalDebt.html
-* TolerantReader
-  * https://martinfowler.com/bliki/TolerantReader.html
-* WhatIsFailure
-  * https://martinfowler.com/bliki/WhatIsFailure.html
-* Yagni
-  * https://martinfowler.com/bliki/Yagni.html
+* [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html)
+* [BlueGreenDeployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+* [CannotMeasureProductivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
+* [SelfTestingCode](https://martinfowler.com/bliki/SelfTestingCode.html)
+* [Stepping Back from Speaking](https://martinfowler.com/articles/202106-reducing-speaking.html)
+* [TechnicalDebt](https://martinfowler.com/bliki/TechnicalDebt.html)
+* [TolerantReader](https://martinfowler.com/bliki/TolerantReader.html)
+* [WhatIsFailure](https://martinfowler.com/bliki/WhatIsFailure.html)
+* [Yagni](https://martinfowler.com/bliki/Yagni.html)
 
 ## refactoring.com
 * Extract Class
