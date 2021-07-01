@@ -54,6 +54,7 @@
 ### YouTube
 #### Spring Time in Kotlin
 * [Spring Time in Kotlin. Hello World!](https://www.youtube.com/watch?v=TCmrY4HXUj4)
+* [Spring Time in Kotlin. Getting Started](https://www.youtube.com/watch?v=gf-kjD2ZmZk)
 
 #### Misc.
 * [What's New in Kotlin 1.5.20](https://www.youtube.com/watch?v=SV8CgSXQe44)
