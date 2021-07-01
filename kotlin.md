@@ -58,6 +58,7 @@
 * [Kotlin Extensions in Spring Framework](https://www.youtube.com/watch?v=0jWo3o7r-W4)
 * [Spring WebFlux, Kotlin Coroutines, and RSocket](https://www.youtube.com/watch?v=8FUHKx58t4c)
 * [Testing a Spring application with JUnit and Kotlin. Tutorial](https://www.youtube.com/watch?v=lCBjvlAyuiY)
+* [Integration Testing with Testcontainers](https://www.youtube.com/watch?v=gF-YG6YZxZk)
 
 #### Misc.
 * [What's New in Kotlin 1.5.20](https://www.youtube.com/watch?v=SV8CgSXQe44)
