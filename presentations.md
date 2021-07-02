@@ -25,3 +25,6 @@
 
 ## !!Con 2019
 * [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis](https://www.youtube.com/watch?v=-PX0BV9hGZY)
+
+## YouTube
+* [Bloom Filters Explained by Example](https://www.youtube.com/watch?v=gBygn3cVP80)
