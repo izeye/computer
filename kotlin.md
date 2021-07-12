@@ -52,6 +52,9 @@
 * [KotlinConf 2018 - Exploring Coroutines in Kotlin by Venkat Subramaniam](https://www.youtube.com/watch?v=jT2gHPQ4Z1Q)
 
 ### YouTube
+#### Kotlin Standard Library Safari
+* [Kotlin Standard Library Safari. Strings](https://www.youtube.com/watch?v=n4WBip822A8)
+
 #### Spring Time in Kotlin
 * [Spring Time in Kotlin. Hello World!](https://www.youtube.com/watch?v=TCmrY4HXUj4)
 * [Spring Time in Kotlin. Getting Started](https://www.youtube.com/watch?v=gf-kjD2ZmZk)
