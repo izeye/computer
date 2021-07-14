@@ -55,6 +55,7 @@
 #### Kotlin Standard Library Safari
 * [Kotlin Standard Library Safari. Strings](https://www.youtube.com/watch?v=n4WBip822A8)
 * [Kotlin Standard Library Safari. Your Own Adventures](https://www.youtube.com/watch?v=DIHlq_Q0vKM)
+* [Kotlin Collections Overview](https://www.youtube.com/watch?v=F8jj7e-_jFA)
 
 #### Spring Time in Kotlin
 * [Spring Time in Kotlin. Hello World!](https://www.youtube.com/watch?v=TCmrY4HXUj4)
