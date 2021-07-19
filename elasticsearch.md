@@ -121,13 +121,9 @@
   * [Usage](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/_usage.html)
 
 ## Blogs
-* A Heap of Trouble
-  * https://www.elastic.co/blog/a-heap-of-trouble
-* Disk-Based Field Data a.k.a. Doc Values
-  * https://www.elastic.co/blog/disk-based-field-data-a-k-a-doc-values
-* Elasticsearch tips: inserting vs. updating your index
-  * https://blog.codecentric.de/en/2014/12/elasticsearch-usage-tipps-transform-update-heavy-index-heavy-indexing/
-* How to resolve unassigned shards in Elasticsearch
-  * https://www.datadoghq.com/blog/elasticsearch-unassigned-shards/
-* Support in the Wild: My Biggest Elasticsearch Problem at Scale
-  * https://www.elastic.co/blog/support-in-the-wild-my-biggest-elasticsearch-problem-at-scale
+* [A Heap of Trouble](https://www.elastic.co/blog/a-heap-of-trouble)
+* [Disk-Based Field Data a.k.a. Doc Values](https://www.elastic.co/blog/disk-based-field-data-a-k-a-doc-values)
+* [Elasticsearch tips: inserting vs. updating your index](https://blog.codecentric.de/en/2014/12/elasticsearch-usage-tipps-transform-update-heavy-index-heavy-indexing/)
+* [How to resolve unassigned shards in Elasticsearch](https://www.datadoghq.com/blog/elasticsearch-unassigned-shards/)
+* [Lucene's Handling of Deleted Documents](https://www.elastic.co/blog/lucenes-handling-of-deleted-documents)
+* [Support in the Wild: My Biggest Elasticsearch Problem at Scale](https://www.elastic.co/blog/support-in-the-wild-my-biggest-elasticsearch-problem-at-scale)
