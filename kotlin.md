@@ -57,6 +57,7 @@
 * [Kotlin Standard Library Safari. Your Own Adventures](https://www.youtube.com/watch?v=DIHlq_Q0vKM)
 * [Kotlin Collections Overview](https://www.youtube.com/watch?v=F8jj7e-_jFA)
 * [Advanced Collection Operations in Kotlin](https://www.youtube.com/watch?v=N4CpLxGJlq0)
+* [Kotlin Lists 2021](https://www.youtube.com/watch?v=CDWy16UDeLQ)
 
 #### Spring Time in Kotlin
 * [Spring Time in Kotlin. Hello World!](https://www.youtube.com/watch?v=TCmrY4HXUj4)
