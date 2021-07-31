@@ -20,6 +20,7 @@
 * [Hypermedia Web API as a Network of Data](https://www.infoq.com/presentations/data-hypermedia-rest) by Todd Brackley
 * [Intentional Distributed Teams](https://www.infoq.com/presentations/intentional-distributed-team/)
 * [Paving the Road to Production](https://www.infoq.com/presentations/deploy-pipelines-coinbase/) by Graham Jenson
+* [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/presentations/microservices-dependency-management/) by Silvia Esparrachiari
 * [Securing Serverless - by Breaking in](https://www.infoq.com/presentations/serverless-security-2018) by Guy Podjarny
 * [Starting Fast: Investigating Java's Static Compilation Landscape](https://www.infoq.com/presentations/java-start-fast-graal-substrate/)
 * [Your Attention, Please: Optimizing Metrics for Humans](https://www.infoq.com/presentations/data-visualization-metrics-humans) by John Feminella
