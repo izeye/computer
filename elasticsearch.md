@@ -122,6 +122,7 @@
 
 ## Blogs
 * [A Heap of Trouble](https://www.elastic.co/blog/a-heap-of-trouble)
+* [Clustering Across Multiple Data Centers](https://www.elastic.co/blog/clustering_across_multiple_data_centers)
 * [Disk-Based Field Data a.k.a. Doc Values](https://www.elastic.co/blog/disk-based-field-data-a-k-a-doc-values)
 * [Elasticsearch tips: inserting vs. updating your index](https://blog.codecentric.de/en/2014/12/elasticsearch-usage-tipps-transform-update-heavy-index-heavy-indexing/)
 * [How to resolve unassigned shards in Elasticsearch](https://www.datadoghq.com/blog/elasticsearch-unassigned-shards/)
