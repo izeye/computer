@@ -20,6 +20,7 @@
 * [How to Build Spring Services for Cloud-Native Platforms Using the Open Service Broker API](https://www.infoq.com/presentations/pivotal-service-broker-api) by Matthew McNeeney, Sam Gunaratne
 * [Hypermedia Web API as a Network of Data](https://www.infoq.com/presentations/data-hypermedia-rest) by Todd Brackley
 * [Intentional Distributed Teams](https://www.infoq.com/presentations/intentional-distributed-team/)
+* [Less Mess, Less Stress: the Reliability Benefits of Custom Tools](https://www.infoq.com/presentations/reliability-custom-tools/) by Daniel Hochman
 * [Paving the Road to Production](https://www.infoq.com/presentations/deploy-pipelines-coinbase/) by Graham Jenson
 * [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/presentations/microservices-dependency-management/) by Silvia Esparrachiari
 * [Securing Serverless - by Breaking in](https://www.infoq.com/presentations/serverless-security-2018) by Guy Podjarny
