@@ -179,6 +179,9 @@
 * The Future of Java / OpenJDK and how it impacts You!
   * https://www.youtube.com/watch?v=078QIrp0SD8
 
+## ETE 2021
+* [AMA About the Java Language — Brian Goetz and Nicolai Parlog](https://www.youtube.com/watch?v=9si7gK94gLo)
+
 ## YouTube
 * [[VDT18] Java 9/10/11 - What's new and why you should upgrade by Simone Bordet](https://www.youtube.com/watch?v=cUqcSFLnk_E)
 * [CompletableFuture: The Promises of Java](https://www.youtube.com/watch?v=9ueIL0SwEWI)
