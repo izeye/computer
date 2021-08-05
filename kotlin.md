@@ -67,8 +67,6 @@
 * [Testing a Spring application with JUnit and Kotlin. Tutorial](https://www.youtube.com/watch?v=lCBjvlAyuiY)
 * [Integration Testing with Testcontainers](https://www.youtube.com/watch?v=gF-YG6YZxZk)
 
-#### Ten Years of Kotlin
-* [Ten Years of Kotlin: The Story of The Programming Language](https://www.youtube.com/watch?v=uE-1oF9PyiY)
-
 #### Misc.
+* [Ten Years of Kotlin: The Story of The Programming Language](https://www.youtube.com/watch?v=uE-1oF9PyiY)
 * [What's New in Kotlin 1.5.20](https://www.youtube.com/watch?v=SV8CgSXQe44)
