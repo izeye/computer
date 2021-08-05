@@ -179,7 +179,8 @@
 * The Future of Java / OpenJDK and how it impacts You!
   * https://www.youtube.com/watch?v=078QIrp0SD8
 
-## ETE 2021
+## Philly ETE 2021
+* [Keynote: Making Progress — Alan Kay](https://www.youtube.com/watch?v=9MqVfzxAp6A)
 * [AMA About the Java Language — Brian Goetz and Nicolai Parlog](https://www.youtube.com/watch?v=9si7gK94gLo)
 
 ## YouTube
