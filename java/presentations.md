@@ -181,6 +181,7 @@
 
 ## Philly ETE 2021
 * [Keynote: Making Progress — Alan Kay](https://www.youtube.com/watch?v=9MqVfzxAp6A)
+* [Keynote: Designing Calm Technology — Amber Case](https://www.youtube.com/watch?v=HwD03sPAX48)
 * [AMA About the Java Language — Brian Goetz and Nicolai Parlog](https://www.youtube.com/watch?v=9si7gK94gLo)
 
 ## YouTube
