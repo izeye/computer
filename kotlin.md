@@ -68,5 +68,6 @@
 * [Integration Testing with Testcontainers](https://www.youtube.com/watch?v=gF-YG6YZxZk)
 
 #### Misc.
+* [Idiomatic Kotlin: Solving Advent of Code Puzzles, Day 1](https://www.youtube.com/watch?v=o4emra1xm88)
 * [Ten Years of Kotlin: The Story of The Programming Language](https://www.youtube.com/watch?v=uE-1oF9PyiY)
 * [What's New in Kotlin 1.5.20](https://www.youtube.com/watch?v=SV8CgSXQe44)
