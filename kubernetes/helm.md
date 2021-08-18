@@ -9,3 +9,6 @@
 
 ## Presentations
 * [An Introduction to Helm - Matt Farina, Samsung SDS & Josh Dolitsky, Blood Orange](https://www.youtube.com/watch?v=Zzwq9FmZdsU)
+
+## Blogs
+* [Using Helm and Kubernetes](https://www.baeldung.com/ops/kubernetes-helm)
