@@ -1,9 +1,4 @@
 # Kubernetes
-## Presentations
-* Kubernetes: Crossing the Chasm
-  * Ian Crosby
-  * https://www.infoq.com/presentations/kubernetes-cluster-production
-
 ## Documentation
 ### [Getting started](https://kubernetes.io/docs/setup/)
 * Learning environment
