@@ -123,5 +123,8 @@
 * JAVA 8 FLATMAP EXAMPLE
   * http://www.adam-bien.com/roller/abien/entry/java_8_flatmap_example
 
+## Try with Resources
+* [Java – Try with Resources](https://www.baeldung.com/java-try-with-resources)
+
 ## Misc.
 * [Into the Sunset on May 1st: Bintray, JCenter, GoCenter, and ChartCenter](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/)
