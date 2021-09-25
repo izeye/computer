@@ -15,6 +15,7 @@
 
 ## InfoQ
 * [Architecting For Focus, Flow, and Joy: Beyond The Unicorn Project](https://www.infoq.com/presentations/architecture-lessons-productivity/)
+* [Catastrophic Cancellation](https://www.infoq.com/presentations/IEEE754/)
 * [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices) by Sha Ma
 * [Hello Ansible: A Story about Infrastructure Agility](https://www.infoq.com/presentations/ansible-automation-principles) by Baraa Basata
 * [How to Build Spring Services for Cloud-Native Platforms Using the Open Service Broker API](https://www.infoq.com/presentations/pivotal-service-broker-api) by Matthew McNeeney, Sam Gunaratne
