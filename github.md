@@ -8,6 +8,12 @@
 * [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 * [Your new web notifications experience is here](https://github.blog/2020-02-25-your-new-web-notifications-experience-is-here/)
 
+## Docs
+### Authentication
+#### SECURE YOUR ACCOUNT WITH 2FA
+* [About 2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication)
+* [Configure 2FA](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
+
 ## Help
 * About issue and pull request templates
   * https://help.github.com/en/articles/about-issue-and-pull-request-templates
