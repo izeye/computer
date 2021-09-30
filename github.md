@@ -1,5 +1,6 @@
 # GitHub
 ## Blog
+* [Behind GitHub’s new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/)
 * [GitHub is now free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
 * [Introducing draft pull requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
 * [Manage issues and pull requests with keyword updates](https://github.com/blog/2398-manage-issues-and-pull-requests-with-keyword-updates)
