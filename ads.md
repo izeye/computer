@@ -1,7 +1,7 @@
 # ADs
 ## Blogs
-* What Is a DSP, SSP and Ad exchange, and how do they fit together?
-  * http://www.bannerconnect.net/what-is-a-dsp-ssp-and-ad-exchange/
+* [Google Responsive Search Ads 101: Best Practices You Need to Know](https://www.wordstream.com/blog/ws/2018/07/10/responsive-search-ads)
+* [What Is a DSP, SSP and Ad exchange, and how do they fit together?](http://www.bannerconnect.net/what-is-a-dsp-ssp-and-ad-exchange/)
 
 ## Documentation
 ### Google Search Ads 360 Help
