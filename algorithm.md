@@ -8,6 +8,7 @@
 ## Combination and permutation
 * [Art of Problem Solving: Counting Paths on a Grid](https://www.youtube.com/watch?v=M8BYckxI8_U)
 * [Paths Across a Grid (Permutations & Combinations)](https://www.youtube.com/watch?v=m7chPc7zIF4&t=5s)
+* [String Permutations - Understanding Recursion | Learn Algorithms with Phanto](https://www.youtube.com/watch?v=TnZHaH9i6-0)
 
 ## Misc.
 * [Can You Solve the Poison Wine Challenge? | Infinite Series | PBS Digital](https://www.youtube.com/watch?v=N3qmN6pYhi0)
