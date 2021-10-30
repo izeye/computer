@@ -15,5 +15,8 @@
 ### BFS
 * [Breadth First Search Algorithm | Shortest Path | Graph Theory](https://www.youtube.com/watch?v=oDqjPvD54Ss)
 
+### DFS
+* [Depth First Search (DFS) Explained: Algorithm, Examples, and Code](https://www.youtube.com/watch?v=PMMc4VsIacU)
+
 ## Misc.
 * [Can You Solve the Poison Wine Challenge? | Infinite Series | PBS Digital](https://www.youtube.com/watch?v=N3qmN6pYhi0)
