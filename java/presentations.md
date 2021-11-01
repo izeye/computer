@@ -187,6 +187,7 @@
 ## YouTube
 * [[VDT18] Java 9/10/11 - What's new and why you should upgrade by Simone Bordet](https://www.youtube.com/watch?v=cUqcSFLnk_E)
 * [CompletableFuture: The Promises of Java](https://www.youtube.com/watch?v=9ueIL0SwEWI)
+* [From AdoptOpenJDK to Eclipse Adoptium toward an open Java ecosystem](https://www.youtube.com/watch?v=QfnEE5RLKH0)
 * [Hibernate Tip: How to map a to-one association to an Optional](https://www.youtube.com/watch?v=I9hf-HUxQiA)
 * [Project Loom, Part I](https://www.youtube.com/watch?v=XosXpwtxP5A)
 * [Project Loom, Part II](https://www.youtube.com/watch?v=z_tus_m-6FI)
