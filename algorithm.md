@@ -21,5 +21,8 @@
 ## Dynamic programming
 * [Edit Distance Between 2 Strings - The Levenshtein Distance ("Edit Distance" on LeetCode)](https://www.youtube.com/watch?v=MiqoA-yF-0M)
 
+## Genetic Algorithm
+* [Introduction to Genetic Algorithms — Including Example Code](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
+
 ## Misc.
 * [Can You Solve the Poison Wine Challenge? | Infinite Series | PBS Digital](https://www.youtube.com/watch?v=N3qmN6pYhi0)
