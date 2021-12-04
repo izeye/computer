@@ -23,6 +23,7 @@
 
 ## Exponentiation
 * [Exponentiation by Squaring](https://www.youtube.com/watch?v=bRMVU3Gy_JY)
+* [Matrix Exponentiation 1: Fibonacci Numbers](https://www.youtube.com/watch?v=-BbfrK4eV0k)
 
 ## Genetic Algorithm
 * [Introduction to Genetic Algorithms — Including Example Code](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
