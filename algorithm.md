@@ -14,6 +14,7 @@
 
 ### BFS
 * [Breadth First Search Algorithm | Shortest Path | Graph Theory](https://www.youtube.com/watch?v=oDqjPvD54Ss)
+* [Breadth First Search grid shortest path | Graph Theory](https://www.youtube.com/watch?v=KiCBXu4P-2Y)
 
 ### DFS
 * [Depth First Search (DFS) Explained: Algorithm, Examples, and Code](https://www.youtube.com/watch?v=PMMc4VsIacU)
