@@ -1,4 +1,6 @@
 # Spring Blog
+* 2021-12-10
+  * [Log4J2 Vulnerability and Spring Boot](https://spring.io/blog/2021/12/10/log4j2-vulnerability-and-spring-boot)
 * 2021-04-15
   * [Spring Boot 2.3.10 is now available](https://spring.io/blog/2021/04/15/spring-boot-2-3-10-is-now-available)
   * [Spring Boot 2.4.5 available now](https://spring.io/blog/2021/04/15/spring-boot-2-4-5-available-now)
