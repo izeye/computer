@@ -101,6 +101,7 @@
 * [Introducing osquery](https://code.facebook.com/posts/844436395567983/introducing-osquery/)
 * [Page Cache, the Affair Between Memory and Files](http://duartes.org/gustavo/blog/post/page-cache-the-affair-between-memory-and-files/)
 * [Super Type Tokens](http://gafter.blogspot.kr/2006/12/super-type-tokens.html)
+* [The Norway Problem - why StrictYAML refuses to do implicit typing and so should you](https://hitchdev.com/strictyaml/why/implicit-typing-removed/)
 * [The Pretentious Haskell Phase](http://www.virtuouscode.com/2017/04/04/the-pretentious-haskell-phase/)
 * [Third-Party Cookies Explained](http://www.ravelrumba.com/blog/third-party-cookies/)
 * [Why we should default to Tabs instead of Spaces for an 'accessible first' environment](https://dev.to/alexandersandberg/why-we-should-default-to-tabs-instead-of-spaces-for-an-accessible-first-environment-101f)
