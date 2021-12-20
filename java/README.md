@@ -179,7 +179,9 @@
   * https://en.wikipedia.org/wiki/Constant_interface
 
 ## Inside Java
-* [On Parallelism and Concurrency](https://inside.java/2021/11/30/on-parallelism-and-concurrency/)
 
-## Project Loom
+### Newscast
 * [Project Loom Brings Structured Concurrency - Inside Java Newscast #17](https://www.youtube.com/watch?v=2J2tJm_iwk0)
+
+### Misc.
+* [On Parallelism and Concurrency](https://inside.java/2021/11/30/on-parallelism-and-concurrency/)
