@@ -177,3 +177,6 @@
 ## Wikipedia
 * Constant interface
   * https://en.wikipedia.org/wiki/Constant_interface
+
+## Inside Java
+* [On Parallelism and Concurrency](https://inside.java/2021/11/30/on-parallelism-and-concurrency/)
