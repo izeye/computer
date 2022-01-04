@@ -31,6 +31,7 @@
 * [What’s New in Spring Data MongoDB](https://www.youtube.com/watch?v=IrqwL3-B4NQ)
 * [Staying Ahead of the Curve with Spring and Cassandra 4](https://www.youtube.com/watch?v=DV33DBar5m8)
 * [Game of Streams: How to Tame and Get the Most from Your Messaging Platforms](https://www.youtube.com/watch?v=zWxuMhr28Bw)
+* [Spring Boot Observability](https://www.youtube.com/watch?v=zGiBpUlg9mk)
 
 ## Spring I/O Bridge 2020
 * [Chaos Monkey for Spring Boot - John Fletcher & Manuel Wessner @ Spring I/O Bridge](https://www.youtube.com/watch?v=WeQFMEBp8nw)
