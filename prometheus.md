@@ -63,6 +63,7 @@
 * [Exposing the software version to Prometheus](https://www.robustperception.io/exposing-the-software-version-to-prometheus)
 * [Get thee to a NaNnary](https://www.robustperception.io/get-thee-to-a-nannary)
 * [How to have labels for machine roles](https://www.robustperception.io/how-to-have-labels-for-machine-roles)
+* [Reloading Prometheus’ Configuration](https://www.robustperception.io/reloading-prometheus-configuration)
 * [Target labels are for life, not just for Christmas](https://www.robustperception.io/target-labels-are-for-life-not-just-for-christmas)
 * [Translating between monitoring languages](https://www.robustperception.io/translating-between-monitoring-languages)
 * [Using group_left to calculate label proportions](https://www.robustperception.io/using-group_left-to-calculate-label-proportions)
