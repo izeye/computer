@@ -9,6 +9,7 @@
 ## Blogs
 ### Gradle Blog
 * [Feature Spotlight: Gradle’s Support for Maven POM Profiles](https://blog.gradle.org/maven-pom-profiles)
+* [Improving Micrometer’s Build with Gradle Enterprise](https://gradle.com/blog/improving-micrometers-build-with-gradle-enterprise/)
 * [Incremental Compilation, the Java Library Plugin, and other performance features in Gradle 3.4](https://blog.gradle.org/incremental-compiler-avoidance)
 * [Introducing Compile-Only Dependencies](https://blog.gradle.org/introducing-compile-only-dependencies)
 * [Introducing file-system watching](https://blog.gradle.org/introducing-file-system-watching)
