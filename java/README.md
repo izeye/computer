@@ -183,6 +183,7 @@
 ### Podcast
 
 * [Episode 1 “Welcome to Inside Java!” with hosts Chad and David](https://inside.java/2020/09/02/podcast-001/)
+* [Episode 2 “Java 15 is Here!” with Mikael Vidstedt](https://inside.java/2020/09/08/podcast-002/)
 
 ### Newscast
 * [Project Loom Brings Structured Concurrency - Inside Java Newscast #17](https://www.youtube.com/watch?v=2J2tJm_iwk0)
