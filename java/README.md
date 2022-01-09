@@ -190,4 +190,5 @@
 * [Project Loom Brings Structured Concurrency - Inside Java Newscast #17](https://www.youtube.com/watch?v=2J2tJm_iwk0)
 
 ### Misc.
+* [Java Language Futures - Mid 2020 Edition](https://inside.java/2020/09/17/devlive-java-lang-futures/)
 * [On Parallelism and Concurrency](https://inside.java/2021/11/30/on-parallelism-and-concurrency/)
