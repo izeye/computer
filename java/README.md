@@ -186,6 +186,7 @@
 * [Episode 2 “Java 15 is Here!” with Mikael Vidstedt](https://inside.java/2020/09/08/podcast-002/)
 * [Episode 3 “The State of Java” with Georges Saab](https://inside.java/2020/09/14/podcast-003/)
 * [Episode 4 “Record Classes” with Gavin Bierman](https://inside.java/2020/10/05/podcast-004/)
+* [Episode 5 “The Z Garbage Collector (ZGC)” with Per Liden](https://inside.java/2020/10/14/podcast-005/)
 
 ### Newscast
 * [Project Loom Brings Structured Concurrency - Inside Java Newscast #17](https://www.youtube.com/watch?v=2J2tJm_iwk0)
