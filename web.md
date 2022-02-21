@@ -14,6 +14,7 @@
 ## CORS
 
 * [Access-Control-Allow-Credentials](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Credentials)
+* [Feedback wanted: CORS for private networks (RFC1918)](https://web.dev/cors-rfc1918-feedback/)
 * [InsecurePrivateNetworkRequestsAllowed](https://chromeenterprise.google/policies/#InsecurePrivateNetworkRequestsAllowed)
 * [Private Network Access update: Introducing a deprecation trial](https://developer.chrome.com/blog/private-network-access-update/)
 * [SameSite cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite)
