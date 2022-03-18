@@ -18,6 +18,7 @@
 * [Cross-Origin Resource Sharing (CORS)](https://web.dev/cross-origin-resource-sharing/)
 * [Document.domain](https://developer.mozilla.org/en-US/docs/Web/API/Document/domain)
 * [Feedback wanted: CORS for private networks (RFC1918)](https://web.dev/cors-rfc1918-feedback/)
+* [HTML attribute: crossorigin](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/crossorigin)
 * [InsecurePrivateNetworkRequestsAllowed](https://chromeenterprise.google/policies/#InsecurePrivateNetworkRequestsAllowed)
 * [Private Network Access update: Introducing a deprecation trial](https://developer.chrome.com/blog/private-network-access-update/)
 * [SameSite cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite)
