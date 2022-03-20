@@ -16,6 +16,8 @@
   * [Migrating Spring Boot's Build to Gradle](https://spring.io/blog/2020/06/08/migrating-spring-boot-s-build-to-gradle)
 * 2020-05-01
   * [Spring Boot 2.3.0.RC1 available now](https://spring.io/blog/2020/05/01/spring-boot-2-3-0-rc1-available-now)
+* 2020-04-30
+  * [Updates to Spring Versions](https://spring.io/blog/2020/04/30/updates-to-spring-versions)
 * 2020-04-07
   * [Spring Data for Apache Solr Discontinued](https://spring.io/blog/2020/04/07/spring-data-for-apache-solr-discontinued)
 * 2020-03-27
