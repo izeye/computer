@@ -5,3 +5,4 @@
 
 ## Misc.
 * [Little's. Law at the Ice Cream Van](https://www.youtube.com/watch?v=raRpbsWQBCo)
+* [Piranha: An Open Source Tool to Automatically Delete Stale Code](https://www.youtube.com/watch?v=V5XirDs6LX8)
