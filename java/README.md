@@ -197,3 +197,7 @@
 ### Misc.
 * [Java Language Futures - Mid 2020 Edition](https://inside.java/2020/09/17/devlive-java-lang-futures/)
 * [On Parallelism and Concurrency](https://inside.java/2021/11/30/on-parallelism-and-concurrency/)
+
+## Error Prone
+### Bug patterns
+* [UnnecessaryLambda](https://errorprone.info/bugpattern/UnnecessaryLambda)
