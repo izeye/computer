@@ -68,3 +68,6 @@
 * [Introduction to Spring Data Redis](https://www.baeldung.com/spring-data-redis-tutorial)
 * [Simultaneous Spring WebClient Calls](https://www.baeldung.com/spring-webclient-simultaneous-calls)
 * [Spring JSON-P with Jackson](https://www.baeldung.com/spring-jackson-jsonp)
+
+## ALL VULNERABILITY REPORTS
+* [CVE-2022-22965: Spring Framework RCE via Data Binding on JDK 9+](https://tanzu.vmware.com/security/cve-2022-22965)
