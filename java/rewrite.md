@@ -1,5 +1,13 @@
 # Rewrite
 
+## Documentation
+
+### Reference
+
+#### Recipes
+
+* [Use Collections#isEmpty() instead of comparing size()](https://docs.openrewrite.org/reference/recipes/java/cleanup/isemptycalloncollections)
+
 ## GitHub
 
 * [Home](https://github.com/openrewrite/rewrite)
