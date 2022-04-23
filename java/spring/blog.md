@@ -1,4 +1,6 @@
 # Spring Blog
+* 2022-04-01
+  * [Spring Framework RCE, Mitigation Alternative](https://spring.io/blog/2022/04/01/spring-framework-rce-mitigation-alternative)
 * 2022-03-31
   * [Spring Framework RCE, Early Announcement](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement)
 * 2021-12-10
