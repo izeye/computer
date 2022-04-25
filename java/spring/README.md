@@ -71,3 +71,6 @@
 
 ## ALL VULNERABILITY REPORTS
 * [CVE-2022-22965: Spring Framework RCE via Data Binding on JDK 9+](https://tanzu.vmware.com/security/cve-2022-22965)
+
+## YouTube
+* [Being a Spring Contributor + Spring Cloud AWS (ft. Maciej Walkowiak)](https://www.youtube.com/watch?v=3_p5iLkhH6A)
