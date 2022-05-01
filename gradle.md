@@ -15,5 +15,8 @@
 * [Introducing file-system watching](https://blog.gradle.org/introducing-file-system-watching)
 * [Introducing flaky test mitigation tools for Gradle](https://blog.gradle.org/gradle-flaky-test-retry-plugin)
 
+## Gradle Enterprise
+* [Speeding up Builds with Predictive Test Selection](https://gradle.com/enterprise/resources/speeding-up-builds-with-predictive-test-selection/)
+
 ## Misc.
 * [gradle-git-publish](https://github.com/ajoberstar/gradle-git-publish)
