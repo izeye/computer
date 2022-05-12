@@ -59,6 +59,9 @@
 * [Advanced Collection Operations in Kotlin](https://www.youtube.com/watch?v=N4CpLxGJlq0)
 * [Kotlin Lists 2021](https://www.youtube.com/watch?v=CDWy16UDeLQ)
 
+#### Kotlin Tips
+* [Return and Throw with the Elvis Operator | Kotlin Tips](https://www.youtube.com/watch?v=L8aFK7QrbA8)
+
 #### Spring Time in Kotlin
 * [Spring Time in Kotlin. Hello World!](https://www.youtube.com/watch?v=TCmrY4HXUj4)
 * [Spring Time in Kotlin. Getting Started](https://www.youtube.com/watch?v=gf-kjD2ZmZk)
