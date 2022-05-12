@@ -74,3 +74,4 @@
 
 ## YouTube
 * [Being a Spring Contributor + Spring Cloud AWS (ft. Maciej Walkowiak)](https://www.youtube.com/watch?v=3_p5iLkhH6A)
+* [🚀 New in Spring Framework 6: HTTP Interfaces](https://www.youtube.com/watch?v=A1V71peRNn0)
