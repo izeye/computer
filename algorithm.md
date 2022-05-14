@@ -30,5 +30,10 @@
 ## Genetic Algorithm
 * [Introduction to Genetic Algorithms — Including Example Code](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 
+## Tree
+
+### Search
+* [Tree Traversal (Depth-First and Breadth-First Search)](https://www.youtube.com/watch?v=cZPXfl_tUkA)
+
 ## Misc.
 * [Can You Solve the Poison Wine Challenge? | Infinite Series | PBS Digital](https://www.youtube.com/watch?v=N3qmN6pYhi0)
