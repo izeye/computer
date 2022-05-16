@@ -184,6 +184,7 @@
 * [Episode 3 “The State of Java” with Georges Saab](https://inside.java/2020/09/14/podcast-003/)
 * [Episode 4 “Record Classes” with Gavin Bierman](https://inside.java/2020/10/05/podcast-004/)
 * [Episode 5 “The Z Garbage Collector (ZGC)” with Per Liden](https://inside.java/2020/10/14/podcast-005/)
+* [Episode 22 “JEP 408 - Simple Web Server”](https://inside.java/2022/03/04/podcast-022/)
 * [Episode 23 “Java 18 is Here!”](https://inside.java/2022/03/22/podcast-023/)
 
 ### Newscast
