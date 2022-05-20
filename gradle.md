@@ -18,5 +18,8 @@
 ## Gradle Enterprise
 * [Speeding up Builds with Predictive Test Selection](https://gradle.com/enterprise/resources/speeding-up-builds-with-predictive-test-selection/)
 
+## Gradle Plugins
+* [Tony's rules for Gradle plugin authors](https://dev.to/autonomousapps/tonys-rules-for-gradle-plugin-authors-28k3)
+
 ## Misc.
 * [gradle-git-publish](https://github.com/ajoberstar/gradle-git-publish)
