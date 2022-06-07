@@ -123,6 +123,9 @@
 * JAVA 8 FLATMAP EXAMPLE
   * http://www.adam-bien.com/roller/abien/entry/java_8_flatmap_example
 
+## Time
+* [How Not to Measure Elapsed Time](https://develotters.com/posts/how-not-to-measure-elapsed-time/)
+
 ## Try with Resources
 * [Java – Try with Resources](https://www.baeldung.com/java-try-with-resources)
 
