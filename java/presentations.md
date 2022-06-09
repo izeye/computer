@@ -154,5 +154,6 @@
 * [Hibernate Tip: How to map a to-one association to an Optional](https://www.youtube.com/watch?v=I9hf-HUxQiA)
 * [Project Loom, Part I](https://www.youtube.com/watch?v=XosXpwtxP5A)
 * [Project Loom, Part II](https://www.youtube.com/watch?v=z_tus_m-6FI)
+* [The secret life of Maven central by Joel Orlina](https://www.youtube.com/watch?v=m9zHea6w6gs)
 * [Thread Sanitizing for Java with Jean Christophe Beyler, Arthur Eubanks, and Man Cao](https://www.youtube.com/watch?v=T_SOhTv6LR8)
 * [Var with Style: Local Variable Type Inference in Java](https://www.youtube.com/watch?v=WWipb9qFRuo)
