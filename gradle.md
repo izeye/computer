@@ -16,6 +16,9 @@
 * [Introducing file-system watching](https://blog.gradle.org/introducing-file-system-watching)
 * [Introducing flaky test mitigation tools for Gradle](https://blog.gradle.org/gradle-flaky-test-retry-plugin)
 
+### Misc.
+* [Profiling - the Good Kind](https://www.liutikas.net/2022/06/01/Profiling-The-Good-Kind.html)
+
 ## Gradle Enterprise
 * [Speeding up Builds with Predictive Test Selection](https://gradle.com/enterprise/resources/speeding-up-builds-with-predictive-test-selection/)
 
