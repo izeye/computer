@@ -105,6 +105,7 @@
 * [The Pretentious Haskell Phase](http://www.virtuouscode.com/2017/04/04/the-pretentious-haskell-phase/)
 * [Third-Party Cookies Explained](http://www.ravelrumba.com/blog/third-party-cookies/)
 * [Why we should default to Tabs instead of Spaces for an 'accessible first' environment](https://dev.to/alexandersandberg/why-we-should-default-to-tabs-instead-of-spaces-for-an-accessible-first-environment-101f)
+* [YAML: The Norway Problem](https://www.bram.us/2022/01/11/yaml-the-norway-problem/)
 
 ## Misc.
 * A cartoon intro to WebAssembly
