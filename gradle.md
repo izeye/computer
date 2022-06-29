@@ -17,6 +17,7 @@
 * [Introducing flaky test mitigation tools for Gradle](https://blog.gradle.org/gradle-flaky-test-retry-plugin)
 
 ### Misc.
+* [Gradle Configuration - Death by a Thousand Cuts](https://www.liutikas.net/2022/06/02/Death-By-A-Thousand-Cuts.html)
 * [Profiling - the Good Kind](https://www.liutikas.net/2022/06/01/Profiling-The-Good-Kind.html)
 
 ## Gradle Enterprise
