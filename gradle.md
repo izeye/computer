@@ -18,6 +18,7 @@
 
 ### Misc.
 * [Gradle Configuration - Death by a Thousand Cuts](https://www.liutikas.net/2022/06/02/Death-By-A-Thousand-Cuts.html)
+* [Gradle quickie: laziness](https://melix.github.io/blog/2022/05/gradle-laziness.html)
 * [Profiling - the Good Kind](https://www.liutikas.net/2022/06/01/Profiling-The-Good-Kind.html)
 
 ## Gradle Enterprise
