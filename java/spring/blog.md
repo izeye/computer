@@ -33,6 +33,8 @@
 * 2020-01-27
   * Creating Docker images with Spring Boot 2.3.0.M1
     * https://spring.io/blog/2020/01/27/creating-docker-images-with-spring-boot-2-3-0-m1
+* 2019-11-21
+  * [Spring Security - Lambda DSL](https://spring.io/blog/2019/11/21/spring-security-lambda-dsl)
 * 2019-11-07
   * Spring Boot 2.2.1 available now
     * https://spring.io/blog/2019/11/07/spring-boot-2-2-1-available-now
