@@ -120,6 +120,10 @@
 * [Sniffer](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/sniffer.html)
   * [Usage](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/_usage.html)
 
+### Java High Level REST Client
+* Getting started
+  * [Compatibility](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/java-rest-high-compatibility.html)
+
 ## Blogs
 * [A Heap of Trouble](https://www.elastic.co/blog/a-heap-of-trouble)
 * [Clustering Across Multiple Data Centers](https://www.elastic.co/blog/clustering_across_multiple_data_centers)
