@@ -22,6 +22,11 @@
 * [Add a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 * [Test your SSH connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection)
 
+## Code security
+### Dependabot
+#### Work with Dependabot
+* [Keeping your actions up to date with Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot)
+
 ## Help
 * About issue and pull request templates
   * https://help.github.com/en/articles/about-issue-and-pull-request-templates
