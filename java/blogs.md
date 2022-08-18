@@ -106,6 +106,9 @@
 * [Micro optimizations in Java. String.equals()](https://medium.com/javarevisited/micro-optimizations-in-java-string-equals-22be19fd8416)
 * [Micro optimizations in Java. String.equalsIgnoreCase()](https://medium.com/javarevisited/micro-optimizations-in-java-string-equalsignorecase-ea25dfb03f95)
 
+## Queue
+* [LinkedBlockingQueue vs ConcurrentLinkedQueue](https://www.baeldung.com/java-queue-linkedblocking-concurrentlinked)
+
 ## Regular Expression
 * Named Capturing Group in JDK7 RegEx
   * https://blogs.oracle.com/xuemingshen/entry/named_capturing_group_in_jdk7
