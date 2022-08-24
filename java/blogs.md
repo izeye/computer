@@ -119,6 +119,7 @@
 
 ## Security
 * [Calculate HMAC-Sha256 with Java](https://sorenpoulsen.com/calculate-hmac-sha256-with-java)
+* [Java AES Encryption and Decryption](https://www.baeldung.com/java-aes-encryption-decryption)
 
 ## Stream
 * JAVA 8: AN ENDLESS STREAM OF RANDOM NUMBERS
