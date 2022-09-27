@@ -41,6 +41,9 @@
 * Using Handlebars Java as a Server Side Templating Language
   * https://dzone.com/articles/using-handlebars-java-as-a-server-side-templating
 
+## HMAC
+* [HMAC in Java](https://www.baeldung.com/java-hmac)
+
 ## Jackson
 * On Jackson CVEs: Don’t Panic — Here is what you need to know
   * https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062
