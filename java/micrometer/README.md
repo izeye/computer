@@ -21,6 +21,7 @@
 * Guides
   * Passing through to Dropwizard's console reporter
     * http://micrometer.io/docs/guide/consoleReporter
+* [Micrometer Tracing](https://micrometer.io/docs/tracing)
 
 ## Presentations
 * [Introducing Micrometer Application Metrics](https://www.infoq.com/presentations/micrometer)
