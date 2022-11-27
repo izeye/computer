@@ -21,6 +21,7 @@
 * Guides
   * Passing through to Dropwizard's console reporter
     * http://micrometer.io/docs/guide/consoleReporter
+* [Micrometer Observation](https://micrometer.io/docs/observation)
 * [Micrometer Tracing](https://micrometer.io/docs/tracing)
 * [Micrometer Context Propagation](https://micrometer.io/docs/contextPropagation)
 
