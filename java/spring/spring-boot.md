@@ -10,7 +10,11 @@
 
 ## Documentation
 
-* [GraalVM Native Image Support](https://docs.spring.io/spring-boot/docs/3.0.0-SNAPSHOT/reference/htmlsingle/#native-image)
+* [Web](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#web)
+  * [Spring Security](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#web.security)
+    * [MVC Security](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#web.security.spring-mvc)
+    * [WebFlux Security](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#web.security.spring-webflux)
+* [GraalVM Native Image Support](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#native-image)
 
 ## GitHub
 * https://github.com/spring-projects/spring-boot/blob/master/README.adoc
