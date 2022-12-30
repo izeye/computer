@@ -12,3 +12,6 @@
 
 ## Blogs
 * [Using Helm and Kubernetes](https://www.baeldung.com/ops/kubernetes-helm)
+
+## YouTube
+* [What is Helm in Kubernetes? Helm and Helm Charts explained | Kubernetes Tutorial 23](https://www.youtube.com/watch?v=-ykwb1d0DXU)
