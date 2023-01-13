@@ -1,4 +1,6 @@
 # Spring Blog
+* 2022-12-14
+  * [Notice of Permissions Changes to repo.spring.io, January 2023](https://spring.io/blog/2022/12/14/notice-of-permissions-changes-to-repo-spring-io-january-2023)
 * 2022-04-01
   * [Spring Framework RCE, Mitigation Alternative](https://spring.io/blog/2022/04/01/spring-framework-rce-mitigation-alternative)
 * 2022-03-31
