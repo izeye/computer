@@ -124,6 +124,9 @@
 * Getting started
   * [Compatibility](https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/java-rest-high-compatibility.html)
 
+## Elasticsearch Java API Client
+### [Introduction](https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/current/introduction.html)
+
 ## Blogs
 * [A Heap of Trouble](https://www.elastic.co/blog/a-heap-of-trouble)
 * [Clustering Across Multiple Data Centers](https://www.elastic.co/blog/clustering_across_multiple_data_centers)
