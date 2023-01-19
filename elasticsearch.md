@@ -126,6 +126,8 @@
 
 ## Elasticsearch Java API Client
 ### [Introduction](https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/current/introduction.html)
+### Getting started
+* [Installation](https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/current/installation.html)
 
 ## Blogs
 * [A Heap of Trouble](https://www.elastic.co/blog/a-heap-of-trouble)
