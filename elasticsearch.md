@@ -131,6 +131,7 @@
 * [Connecting](https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/current/connecting.html)
 
 ### [Using the Java API Client](https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/current/usage.html)
+* [Indexing single document](https://www.elastic.co/guide/en/elasticsearch/client/java-api-client/current/indexing.html)
 
 ## Blogs
 * [A Heap of Trouble](https://www.elastic.co/blog/a-heap-of-trouble)
