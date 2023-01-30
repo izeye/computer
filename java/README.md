@@ -202,3 +202,7 @@
 ## Error Prone
 ### Bug patterns
 * [UnnecessaryLambda](https://errorprone.info/bugpattern/UnnecessaryLambda)
+
+## Java Design Patterns
+### Patterns
+* [Execute Around](https://java-design-patterns.com/patterns/execute-around/)
