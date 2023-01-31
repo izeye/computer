@@ -111,16 +111,18 @@
 * 2 The Java Scripting API
   * https://docs.oracle.com/javase/8/docs/technotes/guides/scripting/prog_guide/api.html
 
+### jcstress
+* [Code Tools: jcstress](https://openjdk.org/projects/code-tools/jcstress/)
+* [GitHub](https://github.com/openjdk/jcstress)
+
 ### JMH
-* Code Tools: jmh
-  * http://openjdk.java.net/projects/code-tools/jmh/
+* [Code Tools: jmh](http://openjdk.java.net/projects/code-tools/jmh/)
 
 ### Objenesis
 * Twenty Second Tutorial
   * http://objenesis.org/tutorial.html
 
 ### OpenJDK
-* [Code Tools: jcstress](https://openjdk.org/projects/code-tools/jcstress/)
 * [HotSpot Glossary of Terms](http://openjdk.java.net/groups/hotspot/docs/HotSpotGlossary.html)
 * [JDK 15](https://openjdk.java.net/projects/jdk/15/)
 
