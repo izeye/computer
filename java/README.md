@@ -120,6 +120,7 @@
   * http://objenesis.org/tutorial.html
 
 ### OpenJDK
+* [Code Tools: jcstress](https://openjdk.org/projects/code-tools/jcstress/)
 * [HotSpot Glossary of Terms](http://openjdk.java.net/groups/hotspot/docs/HotSpotGlossary.html)
 * [JDK 15](https://openjdk.java.net/projects/jdk/15/)
 
