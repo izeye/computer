@@ -11,3 +11,6 @@
 ### GitHub
 * [OpenAI API Quickstart - Node.js example app](https://github.com/openai/openai-quickstart-node)
 * [OpenAI API Quickstart - Python example app](https://github.com/openai/openai-quickstart-python)
+
+## GitHub
+* [OpenAI-Java](https://github.com/TheoKanning/openai-java)
