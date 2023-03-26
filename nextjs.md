@@ -13,3 +13,7 @@
 * [Displaying Data with Props](https://nextjs.org/learn/foundations/from-javascript-to-react/displaying-data-with-props)
 * [Adding Interactivity with State](https://nextjs.org/learn/foundations/from-javascript-to-react/adding-interactivity-with-state)
 * [How to Continue Learning React](https://nextjs.org/learn/foundations/from-javascript-to-react/continue-learning-react)
+
+#### [From React to Next.js](https://nextjs.org/learn/foundations/from-react-to-nextjs)
+* [Getting Started with Next.js](https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-nextjs)
+* [Next Steps](https://nextjs.org/learn/foundations/from-react-to-nextjs/next-steps)
