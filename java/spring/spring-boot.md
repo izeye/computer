@@ -22,3 +22,6 @@
 ## Wiki
 * Merging Pull Requests
   * https://github.com/spring-projects/spring-boot/wiki/Merging-Pull-Requests
+
+## YouTube
+* [Spring Boot 3 in 6 minutes](https://www.youtube.com/watch?v=WJutdzX9hl0)
