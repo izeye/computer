@@ -29,6 +29,8 @@
 * Install Tools
   * [Install and Set Up kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
   * [Install Minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
+* Administer a Cluster
+  * [Namespaces Walkthrough](https://kubernetes.io/docs/tasks/administer-cluster/namespaces-walkthrough/)
 * Configure Pods and Containers
   * [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
 * Inject Data Into Applications
