@@ -41,6 +41,9 @@
 ### Apps
 * [Google Cloud Build](https://github.com/marketplace/google-cloud-build)
 
+## Libraries
+* [GitHub API for Java](https://github-api.kohsuke.org/)
+
 ## etc.
 * [GitHub Pages](https://pages.github.com/)
 * [Renaming the default branch from `master`](https://github.com/github/renaming)
