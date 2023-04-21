@@ -22,6 +22,9 @@
 * [Add a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 * [Test your SSH connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection)
 
+## GitHub Actions
+* [Quickstart](https://docs.github.com/en/actions/quickstart)
+
 ## Code security
 ### Dependabot
 #### Work with Dependabot
@@ -42,7 +45,7 @@
 * [Google Cloud Build](https://github.com/marketplace/google-cloud-build)
 
 ## GitHub Actions
-* [Quickstart](https://docs.github.com/en/actions/quickstart)
+* [HTTP Request Action](https://github.com/fjogeleit/http-request-action)
 
 ## Libraries
 * [GitHub API for Java](https://github-api.kohsuke.org/)
