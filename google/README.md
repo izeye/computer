@@ -1,5 +1,15 @@
 # Google
 
+## gcloud CLI
+
+### Documentation
+
+#### How-to guides
+
+* Installing the gcloud CLI
+  * [Recommended installation](https://cloud.google.com/sdk/docs/install)
+
+
 ## Cloud Run
 
 ### Documentation
