@@ -37,3 +37,4 @@
 
 ## Misc.
 * [Can You Solve the Poison Wine Challenge? | Infinite Series | PBS Digital](https://www.youtube.com/watch?v=N3qmN6pYhi0)
+* [The 8 Queen Problem - Numberphile](https://www.youtube.com/watch?v=jPcBU0Z2Hj8)
