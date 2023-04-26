@@ -24,6 +24,8 @@
 
 ## GitHub Actions
 * [Quickstart](https://docs.github.com/en/actions/quickstart)
+* Learn GitHub Actions
+  * [Understand GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
 
 ## Code security
 ### Dependabot
