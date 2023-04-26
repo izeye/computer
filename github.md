@@ -29,6 +29,7 @@
   * [Finding and customizing actions](https://docs.github.com/en/actions/learn-github-actions/finding-and-customizing-actions)
 * Creating actions
   * [About custom actions](https://docs.github.com/en/actions/creating-actions/about-custom-actions)
+  * [Creating a JavaScript action](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action)
 
 ## Code security
 ### Dependabot
