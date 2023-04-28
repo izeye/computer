@@ -3,6 +3,7 @@
 ## Docs
 ### Introduction
 * [Quickstart Guide](https://helm.sh/docs/intro/quickstart/)
+* [Using Helm](https://helm.sh/docs/intro/using_helm/)
 
 ### Topics
 * [Helm Architecture](https://helm.sh/docs/topics/architecture/)
