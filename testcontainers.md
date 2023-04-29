@@ -25,3 +25,6 @@
   * Continuous Integration
     * CircleCI 2.0
       * https://www.testcontainers.org/supported_docker_environment/continuous_integration/circle_ci/
+
+# Blogs
+* [Local development with Testcontainers](https://bsideup.github.io/posts/local_development_with_testcontainers/)
