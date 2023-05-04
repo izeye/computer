@@ -47,10 +47,9 @@
   * https://sales.jetbrains.com/hc/en-gb/articles/207240845-What-is-perpetual-fallback-license-
 
 ## Blogs
-* StringBuffer and StringBuilder performance with JMH
-  * http://alblue.bandlem.com/2016/04/jmh-stringbuffer-stringbuilder.html
-* The append (x) .append (y) call chain in StringBuilder is faster than typical sb.append (x); sb.append (y)
-  * https://habr.com/ru/post/330220/
+* [Get Log Output in JSON](https://www.baeldung.com/java-log-json-output)
+* [StringBuffer and StringBuilder performance with JMH](http://alblue.bandlem.com/2016/04/jmh-stringbuffer-stringbuilder.html)
+* [The append (x) .append (y) call chain in StringBuilder is faster than typical sb.append (x); sb.append (y)](https://habr.com/ru/post/330220/)
 
 ## Tutorials
 ### AspectJ
