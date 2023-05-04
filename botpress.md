@@ -13,3 +13,6 @@
 * [How to call an API (3/10)](https://www.youtube.com/watch?v=cP9mWwC7rLE)
 * [Displaying content in a carousel (4/10)](https://www.youtube.com/watch?v=qK0lm8ybWL8&t=1s)
 * [(5/10) How to Build a ChatGPT-powered Recipe Chatbot with Botpress: Using the AI Task](https://www.youtube.com/watch?v=Enn6nGjmRzE)
+
+## Blogs
+* [Unlocking the Power of ChatGPT: A Comprehensive Video Series on Building a ChatGPT Recipe Chatbot](https://botpress.com/blog/unlocking-the-power-of-chatgpt-a-comprehensive-video-series-on-building-a-chatgpt-recipe-chatbot)
