@@ -12,3 +12,4 @@
 * [Capturing user information (2/10)](https://www.youtube.com/watch?v=bqGM9gqkf5A)
 * [How to call an API (3/10)](https://www.youtube.com/watch?v=cP9mWwC7rLE)
 * [Displaying content in a carousel (4/10)](https://www.youtube.com/watch?v=qK0lm8ybWL8&t=1s)
+* [(5/10) How to Build a ChatGPT-powered Recipe Chatbot with Botpress: Using the AI Task](https://www.youtube.com/watch?v=Enn6nGjmRzE)
