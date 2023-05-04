@@ -11,3 +11,4 @@
 * [How to build a ChatGPT-powered recipe chatbot with Botpress: overview (1/10)](https://www.youtube.com/watch?v=yu1Sg_M_Ltc)
 * [Capturing user information (2/10)](https://www.youtube.com/watch?v=bqGM9gqkf5A)
 * [How to call an API (3/10)](https://www.youtube.com/watch?v=cP9mWwC7rLE)
+* [Displaying content in a carousel (4/10)](https://www.youtube.com/watch?v=qK0lm8ybWL8&t=1s)
