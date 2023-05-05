@@ -14,6 +14,7 @@
 * [Displaying content in a carousel (4/10)](https://www.youtube.com/watch?v=qK0lm8ybWL8&t=1s)
 * [How to use the AI Task (5/10)](https://www.youtube.com/watch?v=Enn6nGjmRzE)
 * [Deploying your bot (6/10)](https://www.youtube.com/watch?v=N8szVOa5vXM)
+* [How to give an AI personality to your bot (7/10)](https://www.youtube.com/watch?v=7tTK5KKqtpY)
 
 ## Blogs
 * [Unlocking the Power of ChatGPT: A Comprehensive Video Series on Building a ChatGPT Recipe Chatbot](https://botpress.com/blog/unlocking-the-power-of-chatgpt-a-comprehensive-video-series-on-building-a-chatgpt-recipe-chatbot)
