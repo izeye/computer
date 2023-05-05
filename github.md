@@ -31,6 +31,9 @@
   * [About custom actions](https://docs.github.com/en/actions/creating-actions/about-custom-actions)
   * [Creating a JavaScript action](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action)
 
+## GitHub Pages
+* [Quickstart](https://docs.github.com/en/pages/quickstart)
+
 ## Code security
 ### Dependabot
 #### Work with Dependabot
