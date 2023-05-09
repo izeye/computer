@@ -140,6 +140,7 @@
 * [Java – Try with Resources](https://www.baeldung.com/java-try-with-resources)
 
 ## Misc.
+* [Explicit receiver parameters](https://blog.joda.org/2015/12/explicit-receiver-parameters.html)
 * [Into the Sunset on May 1st: Bintray, JCenter, GoCenter, and ChartCenter](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/)
 * [Introducing the Free Java License](https://blogs.oracle.com/java/post/free-java-license)
 * [Moving the JDK to a Two Year LTS Cadence](https://blogs.oracle.com/java/post/moving-the-jdk-to-a-two-year-lts-cadence)
