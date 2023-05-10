@@ -2,6 +2,9 @@
 
 ## Kotlin Home Page
 ### Documentation
+#### Concepts
+* [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)
+
 #### Official libraries
 * Coroutines (kotlinx.coroutines)
   * [Coroutines guide](https://kotlinlang.org/docs/coroutines-guide.html)
