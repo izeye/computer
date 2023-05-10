@@ -3,12 +3,12 @@
 ## Kotlin Home Page
 ### Documentation
 #### Concepts
+* [Asynchronous programming techniques](https://kotlinlang.org/docs/async-programming.html)
 * [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)
 
 #### Official libraries
 * Coroutines (kotlinx.coroutines)
   * [Coroutines guide](https://kotlinlang.org/docs/coroutines-guide.html)
-  * [Asynchronous programming techniques](https://kotlinlang.org/docs/async-programming.html)
   * [Coroutines basics](https://kotlinlang.org/docs/coroutines-basics.html)
 
 ### Language Guide
