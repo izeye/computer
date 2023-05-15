@@ -14,3 +14,6 @@
 
 ## GitHub
 * [OpenAI-Java](https://github.com/TheoKanning/openai-java)
+
+## Misc.
+* [SiteGPT](https://sitegpt.ai/)
