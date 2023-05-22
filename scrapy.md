@@ -6,3 +6,6 @@
 
 ## Articles
 * [Running a Scrapy spider in a GCP cloud function](https://weautomate.org/articles/running-scrapy-spider-cloud-function/)
+
+## Scrapyd
+### [Documentation](https://scrapyd.readthedocs.io/en/stable/)
