@@ -11,6 +11,7 @@
 ### [Documentation](https://scrapyd.readthedocs.io/en/stable/)
 * [Overview](https://scrapyd.readthedocs.io/en/latest/overview.html)
 * [Installation](https://scrapyd.readthedocs.io/en/latest/install.html)
+* [Deploying your project](https://scrapyd.readthedocs.io/en/latest/deploy.html)
 
 ## GitHub
 * [Scrapyd](https://github.com/scrapy/scrapyd)
