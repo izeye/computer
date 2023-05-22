@@ -9,6 +9,7 @@
 
 ## Scrapyd
 ### [Documentation](https://scrapyd.readthedocs.io/en/stable/)
+* [Overview](https://scrapyd.readthedocs.io/en/latest/overview.html)
 
 ## GitHub
 * [Scrapyd](https://github.com/scrapy/scrapyd)
