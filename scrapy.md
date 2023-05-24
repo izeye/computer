@@ -13,6 +13,7 @@
 * [Installation](https://scrapyd.readthedocs.io/en/latest/install.html)
 * [Deploying your project](https://scrapyd.readthedocs.io/en/latest/deploy.html)
 * [API](https://scrapyd.readthedocs.io/en/latest/api.html)
+* [Cloud](https://docs.zyte.com/web-scraping/tutorial/cloud.html)
 
 ## Zyte
 ### [Documentation](https://docs.zyte.com/)
