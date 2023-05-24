@@ -19,6 +19,7 @@
 #### WEB SCRAPING
 * [Get started](https://docs.zyte.com/web-scraping/get-started.html)
 * [Tutorial](https://docs.zyte.com/web-scraping/tutorial/index.html)
+  * [Setup](https://docs.zyte.com/web-scraping/tutorial/setup.html)
 
 ## GitHub
 * [Scrapyd](https://github.com/scrapy/scrapyd)
