@@ -7,6 +7,7 @@
 * [Quickstart](https://python.langchain.com/docs/get_started/quickstart)
 
 ### [Modules](https://python.langchain.com/docs/modules/)
+#### [Data connection](https://python.langchain.com/docs/modules/data_connection/)
 
 ## GitHub
 
