@@ -12,6 +12,7 @@
 
 ## GETTING STARTED GUIDES
 * [Accessing Data Reactively with Redis](https://spring.io/guides/gs/spring-data-reactive-redis/)
+* [Accessing Relational Data using JDBC with Spring](https://spring.io/guides/gs/relational-data-access/)
 * [Client-Side Load-Balancing with Spring Cloud LoadBalancer](https://spring.io/guides/gs/spring-cloud-loadbalancer/)
 * [Creating a Batch Service](https://spring.io/guides/gs/batch-processing/)
 * [Enabling Cross Origin Requests for a RESTful Web Service](https://spring.io/guides/gs/rest-service-cors/)
