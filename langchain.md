@@ -1,5 +1,8 @@
 # LangChain
 
+## Documentation
+* [Get started](https://python.langchain.com/docs/get_started)
+
 ## GitHub
 
 * [LangChain](https://github.com/hwchase17/langchain)
