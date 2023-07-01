@@ -9,6 +9,8 @@
 ### [Modules](https://python.langchain.com/docs/modules/)
 #### [Data connection](https://python.langchain.com/docs/modules/data_connection/)
 ##### [Document loaders](https://python.langchain.com/docs/modules/data_connection/document_loaders/)
+* Integrations
+  * [Unstructured File](https://python.langchain.com/docs/modules/data_connection/document_loaders/integrations/unstructured_file)
 
 ## GitHub
 
