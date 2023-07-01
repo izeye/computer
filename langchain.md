@@ -9,6 +9,8 @@
 ### [Modules](https://python.langchain.com/docs/modules/)
 #### [Data connection](https://python.langchain.com/docs/modules/data_connection/)
 ##### [Document loaders](https://python.langchain.com/docs/modules/data_connection/document_loaders/)
+* How-to
+  * [HTML](https://python.langchain.com/docs/modules/data_connection/document_loaders/how_to/html)
 * Integrations
   * [Unstructured File](https://python.langchain.com/docs/modules/data_connection/document_loaders/integrations/unstructured_file)
 
