@@ -18,6 +18,8 @@
 * Text splitters
   * [Recursively split by character](https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/recursive_text_splitter)
 
+##### [Text embedding models](https://python.langchain.com/docs/modules/data_connection/text_embedding/)
+
 ## GitHub
 
 * [LangChain](https://github.com/hwchase17/langchain)
