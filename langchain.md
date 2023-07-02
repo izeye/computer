@@ -15,6 +15,8 @@
   * [Unstructured File](https://python.langchain.com/docs/modules/data_connection/document_loaders/integrations/unstructured_file)
 
 ##### [Document transformers](https://python.langchain.com/docs/modules/data_connection/document_transformers/)
+* Text splitters
+  * [Recursively split by character](https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/recursive_text_splitter)
 
 ## GitHub
 
