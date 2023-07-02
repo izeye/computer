@@ -22,6 +22,8 @@
 * Integrations
   * [OpenAI](https://python.langchain.com/docs/modules/data_connection/text_embedding/integrations/openai)
 
+##### [Vector stores](https://python.langchain.com/docs/modules/data_connection/vectorstores/)
+
 ## GitHub
 
 * [LangChain](https://github.com/hwchase17/langchain)
