@@ -14,6 +14,8 @@
 * Integrations
   * [Unstructured File](https://python.langchain.com/docs/modules/data_connection/document_loaders/integrations/unstructured_file)
 
+##### [Document transformers](https://python.langchain.com/docs/modules/data_connection/document_transformers/)
+
 ## GitHub
 
 * [LangChain](https://github.com/hwchase17/langchain)
