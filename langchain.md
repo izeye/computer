@@ -19,6 +19,8 @@
   * [Recursively split by character](https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/recursive_text_splitter)
 
 ##### [Text embedding models](https://python.langchain.com/docs/modules/data_connection/text_embedding/)
+* Integrations
+  * [OpenAI](https://python.langchain.com/docs/modules/data_connection/text_embedding/integrations/openai)
 
 ## GitHub
 
