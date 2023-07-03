@@ -23,6 +23,8 @@
   * [OpenAI](https://python.langchain.com/docs/modules/data_connection/text_embedding/integrations/openai)
 
 ##### [Vector stores](https://python.langchain.com/docs/modules/data_connection/vectorstores/)
+* Integrations
+  * [FAISS](https://python.langchain.com/docs/modules/data_connection/vectorstores/integrations/faiss)
 
 ## GitHub
 
