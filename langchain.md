@@ -25,6 +25,7 @@
 ##### [Vector stores](https://python.langchain.com/docs/modules/data_connection/vectorstores/)
 * Integrations
   * [FAISS](https://python.langchain.com/docs/modules/data_connection/vectorstores/integrations/faiss)
+  * [Pinecone](https://python.langchain.com/docs/modules/data_connection/vectorstores/integrations/pinecone)
 
 ## GitHub
 
