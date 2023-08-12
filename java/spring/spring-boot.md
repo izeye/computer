@@ -20,8 +20,9 @@
 * https://github.com/spring-projects/spring-boot/blob/master/README.adoc
 
 ## Wiki
-* Merging Pull Requests
-  * https://github.com/spring-projects/spring-boot/wiki/Merging-Pull-Requests
+### Development Process
+* [Merging Pull Requests](https://github.com/spring-projects/spring-boot/wiki/Merging-Pull-Requests)
+* [Deprecations](https://github.com/spring-projects/spring-boot/wiki/Deprecations)
 
 ## YouTube
 * [Spring Boot 3 in 6 minutes](https://www.youtube.com/watch?v=WJutdzX9hl0)
