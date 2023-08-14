@@ -84,4 +84,6 @@
 * [What's New in Kotlin 1.5.20](https://www.youtube.com/watch?v=SV8CgSXQe44)
 
 ## GitHub
-* [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+### [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
+### [Mockito-Kotlin](https://github.com/mockito/mockito-kotlin)
+* [Wiki](https://github.com/mockito/mockito-kotlin/wiki)
