@@ -10,3 +10,7 @@
 * Create and edit URLs and parameters
   * Create and manage URL parameters
     * [Add URL parameters to a Final URL Suffix in Google Ads accounts](https://support.google.com/searchads/answer/9072131)
+
+## Google Ads Help
+### Ads and approvals
+* [About parallel tracking](https://support.google.com/google-ads/answer/7544674)
