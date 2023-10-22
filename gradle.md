@@ -30,6 +30,7 @@
 
 ## YouTube
 * [10 Best Gradle Plugins You Can't Live Without](https://www.youtube.com/watch?v=5UJ0igllPuU)
+* [Centralize Dependencies With Version Catalogs (Gradle best practice tip #20)](https://www.youtube.com/watch?v=WvtcCCCLfOc)
 
 ## Misc.
 * [A Bag of Properties](https://www.liutikas.net/2022/04/25/A-Bag-Of-Properties.html)
