@@ -10,6 +10,7 @@
 * Coroutines (kotlinx.coroutines)
   * [Coroutines guide](https://kotlinlang.org/docs/coroutines-guide.html)
   * [Coroutines basics](https://kotlinlang.org/docs/coroutines-basics.html)
+  * [Coroutine context and dispatchers](https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html)
 
 ### Language Guide
 #### Overview
