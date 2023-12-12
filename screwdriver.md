@@ -1,6 +1,7 @@
 # Screwdriver
 ## [Guide Homepage](https://docs.screwdriver.cd/)
 ## User Guide
+### [Quickstart](https://docs.screwdriver.cd/user-guide/quickstart)
 ### Configuration
 * [Overall](https://docs.screwdriver.cd/user-guide/configuration/)
 
