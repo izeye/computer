@@ -4,6 +4,7 @@
 ### [Quickstart](https://docs.screwdriver.cd/user-guide/quickstart)
 ### Configuration
 * [Overall](https://docs.screwdriver.cd/user-guide/configuration/)
+* [Job Configuration](https://docs.screwdriver.cd/user-guide/configuration/jobconfiguration)
 
 ## [About](https://docs.screwdriver.cd/about/)
 ### Appendix
