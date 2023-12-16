@@ -15,6 +15,7 @@
 ### Learn
 #### GET STARTED
 * [Quick Start](https://react.dev/learn)
+* [Installation](https://react.dev/learn/installation)
 
 ## Blogs
 * Universal React: You’re doing it wrong
