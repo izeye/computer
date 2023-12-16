@@ -1,5 +1,5 @@
 # Next.js
-## Documentation
+## Documentation (Obsolete)
 ### FOUNDATIONS
 #### [About Next.js](https://nextjs.org/learn/foundations/about-nextjs)
 * [What is Next.js?](https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs)
@@ -17,3 +17,6 @@
 #### [From React to Next.js](https://nextjs.org/learn/foundations/from-react-to-nextjs)
 * [Getting Started with Next.js](https://nextjs.org/learn/foundations/from-react-to-nextjs/getting-started-with-nextjs)
 * [Next Steps](https://nextjs.org/learn/foundations/from-react-to-nextjs/next-steps)
+
+## Docs
+### [Getting Started](https://nextjs.org/docs)
