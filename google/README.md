@@ -17,7 +17,8 @@
 
 * [Deploy a web service](https://cloud.google.com/run/docs/quickstarts/deploy-container)
 * Build and deploy a web service
-  * [Python](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service)
+  * [Deploy a Python service to Cloud Run](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service)
+  * [Deploy a Java service to Cloud Run](https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-java-service)
 
 ### YouTube
 
