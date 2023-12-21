@@ -22,3 +22,4 @@
 ### [Getting Started](https://nextjs.org/docs)
 
 ## [Learn](https://nextjs.org/learn)
+### [React Foundations](https://nextjs.org/learn/react-foundations)
