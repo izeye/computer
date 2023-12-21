@@ -25,3 +25,4 @@
 ### [React Foundations](https://nextjs.org/learn/react-foundations)
 * [Chapter 1 About React and Next.js](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
 * [Chapter 2 Rendering User Interfaces (UI)](https://nextjs.org/learn/react-foundations/rendering-ui)
+* [Chapter 3 Updating UI with Javascript](https://nextjs.org/learn/react-foundations/updating-ui-with-javascript)
