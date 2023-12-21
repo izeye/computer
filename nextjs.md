@@ -23,3 +23,4 @@
 
 ## [Learn](https://nextjs.org/learn)
 ### [React Foundations](https://nextjs.org/learn/react-foundations)
+* [Chapter 1 About React and Next.js](https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs)
