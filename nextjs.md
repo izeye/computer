@@ -20,3 +20,5 @@
 
 ## Docs
 ### [Getting Started](https://nextjs.org/docs)
+
+## [Learn](https://nextjs.org/learn)
