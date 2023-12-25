@@ -36,3 +36,4 @@
 * [Chapter 11 Next Steps](https://nextjs.org/learn/react-foundations/next-steps)
 
 ### [Learn Next.js](https://nextjs.org/learn/dashboard-app)
+* [Chapter 1 Getting Started](https://nextjs.org/learn/dashboard-app/getting-started)
