@@ -37,3 +37,4 @@
 
 ### [Learn Next.js](https://nextjs.org/learn/dashboard-app)
 * [Chapter 1 Getting Started](https://nextjs.org/learn/dashboard-app/getting-started)
+* [Chapter 2 CSS Styling](https://nextjs.org/learn/dashboard-app/css-styling)
