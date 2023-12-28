@@ -40,3 +40,4 @@
 * [Chapter 2 CSS Styling](https://nextjs.org/learn/dashboard-app/css-styling)
 * [Chapter 3 Optimizing Fonts and Images](https://nextjs.org/learn/dashboard-app/optimizing-fonts-images)
 * [Chapter 4 Creating Layouts and Pages](https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages)
+* [Chapter 5 Navigating Between Pages](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
