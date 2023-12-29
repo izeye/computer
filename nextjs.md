@@ -42,3 +42,4 @@
 * [Chapter 4 Creating Layouts and Pages](https://nextjs.org/learn/dashboard-app/creating-layouts-and-pages)
 * [Chapter 5 Navigating Between Pages](https://nextjs.org/learn/dashboard-app/navigating-between-pages)
 * [Chapter 6 Setting Up Your Database](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
+* [Chapter 7 Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
