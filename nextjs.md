@@ -46,3 +46,4 @@
 * [Chapter 8 Static and Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
 * [Chapter 9 Streaming](https://nextjs.org/learn/dashboard-app/streaming)
 * [Chapter 10 Partial Prerendering (Optional)](https://nextjs.org/learn/dashboard-app/partial-prerendering)
+* [Chapter 11 Adding Search and Pagination](https://nextjs.org/learn/dashboard-app/adding-search-and-pagination)
