@@ -44,3 +44,4 @@
 * [Chapter 6 Setting Up Your Database](https://nextjs.org/learn/dashboard-app/setting-up-your-database)
 * [Chapter 7 Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
 * [Chapter 8 Static and Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
+* [Chapter 9 Streaming](https://nextjs.org/learn/dashboard-app/streaming)
