@@ -45,3 +45,4 @@
 * [Chapter 7 Fetching Data](https://nextjs.org/learn/dashboard-app/fetching-data)
 * [Chapter 8 Static and Dynamic Rendering](https://nextjs.org/learn/dashboard-app/static-and-dynamic-rendering)
 * [Chapter 9 Streaming](https://nextjs.org/learn/dashboard-app/streaming)
+* [Chapter 10 Partial Prerendering (Optional)](https://nextjs.org/learn/dashboard-app/partial-prerendering)
