@@ -50,3 +50,4 @@
 * [Chapter 12 Mutating Data](https://nextjs.org/learn/dashboard-app/mutating-data)
 * [Chapter 13 Handling Errors](https://nextjs.org/learn/dashboard-app/error-handling)
 * [Chapter 14 Improving Accessibility](https://nextjs.org/learn/dashboard-app/improving-accessibility)
+* [Chapter 15 Adding Authentication](https://nextjs.org/learn/dashboard-app/adding-authentication)
