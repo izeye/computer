@@ -52,3 +52,4 @@
 * [Chapter 14 Improving Accessibility](https://nextjs.org/learn/dashboard-app/improving-accessibility)
 * [Chapter 15 Adding Authentication](https://nextjs.org/learn/dashboard-app/adding-authentication)
 * [Chapter 16 Adding Metadata](https://nextjs.org/learn/dashboard-app/adding-metadata)
+* [Chapter 17 Next Steps](https://nextjs.org/learn/dashboard-app/next-steps)
