@@ -21,6 +21,7 @@
 ## Docs
 ### [Getting Started](https://nextjs.org/docs)
 * [Installation](https://nextjs.org/docs/getting-started/installation)
+* [Project Structure](https://nextjs.org/docs/getting-started/project-structure)
 
 ## [Learn](https://nextjs.org/learn)
 ### [React Foundations](https://nextjs.org/learn/react-foundations)
