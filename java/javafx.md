@@ -1,4 +1,4 @@
 # JavaFX
 ## Tutorials
-### Getting Started with JavaFX
-* [About This Tutorial](https://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm)
+### JavaFX: Getting Started with JavaFX
+* [Getting Started with JavaFX Sample Applications](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/get_start_apps.htm)
