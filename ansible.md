@@ -6,7 +6,7 @@
   * [Introduction to Ansible](https://docs.ansible.com/ansible/latest/getting_started/introduction.html)
   * [Start automating with Ansible](https://docs.ansible.com/ansible/latest/getting_started/get_started_ansible.html)
   * [Building an inventory](https://docs.ansible.com/ansible/latest/getting_started/get_started_inventory.html)
-* [Creating a playbook](https://docs.ansible.com/ansible/latest/getting_started/get_started_playbook.html)
+  * [Creating a playbook](https://docs.ansible.com/ansible/latest/getting_started/get_started_playbook.html)
 
 ## YouTube
 
