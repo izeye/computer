@@ -17,3 +17,6 @@
 
 ## Docker Hub
 * [nginxdemos/hello](https://hub.docker.com/r/nginxdemos/hello/)
+
+## Blogs
+* [How to Expose a Docker Port – Tutorial & Examples](https://spacelift.io/blog/docker-expose-port)
