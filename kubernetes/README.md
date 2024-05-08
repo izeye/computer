@@ -17,6 +17,7 @@
 * Workloads
   * Pods
     * [Init Containers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/)
+    * [Sidecar Containers](https://kubernetes.io/docs/concepts/workloads/pods/sidecar-containers/)
 * Services, Load Balancing, and Networking
   * [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
   * [Ingress Controllers](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)
