@@ -202,6 +202,7 @@
 * [Java Language Futures - Mid 2020 Edition](https://inside.java/2020/09/17/devlive-java-lang-futures/)
 * [On Parallelism and Concurrency](https://inside.java/2021/11/30/on-parallelism-and-concurrency/)
 * [Quality Outreach Heads-up - JDK 20: java.net.URL parsing fix & behavior change](https://inside.java/2022/11/22/heads-up/)
+* [Quality Outreach Heads-up - JLine is now the Default Console Provider](https://inside.java/2023/07/31/quality-heads-up/)
 
 ## Error Prone
 ### Bug patterns
