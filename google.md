@@ -6,4 +6,4 @@
 ## Google Account Help
 ### Help Center
 #### Suspicious activity
-* [Remove malware or unsafe software](https://support.google.com/accounts/answer/9924802)
+* [Remove malware or unsafe software](https://support.google.com/accounts/answer/9924802?co=GENIE.Platform%3DAndroid&oco=1)
