@@ -1,6 +1,8 @@
 # Spring Blog
 * 2023-09-22
   * [Paketo Buildpacks Bionic End Of Support](https://spring.io/blog/2023/09/22/paketo-buildpacks-bionic-end-of-support)
+* 2023-06-19
+  * [Spring Boot 3.1's ConnectionDetails abstraction](https://spring.io/blog/2023/06/19/spring-boot-31-connectiondetails-abstraction)
 * 2022-12-14
   * [Notice of Permissions Changes to repo.spring.io, January 2023](https://spring.io/blog/2022/12/14/notice-of-permissions-changes-to-repo-spring-io-january-2023)
 * 2022-04-01
