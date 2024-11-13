@@ -3,6 +3,7 @@
 * [Build Cache](https://docs.gradle.org/current/userguide/build_cache.html)
 * [Chapter 34. Maven Publishing (new)](https://docs.gradle.org/current/userguide/publishing_maven.html)
 * [Dependency Locking](https://docs.gradle.org/current/userguide/dependency_locking.html)
+* [Platforms](https://docs.gradle.org/current/userguide/platforms.html)
 * [The Java Library Plugin](https://docs.gradle.org/current/userguide/java_library_plugin.html)
 * [The Java Plugin](https://docs.gradle.org/current/userguide/java_plugin.html)
 
