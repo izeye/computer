@@ -22,6 +22,11 @@
 * [Add a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 * [Test your SSH connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection)
 
+### Repositories
+#### Work with files
+* Managing files
+  * [Customizing how changed files appear on GitHub](https://docs.github.com/en/repositories/working-with-files/managing-files/customizing-how-changed-files-appear-on-github)
+
 ## GitHub Actions
 * [Quickstart](https://docs.github.com/en/actions/quickstart)
 * Learn GitHub Actions
