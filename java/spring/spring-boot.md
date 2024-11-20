@@ -24,5 +24,8 @@
 * [Merging Pull Requests](https://github.com/spring-projects/spring-boot/wiki/Merging-Pull-Requests)
 * [Deprecations](https://github.com/spring-projects/spring-boot/wiki/Deprecations)
 
+### Migration Guides
+* [Spring Boot 3.0 Migration Guide](https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.0-Migration-Guide)
+
 ## YouTube
 * [Spring Boot 3 in 6 minutes](https://www.youtube.com/watch?v=WJutdzX9hl0)
