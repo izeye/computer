@@ -22,6 +22,7 @@
 ## Wiki
 ### Development Process
 * [Merging Pull Requests](https://github.com/spring-projects/spring-boot/wiki/Merging-Pull-Requests)
+* [GitHub Actions](https://github.com/spring-projects/spring-boot/wiki/GitHub-Actions)
 * [Deprecations](https://github.com/spring-projects/spring-boot/wiki/Deprecations)
 
 ### Migration Guides
