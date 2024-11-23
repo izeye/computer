@@ -6,7 +6,7 @@
 
 #### Recipes
 
-* [Use Collections#isEmpty() instead of comparing size()](https://docs.openrewrite.org/reference/recipes/java/cleanup/isemptycalloncollections)
+* [Use Collections#isEmpty() instead of comparing size()](https://docs.openrewrite.org/recipes/staticanalysis/isemptycalloncollections)
 
 ## GitHub
 
