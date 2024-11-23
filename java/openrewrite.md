@@ -1,4 +1,4 @@
-# Rewrite
+# OpenRewrite
 
 ## Documentation
 
