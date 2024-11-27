@@ -204,10 +204,6 @@
 * [Quality Outreach Heads-up - JDK 20: java.net.URL parsing fix & behavior change](https://inside.java/2022/11/22/heads-up/)
 * [Quality Outreach Heads-up - JLine is now the Default Console Provider](https://inside.java/2023/07/31/quality-heads-up/)
 
-## Error Prone
-### Bug patterns
-* [UnnecessaryLambda](https://errorprone.info/bugpattern/UnnecessaryLambda)
-
 ## Java Design Patterns
 ### Patterns
 * [Execute Around](https://java-design-patterns.com/patterns/execute-around/)
