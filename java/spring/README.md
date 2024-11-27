@@ -72,8 +72,9 @@
 * [Spring JSON-P with Jackson](https://www.baeldung.com/spring-jackson-jsonp)
 * [Spring Kotlin References in @Value-annotation](https://blog.jetbrains.com/idea/2018/10/spring-kotlin-references-in-value-annotation/)
 
-## ALL VULNERABILITY REPORTS
-* [CVE-2022-22965: Spring Framework RCE via Data Binding on JDK 9+](https://tanzu.vmware.com/security/cve-2022-22965)
+## Spring Security Advisories
+* [CVE-2022-22965: Spring Framework RCE via Data Binding on JDK 9+](https://spring.io/security/cve-2022-22965)
+* [CVE-2024-38820: Spring Framework DataBinder Case Sensitive Match Exception](https://spring.io/security/cve-2024-38820)
 
 ## YouTube
 * [Being a Spring Contributor + Spring Cloud AWS (ft. Maciej Walkowiak)](https://www.youtube.com/watch?v=3_p5iLkhH6A)
