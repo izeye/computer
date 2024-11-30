@@ -74,6 +74,7 @@
 
 ## Spring Security Advisories
 * [CVE-2022-22965: Spring Framework RCE via Data Binding on JDK 9+](https://spring.io/security/cve-2022-22965)
+* [CVE-2024-38807: Signature Forgery Vulnerability in Spring Boot's Loader](https://spring.io/security/cve-2024-38807)
 * [CVE-2024-38820: Spring Framework DataBinder Case Sensitive Match Exception](https://spring.io/security/cve-2024-38820)
 
 ## YouTube
