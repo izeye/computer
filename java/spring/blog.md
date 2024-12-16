@@ -1,6 +1,8 @@
 # Spring Blog
 * 2023-09-22
   * [Paketo Buildpacks Bionic End Of Support](https://spring.io/blog/2023/09/22/paketo-buildpacks-bionic-end-of-support)
+* 2023-07-13
+  * [New in Spring 6.1: RestClient](https://spring.io/blog/2023/07/13/new-in-spring-6-1-restclient)
 * 2023-06-19
   * [Spring Boot 3.1's ConnectionDetails abstraction](https://spring.io/blog/2023/06/19/spring-boot-31-connectiondetails-abstraction)
 * 2022-12-14
