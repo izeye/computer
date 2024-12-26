@@ -99,6 +99,9 @@
 * How to get MAC address in Java
   * https://www.mkyong.com/java/how-to-get-mac-address-in-java/
 
+## Null-safety
+* [Retrofitting null-safety onto Java at Meta](https://engineering.fb.com/2022/11/22/developer-tools/meta-java-nullsafe/)
+
 ## Optional
 * Optional in Java SE 8
   * http://blog.joda.org/2014/11/optional-in-java-se-8.html
