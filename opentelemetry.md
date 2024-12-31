@@ -1,5 +1,5 @@
 # [OpenTelemetry](https://opentelemetry.io/)
-## Docs
+## [Docs](https://opentelemetry.io/docs/)
 ### Language APIs & SDKs
 * [Java](https://opentelemetry.io/docs/languages/java/)
 
