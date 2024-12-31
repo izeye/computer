@@ -1,5 +1,8 @@
 # OpenTelemetry
 ## Docs
+### Language APIs & SDKs
+* [Java](https://opentelemetry.io/docs/languages/java/)
+
 ### Zero-code Instrumentation
 #### Java
 * [Spring Boot starter](https://opentelemetry.io/docs/zero-code/java/spring-boot-starter/)
