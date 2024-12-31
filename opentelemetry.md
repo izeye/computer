@@ -1,4 +1,4 @@
-# OpenTelemetry
+# [OpenTelemetry](https://opentelemetry.io/)
 ## Docs
 ### Language APIs & SDKs
 * [Java](https://opentelemetry.io/docs/languages/java/)
