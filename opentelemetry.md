@@ -8,6 +8,7 @@
 ### [Concepts](https://opentelemetry.io/docs/concepts/)
 * [Observability primer](https://opentelemetry.io/docs/concepts/observability-primer/)
 * [Context propagation](https://opentelemetry.io/docs/concepts/context-propagation/)
+* [Signals](https://opentelemetry.io/docs/concepts/signals/)
 
 ### Language APIs & SDKs
 * [Java](https://opentelemetry.io/docs/languages/java/)
