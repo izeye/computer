@@ -5,6 +5,8 @@
 * [Dev](https://opentelemetry.io/docs/getting-started/dev/)
 * [Ops](https://opentelemetry.io/docs/getting-started/ops/)
 
+### [Concepts](https://opentelemetry.io/docs/concepts/)
+
 ### Language APIs & SDKs
 * [Java](https://opentelemetry.io/docs/languages/java/)
 
