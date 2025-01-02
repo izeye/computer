@@ -84,3 +84,5 @@ io.micrometer.graphite.GraphiteMeterRegistry
 ## Wiki
 * Releasing Micrometer
   * https://github.com/micrometer-metrics/micrometer/wiki/Releasing-Micrometer
+* Migration guides
+  * [1.13 Migration Guide](https://github.com/micrometer-metrics/micrometer/wiki/1.13-Migration-Guide)
