@@ -12,6 +12,7 @@
   * [Traces](https://opentelemetry.io/docs/concepts/signals/traces/)
   * [Metrics](https://opentelemetry.io/docs/concepts/signals/metrics/)
   * [Logs](https://opentelemetry.io/docs/concepts/signals/logs/)
+  * [Baggage](https://opentelemetry.io/docs/concepts/signals/baggage/)
 
 ### Language APIs & SDKs
 * [Java](https://opentelemetry.io/docs/languages/java/)
