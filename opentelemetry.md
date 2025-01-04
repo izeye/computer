@@ -14,6 +14,7 @@
   * [Logs](https://opentelemetry.io/docs/concepts/signals/logs/)
   * [Baggage](https://opentelemetry.io/docs/concepts/signals/baggage/)
 * [Instrumentation](https://opentelemetry.io/docs/concepts/instrumentation/)
+  * [Zero-code](https://opentelemetry.io/docs/concepts/instrumentation/zero-code/)
 
 ### Language APIs & SDKs
 * [Java](https://opentelemetry.io/docs/languages/java/)
