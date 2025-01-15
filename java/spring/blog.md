@@ -1,4 +1,6 @@
 # Spring Blog
+* 2025-01-06
+  * [Hello DCO, Goodbye CLA: Simplifying Contributions to Spring](https://spring.io/blog/2025/01/06/hello-dco-goodbye-cla-simplifying-contributions-to-spring)
 * 2023-09-22
   * [Paketo Buildpacks Bionic End Of Support](https://spring.io/blog/2023/09/22/paketo-buildpacks-bionic-end-of-support)
 * 2023-07-13
