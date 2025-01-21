@@ -1,8 +1,10 @@
 # Java
 ## Libraries
+### Awaitility
+* [GitHub](https://github.com/awaitility/awaitility)
+
 ### PCollections
-* GitHub
-  * https://github.com/hrldcpr/pcollections
+* [GitHub](https://github.com/hrldcpr/pcollections)
 
 ### Resilience4j
 #### Resilience4j User Guide
