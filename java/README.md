@@ -3,6 +3,10 @@
 ### Awaitility
 * [GitHub](https://github.com/awaitility/awaitility)
 
+### Logback
+#### logback-access
+* [GitHub](https://github.com/qos-ch/logback-access)
+
 ### PCollections
 * [GitHub](https://github.com/hrldcpr/pcollections)
 
