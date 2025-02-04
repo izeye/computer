@@ -53,6 +53,7 @@
   * https://sales.jetbrains.com/hc/en-gb/articles/207240845-What-is-perpetual-fallback-license-
 
 ## Blogs
+* [Difference Between a Java Keystore and a Truststore](https://www.baeldung.com/java-keystore-truststore-difference)
 * [Get Log Output in JSON](https://www.baeldung.com/java-log-json-output)
 * [Remove Emojis from a Java String](https://www.baeldung.com/java-string-remove-emojis)
 * [StringBuffer and StringBuilder performance with JMH](http://alblue.bandlem.com/2016/04/jmh-stringbuffer-stringbuilder.html)
