@@ -214,7 +214,3 @@
 ## Java Design Patterns
 ### Patterns
 * [Execute Around](https://java-design-patterns.com/patterns/execute-around/)
-
-## JDK 17 Documentation
-### Java Language Updates
-* [6. Switch Expressions](https://docs.oracle.com/en/java/javase/17/language/switch-expressions-and-statements.html)
