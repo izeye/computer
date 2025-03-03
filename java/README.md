@@ -203,6 +203,7 @@
 
 ### Newscast
 * [Project Loom Brings Structured Concurrency - Inside Java Newscast #17](https://www.youtube.com/watch?v=2J2tJm_iwk0)
+* [Java 24 Stops Pinning Virtual Threads (Almost) - Inside Java Newscast #80](https://www.youtube.com/watch?v=QDk1c0ifoNo)
 
 ### Misc.
 * [Java Champion Program](https://dev.java/community/jcs/)
