@@ -6,3 +6,7 @@
 ## JDK 21 Documentation
 ### API Documentation
 * [Value-based Classes](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/doc-files/ValueBased.html)
+
+### Core Libraries
+#### Concurrency
+* [Virtual Threads](https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html)
