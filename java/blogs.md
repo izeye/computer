@@ -136,6 +136,9 @@
 ## Try with Resources
 * [Java – Try with Resources](https://www.baeldung.com/java-try-with-resources)
 
+## Virtual Threads
+* [The Ultimate Guide to Java Virtual Threads](https://rockthejvm.com/articles/the-ultimate-guide-to-java-virtual-threads)
+
 ## Misc.
 * [Explicit receiver parameters](https://blog.joda.org/2015/12/explicit-receiver-parameters.html)
 * [Into the Sunset on May 1st: Bintray, JCenter, GoCenter, and ChartCenter](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/)
