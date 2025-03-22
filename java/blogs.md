@@ -137,6 +137,7 @@
 * [Java – Try with Resources](https://www.baeldung.com/java-try-with-resources)
 
 ## Virtual Threads
+* [Curiosities of Java Virtual Threads pinning with synchronized](https://mikemybytes.com/2024/02/28/curiosities-of-java-virtual-threads-pinning-with-synchronized/)
 * [The Ultimate Guide to Java Virtual Threads](https://rockthejvm.com/articles/the-ultimate-guide-to-java-virtual-threads)
 
 ## Misc.
