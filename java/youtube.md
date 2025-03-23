@@ -1,4 +1,5 @@
 # YouTube
+* [Continuous Monitoring with JDK Flight Recorder](https://www.youtube.com/watch?v=Gx_JGVborJ0)
 * [Coroutines and Loom behind the scenes by Roman Elizarov](https://www.youtube.com/watch?v=zluKcazgkV4)
 * [Introduction to JDK Mission Control](https://www.youtube.com/watch?v=7-RKyp05m8M)
 * [Java 21 new feature: Virtual Threads #RoadTo21](https://www.youtube.com/watch?v=5E0LU85EnTI)
