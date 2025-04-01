@@ -59,7 +59,7 @@
   * Video: https://www.youtube.com/watch?v=PDxcEzu62jk
 * [PromCon EU 2022: Native Histograms in Prometheus](https://www.youtube.com/watch?v=AcmABV6NCYk)
 
-# Blogs
+# Robust Perception Blogs
 * [Configuring Prometheus storage retention](https://www.robustperception.io/configuring-prometheus-storage-retention)
 * [Exposing the software version to Prometheus](https://www.robustperception.io/exposing-the-software-version-to-prometheus)
 * [Get thee to a NaNnary](https://www.robustperception.io/get-thee-to-a-nannary)
@@ -70,3 +70,6 @@
 * [Using group_left to calculate label proportions](https://www.robustperception.io/using-group_left-to-calculate-label-proportions)
 * [What range should I use with rate()?](https://www.robustperception.io/what-range-should-i-use-with-rate/)
 * [Who wants seconds?](https://www.robustperception.io/who-wants-seconds)
+
+# Blogs
+* [When my Counter Restarted? Addressing Decade-Old Counter Limitation!](https://www.arthursens.dev/posts/created-timestamps)
