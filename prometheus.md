@@ -58,6 +58,7 @@
   * Slides: https://www.slideshare.net/Docker/monitoring-the-prometheus-way-julius-voltz-prometheus
   * Video: https://www.youtube.com/watch?v=PDxcEzu62jk
 * [PromCon EU 2022: Native Histograms in Prometheus](https://www.youtube.com/watch?v=AcmABV6NCYk)
+* [PromCon 2023 - When my Counter Restarted? Addressing Old Counter Limitations With Created Timestamps](https://www.youtube.com/watch?v=nWf0BfQ5EEA)
 
 # Robust Perception Blogs
 * [Configuring Prometheus storage retention](https://www.robustperception.io/configuring-prometheus-storage-retention)
