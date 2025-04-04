@@ -7,3 +7,4 @@
 ### Get Started
 * [Overview](https://json-schema.org/learn)
 * [What is a schema?](https://json-schema.org/understanding-json-schema/about)
+* [The basics](https://json-schema.org/understanding-json-schema/basics)
