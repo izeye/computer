@@ -4,12 +4,6 @@
 * Try PCF on the Public Cloud
   * https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry/introduction
 
-### Spring Framework Documentation
-#### Web Servlet
-##### 1. Spring Web MVC
-* 1.5. Asynchronous Requests
-  * https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc-ann-async
-
 ## GETTING STARTED GUIDES
 * [Accessing Data Reactively with Redis](https://spring.io/guides/gs/spring-data-reactive-redis/)
 * [Accessing Relational Data using JDBC with Spring](https://spring.io/guides/gs/relational-data-access/)
