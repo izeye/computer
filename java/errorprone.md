@@ -3,6 +3,7 @@
 * [NullTernary](https://errorprone.info/bugpattern/NullTernary)
 * [StringCaseLocaleUsage](https://errorprone.info/bugpattern/StringCaseLocaleUsage)
 * [UnnecessaryLambda](https://errorprone.info/bugpattern/UnnecessaryLambda)
+* [UnnecessaryParentheses](https://errorprone.info/bugpattern/UnnecessaryParentheses)
 * [VariableNameSameAsType](https://errorprone.info/bugpattern/VariableNameSameAsType)
 
 ## YouTube
