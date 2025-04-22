@@ -1,5 +1,6 @@
 # Error Prone
 ## Bug patterns
+* [BadImport](https://errorprone.info/bugpattern/BadImport)
 * [NullTernary](https://errorprone.info/bugpattern/NullTernary)
 * [StringCaseLocaleUsage](https://errorprone.info/bugpattern/StringCaseLocaleUsage)
 * [UnnecessaryLambda](https://errorprone.info/bugpattern/UnnecessaryLambda)
