@@ -33,6 +33,10 @@
 * [10 Best Gradle Plugins You Can't Live Without](https://www.youtube.com/watch?v=5UJ0igllPuU)
 * [Centralize Dependencies With Version Catalogs (Gradle best practice tip #20)](https://www.youtube.com/watch?v=WvtcCCCLfOc)
 
+## Develocity
+### Feature Guides
+* [Develocity Failure Classification Guide](https://docs.gradle.com/develocity/failure-classification/)
+
 ## Misc.
 * [A Bag of Properties](https://www.liutikas.net/2022/04/25/A-Bag-Of-Properties.html)
 * [gradle-git-publish](https://github.com/ajoberstar/gradle-git-publish)
