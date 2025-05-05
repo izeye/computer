@@ -4,6 +4,7 @@
 * [DefaultCharset](https://errorprone.info/bugpattern/DefaultCharset)
 * [NullTernary](https://errorprone.info/bugpattern/NullTernary)
 * [StringCaseLocaleUsage](https://errorprone.info/bugpattern/StringCaseLocaleUsage)
+* [StringConcatToTextBlock](https://errorprone.info/bugpattern/StringConcatToTextBlock)
 * [UnnecessaryLambda](https://errorprone.info/bugpattern/UnnecessaryLambda)
 * [UnnecessaryParentheses](https://errorprone.info/bugpattern/UnnecessaryParentheses)
 * [VariableNameSameAsType](https://errorprone.info/bugpattern/VariableNameSameAsType)
