@@ -2,6 +2,7 @@
 ## Bug patterns
 * [BadImport](https://errorprone.info/bugpattern/BadImport)
 * [DefaultCharset](https://errorprone.info/bugpattern/DefaultCharset)
+* [JavaDurationGetSecondsToToSeconds](https://errorprone.info/bugpattern/JavaDurationGetSecondsToToSeconds)
 * [NullTernary](https://errorprone.info/bugpattern/NullTernary)
 * [StringCaseLocaleUsage](https://errorprone.info/bugpattern/StringCaseLocaleUsage)
 * [StringConcatToTextBlock](https://errorprone.info/bugpattern/StringConcatToTextBlock)
