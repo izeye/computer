@@ -74,3 +74,7 @@
 
 # Blogs
 * [When my Counter Restarted? Addressing Decade-Old Counter Limitation!](https://www.arthursens.dev/posts/created-timestamps)
+
+# client_java
+## Getting Started
+* [Quickstart](https://prometheus.github.io/client_java/getting-started/quickstart/)
