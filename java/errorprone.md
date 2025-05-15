@@ -1,6 +1,7 @@
 # Error Prone
 ## Bug patterns
 * [BadImport](https://errorprone.info/bugpattern/BadImport)
+* [ClassCanBeStatic](https://errorprone.info/bugpattern/ClassCanBeStatic)
 * [DefaultCharset](https://errorprone.info/bugpattern/DefaultCharset)
 * [InlineFormatString](https://errorprone.info/bugpattern/InlineFormatString)
 * [JavaDurationGetSecondsToToSeconds](https://errorprone.info/bugpattern/JavaDurationGetSecondsToToSeconds)
