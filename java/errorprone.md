@@ -8,6 +8,7 @@
 * [NullTernary](https://errorprone.info/bugpattern/NullTernary)
 * [StringCaseLocaleUsage](https://errorprone.info/bugpattern/StringCaseLocaleUsage)
 * [StringConcatToTextBlock](https://errorprone.info/bugpattern/StringConcatToTextBlock)
+* [StringSplitter](https://errorprone.info/bugpattern/StringSplitter)
 * [UnnecessaryLambda](https://errorprone.info/bugpattern/UnnecessaryLambda)
 * [UnnecessaryParentheses](https://errorprone.info/bugpattern/UnnecessaryParentheses)
 * [VariableNameSameAsType](https://errorprone.info/bugpattern/VariableNameSameAsType)
