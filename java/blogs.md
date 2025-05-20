@@ -130,6 +130,9 @@
 * JAVA 8 FLATMAP EXAMPLE
   * http://www.adam-bien.com/roller/abien/entry/java_8_flatmap_example
 
+## String
+* [Java Puzzler: Splitting Hairs](https://konigsberg.blogspot.com/2009/11/java-puzzler-splitting-hairs.html)
+
 ## Time
 * [How Not to Measure Elapsed Time](https://develotters.com/posts/how-not-to-measure-elapsed-time/)
 
