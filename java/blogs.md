@@ -133,6 +133,7 @@
 ## String
 * [Java Puzzler: Splitting Hairs](https://konigsberg.blogspot.com/2009/11/java-puzzler-splitting-hairs.html)
 * [Answer to: Java Puzzler: Splitting Hairs](https://konigsberg.blogspot.com/2009/11/answer-to-java-puzzler-splitting-hairs.html)
+* [Final Thoughts: Java Puzzler: Splitting Hairs](https://konigsberg.blogspot.com/2009/11/final-thoughts-java-puzzler-splitting.html)
 
 ## Time
 * [How Not to Measure Elapsed Time](https://develotters.com/posts/how-not-to-measure-elapsed-time/)
