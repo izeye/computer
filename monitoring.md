@@ -7,8 +7,9 @@
 
 ### Latency Tip Of The Day
 * [The #LatencyTipOfTheDay blog](https://latencytipoftheday.blogspot.com/2014/06/this-blog-is-meant-to-capture-short.html)
-* [#LatencyTipOfTheDay: Average (def): a random number that falls somewhere between the maximum and 1/2 the median. Most often used to ignore reality.](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-average-random.html)
 * [#LatencyTipOfTheDay: You can't average percentiles. Period.](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-you-cant-average.html)
+* [#LatencyTipOfTheDay: Average (def): a random number that falls somewhere between the maximum and 1/2 the median. Most often used to ignore reality.](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-average-random.html)
+* [#LatencyTipOfTheDay : Measure what you need to monitor. Don't just monitor what you happen to be able to easily measure.](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-measure-what-you.html)
 
 ### Aliaksandr Valialkin
 * Improving histogram usability for Prometheus and Grafana
