@@ -11,6 +11,7 @@
 * [#LatencyTipOfTheDay: Average (def): a random number that falls somewhere between the maximum and 1/2 the median. Most often used to ignore reality.](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-average-random.html)
 * [#LatencyTipOfTheDay : Measure what you need to monitor. Don't just monitor what you happen to be able to easily measure.](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-measure-what-you.html)
 * [#LatencyTipOfTheDay: If you are not measuring and/or plotting Max, what are you hiding (from)?](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-if-you-are-not.html)
+* [#LatencyTipOfTheDay: Q: What's wrong with this picture? A: Everything!](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-q-whats-wrong-with_21.html)
 
 ### Aliaksandr Valialkin
 * Improving histogram usability for Prometheus and Grafana
