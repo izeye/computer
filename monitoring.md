@@ -13,6 +13,7 @@
 * [#LatencyTipOfTheDay: If you are not measuring and/or plotting Max, what are you hiding (from)?](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-if-you-are-not.html)
 * [#LatencyTipOfTheDay: Q: What's wrong with this picture? A: Everything!](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-q-whats-wrong-with_21.html)
 * [#LatencyTipOfTheDay: MOST page loads will experience the 99%'lie server response](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-most-page-loads.html)
+* [#LatencyTipOfTheDay: Median Server Response Time: The number that 99.9999999999% of page views can be worse than.](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-median-server.html)
 
 ### Aliaksandr Valialkin
 * Improving histogram usability for Prometheus and Grafana
