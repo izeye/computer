@@ -42,6 +42,9 @@
 ## Spring I/O 2024
 * [Micrometer Mastery: Unleash Advanced Observability in your JVM Apps by Tommy Ludwig & Jonatan Ivanov](https://www.youtube.com/watch?v=Qyku6cR6ADY)
 
+## Spring I/O 2025
+* [Spring I/O 2025 Keynote](https://www.youtube.com/watch?v=oUK1Np4OvnM)
+
 ## InfoQ
 * [What's New in Spring Boot 2.0](https://www.infoq.com/presentations/spring-boot-2)
 
