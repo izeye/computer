@@ -7,6 +7,7 @@
 * [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html)
 * [BlueGreenDeployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 * [CannotMeasureProductivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
+* [Command Query Separation](https://www.martinfowler.com/bliki/CommandQuerySeparation.html)
 * [SelfTestingCode](https://martinfowler.com/bliki/SelfTestingCode.html)
 * [Stepping Back from Speaking](https://martinfowler.com/articles/202106-reducing-speaking.html)
 * [TechnicalDebt](https://martinfowler.com/bliki/TechnicalDebt.html)
