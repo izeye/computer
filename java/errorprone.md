@@ -1,5 +1,6 @@
 # Error Prone
 ## Bug patterns
+* [AttemptedNegativeZero](https://errorprone.info/bugpattern/AttemptedNegativeZero)
 * [BadImport](https://errorprone.info/bugpattern/BadImport)
 * [ClassCanBeStatic](https://errorprone.info/bugpattern/ClassCanBeStatic)
 * [DefaultCharset](https://errorprone.info/bugpattern/DefaultCharset)
