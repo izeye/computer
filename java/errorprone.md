@@ -2,6 +2,7 @@
 ## Bug patterns
 * [AttemptedNegativeZero](https://errorprone.info/bugpattern/AttemptedNegativeZero)
 * [BadImport](https://errorprone.info/bugpattern/BadImport)
+* [CatchAndPrintStackTrace](https://errorprone.info/bugpattern/CatchAndPrintStackTrace)
 * [ClassCanBeStatic](https://errorprone.info/bugpattern/ClassCanBeStatic)
 * [DefaultCharset](https://errorprone.info/bugpattern/DefaultCharset)
 * [InlineFormatString](https://errorprone.info/bugpattern/InlineFormatString)
