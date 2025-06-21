@@ -108,6 +108,7 @@
 ## Performance
 * [Micro optimizations in Java. String.equals()](https://medium.com/javarevisited/micro-optimizations-in-java-string-equals-22be19fd8416)
 * [Micro optimizations in Java. String.equalsIgnoreCase()](https://medium.com/javarevisited/micro-optimizations-in-java-string-equalsignorecase-ea25dfb03f95)
+* [Micro optimizations in Java. String.replaceAll](https://medium.com/javarevisited/micro-optimizations-in-java-string-replaceall-c6d0edf2ef6)
 
 ## Queue
 * [LinkedBlockingQueue vs ConcurrentLinkedQueue](https://www.baeldung.com/java-queue-linkedblocking-concurrentlinked)
