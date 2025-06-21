@@ -20,6 +20,8 @@
 * https://github.com/spring-projects/spring-boot/blob/master/README.adoc
 
 ## Wiki
+* [Supported Versions](https://github.com/spring-projects/spring-boot/wiki/Supported-Versions)
+
 ### Development Process
 * [Merging Pull Requests](https://github.com/spring-projects/spring-boot/wiki/Merging-Pull-Requests)
 * [GitHub Actions](https://github.com/spring-projects/spring-boot/wiki/GitHub-Actions)
