@@ -6,6 +6,7 @@
 * [ClassCanBeStatic](https://errorprone.info/bugpattern/ClassCanBeStatic)
 * [CollectionUndefinedEquality](https://errorprone.info/bugpattern/CollectionUndefinedEquality)
 * [DefaultCharset](https://errorprone.info/bugpattern/DefaultCharset)
+* [DoNotCall](https://errorprone.info/bugpattern/DoNotCall)
 * [DoNotCallSuggester](https://errorprone.info/bugpattern/DoNotCallSuggester)
 * [InlineFormatString](https://errorprone.info/bugpattern/InlineFormatString)
 * [JavaDurationGetSecondsToToSeconds](https://errorprone.info/bugpattern/JavaDurationGetSecondsToToSeconds)
