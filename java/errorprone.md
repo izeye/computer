@@ -4,6 +4,7 @@
 * [BadImport](https://errorprone.info/bugpattern/BadImport)
 * [CatchAndPrintStackTrace](https://errorprone.info/bugpattern/CatchAndPrintStackTrace)
 * [ClassCanBeStatic](https://errorprone.info/bugpattern/ClassCanBeStatic)
+* [CollectionUndefinedEquality](https://errorprone.info/bugpattern/CollectionUndefinedEquality)
 * [DefaultCharset](https://errorprone.info/bugpattern/DefaultCharset)
 * [InlineFormatString](https://errorprone.info/bugpattern/InlineFormatString)
 * [JavaDurationGetSecondsToToSeconds](https://errorprone.info/bugpattern/JavaDurationGetSecondsToToSeconds)
