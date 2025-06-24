@@ -13,6 +13,7 @@
 * [InlineFormatString](https://errorprone.info/bugpattern/InlineFormatString)
 * [JavaDurationGetSecondsToToSeconds](https://errorprone.info/bugpattern/JavaDurationGetSecondsToToSeconds)
 * [NullTernary](https://errorprone.info/bugpattern/NullTernary)
+* [OperatorPrecedence](https://errorprone.info/bugpattern/OperatorPrecedence)
 * [StringCaseLocaleUsage](https://errorprone.info/bugpattern/StringCaseLocaleUsage)
 * [StringConcatToTextBlock](https://errorprone.info/bugpattern/StringConcatToTextBlock)
 * [StringSplitter](https://errorprone.info/bugpattern/StringSplitter)
