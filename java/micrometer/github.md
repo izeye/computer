@@ -86,3 +86,4 @@ io.micrometer.graphite.GraphiteMeterRegistry
   * https://github.com/micrometer-metrics/micrometer/wiki/Releasing-Micrometer
 * Migration guides
   * [1.13 Migration Guide](https://github.com/micrometer-metrics/micrometer/wiki/1.13-Migration-Guide)
+* [Performance: criticality of code paths](https://github.com/micrometer-metrics/micrometer/wiki/Performance:-criticality-of-code-paths)
