@@ -10,6 +10,7 @@
 * [DoNotCallSuggester](https://errorprone.info/bugpattern/DoNotCallSuggester)
 * [EnumOrdinal](https://errorprone.info/bugpattern/EnumOrdinal)
 * [FallThrough](https://errorprone.info/bugpattern/FallThrough)
+* [Finally](https://errorprone.info/bugpattern/Finally)
 * [InlineFormatString](https://errorprone.info/bugpattern/InlineFormatString)
 * [JavaDurationGetSecondsToToSeconds](https://errorprone.info/bugpattern/JavaDurationGetSecondsToToSeconds)
 * [NullTernary](https://errorprone.info/bugpattern/NullTernary)
