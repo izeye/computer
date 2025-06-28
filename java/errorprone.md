@@ -14,6 +14,7 @@
 * [InlineFormatString](https://errorprone.info/bugpattern/InlineFormatString)
 * [JavaDurationGetSecondsToToSeconds](https://errorprone.info/bugpattern/JavaDurationGetSecondsToToSeconds)
 * [ModifyCollectionInEnhancedForLoop](https://errorprone.info/bugpattern/ModifyCollectionInEnhancedForLoop)
+* [NarrowCalculation](https://errorprone.info/bugpattern/NarrowCalculation)
 * [NullTernary](https://errorprone.info/bugpattern/NullTernary)
 * [OperatorPrecedence](https://errorprone.info/bugpattern/OperatorPrecedence)
 * [StringCaseLocaleUsage](https://errorprone.info/bugpattern/StringCaseLocaleUsage)
