@@ -25,4 +25,5 @@
 * [nginxdemos/hello](https://hub.docker.com/r/nginxdemos/hello/)
 
 ## Blogs
+* [Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/)
 * [How to Expose a Docker Port – Tutorial & Examples](https://spacelift.io/blog/docker-expose-port)
