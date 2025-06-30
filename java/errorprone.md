@@ -22,6 +22,7 @@
 * [StringSplitter](https://errorprone.info/bugpattern/StringSplitter)
 * [UnnecessaryLambda](https://errorprone.info/bugpattern/UnnecessaryLambda)
 * [UnnecessaryParentheses](https://errorprone.info/bugpattern/UnnecessaryParentheses)
+* [URLEqualsHashCode](https://errorprone.info/bugpattern/URLEqualsHashCode)
 * [VariableNameSameAsType](https://errorprone.info/bugpattern/VariableNameSameAsType)
 
 ## YouTube
