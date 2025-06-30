@@ -11,6 +11,12 @@
 * What is a Container
   * https://www.docker.com/what-container
 
+## Manuals
+### Open source
+#### Docker Build
+* Building
+  * [Multi-stage](https://docs.docker.com/build/building/multi-stage/)
+
 ## Presentations
 * [2017 swampUP Sessions | Distroless Docker: Containerizing Apps, not VMs - Matthew Moore](https://www.youtube.com/watch?v=lviLZFciDv4)
 * [Ray Tsang - Docker Tips and Tricks](https://www.youtube.com/watch?v=pnOLWFBpb2A)
