@@ -20,6 +20,7 @@
 * [StringCaseLocaleUsage](https://errorprone.info/bugpattern/StringCaseLocaleUsage)
 * [StringConcatToTextBlock](https://errorprone.info/bugpattern/StringConcatToTextBlock)
 * [StringSplitter](https://errorprone.info/bugpattern/StringSplitter)
+* [UnnecessaryAsync](https://errorprone.info/bugpattern/UnnecessaryAsync)
 * [UnnecessaryLambda](https://errorprone.info/bugpattern/UnnecessaryLambda)
 * [UnnecessaryParentheses](https://errorprone.info/bugpattern/UnnecessaryParentheses)
 * [URLEqualsHashCode](https://errorprone.info/bugpattern/URLEqualsHashCode)
