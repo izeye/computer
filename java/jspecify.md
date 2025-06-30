@@ -5,6 +5,7 @@
 ## [Site](https://jspecify.dev/)
 ### Docs
 * [Using JSpecify Annotations](https://jspecify.dev/docs/using/)
+* [Applying JSpecify Nullness Annotations](https://jspecify.dev/docs/applying/)
 
 ### Blog
 * [Release 1.0.0](https://jspecify.dev/blog/release-1.0.0/)
