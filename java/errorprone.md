@@ -14,6 +14,7 @@
 * [Finally](https://errorprone.info/bugpattern/Finally)
 * [InlineFormatString](https://errorprone.info/bugpattern/InlineFormatString)
 * [JavaDurationGetSecondsToToSeconds](https://errorprone.info/bugpattern/JavaDurationGetSecondsToToSeconds)
+* [MixedMutabilityReturnType](https://errorprone.info/bugpattern/MixedMutabilityReturnType)
 * [ModifyCollectionInEnhancedForLoop](https://errorprone.info/bugpattern/ModifyCollectionInEnhancedForLoop)
 * [NarrowCalculation](https://errorprone.info/bugpattern/NarrowCalculation)
 * [NullTernary](https://errorprone.info/bugpattern/NullTernary)
