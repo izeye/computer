@@ -1,5 +1,6 @@
 # Error Prone
 ## Bug patterns
+* [ArrayAsKeyOfSetOrMap](https://errorprone.info/bugpattern/ArrayAsKeyOfSetOrMap)
 * [AttemptedNegativeZero](https://errorprone.info/bugpattern/AttemptedNegativeZero)
 * [BadImport](https://errorprone.info/bugpattern/BadImport)
 * [CatchAndPrintStackTrace](https://errorprone.info/bugpattern/CatchAndPrintStackTrace)
