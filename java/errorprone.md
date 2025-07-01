@@ -16,6 +16,7 @@
 * [JavaDurationGetSecondsToToSeconds](https://errorprone.info/bugpattern/JavaDurationGetSecondsToToSeconds)
 * [MixedMutabilityReturnType](https://errorprone.info/bugpattern/MixedMutabilityReturnType)
 * [ModifyCollectionInEnhancedForLoop](https://errorprone.info/bugpattern/ModifyCollectionInEnhancedForLoop)
+* [MutablePublicArray](https://errorprone.info/bugpattern/MutablePublicArray)
 * [NarrowCalculation](https://errorprone.info/bugpattern/NarrowCalculation)
 * [NullTernary](https://errorprone.info/bugpattern/NullTernary)
 * [OperatorPrecedence](https://errorprone.info/bugpattern/OperatorPrecedence)
