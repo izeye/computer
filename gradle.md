@@ -11,6 +11,11 @@
 #### Beyond the Basics
 5. [Writing Build Scripts](https://docs.gradle.org/current/userguide/writing_build_scripts.html)
 
+### Platforms
+#### JVM Builds
+* Java Toolchains
+  * [Toolchains for JVM projects](https://docs.gradle.org/current/userguide/toolchains.html)
+
 ## Blogs
 ### Gradle Blog
 * [Feature Spotlight: Gradle’s Support for Maven POM Profiles](https://blog.gradle.org/maven-pom-profiles)
