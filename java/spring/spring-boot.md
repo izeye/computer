@@ -18,6 +18,7 @@
 * [Packaging Spring Boot Applications](https://docs.spring.io/spring-boot/reference/packaging/index.html)
   * [Container Images](https://docs.spring.io/spring-boot/reference/packaging/container-images/index.html)
     * [Efficient Container Images](https://docs.spring.io/spring-boot/reference/packaging/container-images/efficient-images.html)
+    * [Dockerfiles](https://docs.spring.io/spring-boot/reference/packaging/container-images/dockerfiles.html)
 
 ## GitHub
 * https://github.com/spring-projects/spring-boot/blob/master/README.adoc
