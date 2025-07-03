@@ -15,6 +15,9 @@
     * [MVC Security](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#web.security.spring-mvc)
     * [WebFlux Security](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#web.security.spring-webflux)
 * [GraalVM Native Image Support](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#native-image)
+* [Packaging Spring Boot Applications](https://docs.spring.io/spring-boot/reference/packaging/index.html)
+  * [Container Images](https://docs.spring.io/spring-boot/reference/packaging/container-images/index.html)
+    * [Efficient Container Images](https://docs.spring.io/spring-boot/reference/packaging/container-images/efficient-images.html)
 
 ## GitHub
 * https://github.com/spring-projects/spring-boot/blob/master/README.adoc
