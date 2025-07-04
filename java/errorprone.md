@@ -26,6 +26,7 @@
 * [UnnecessaryAsync](https://errorprone.info/bugpattern/UnnecessaryAsync)
 * [UnnecessaryLambda](https://errorprone.info/bugpattern/UnnecessaryLambda)
 * [UnnecessaryParentheses](https://errorprone.info/bugpattern/UnnecessaryParentheses)
+* [UnusedMethod](https://errorprone.info/bugpattern/UnusedMethod)
 * [URLEqualsHashCode](https://errorprone.info/bugpattern/URLEqualsHashCode)
 * [VariableNameSameAsType](https://errorprone.info/bugpattern/VariableNameSameAsType)
 
