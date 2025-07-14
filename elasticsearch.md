@@ -140,4 +140,5 @@
 * [Elasticsearch tips: inserting vs. updating your index](https://blog.codecentric.de/en/2014/12/elasticsearch-usage-tipps-transform-update-heavy-index-heavy-indexing/)
 * [How to resolve unassigned shards in Elasticsearch](https://www.datadoghq.com/blog/elasticsearch-unassigned-shards/)
 * [Lucene's Handling of Deleted Documents](https://www.elastic.co/blog/lucenes-handling-of-deleted-documents)
+* [OpenSearch vs. Elasticsearch: Which is Better?](https://www.chaossearch.io/blog/opensearch-vs-elasticsearch-comparison)
 * [Support in the Wild: My Biggest Elasticsearch Problem at Scale](https://www.elastic.co/blog/support-in-the-wild-my-biggest-elasticsearch-problem-at-scale)
