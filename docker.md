@@ -20,6 +20,10 @@
   * Optimize cache usage in builds
     * [Use cache mounts](https://docs.docker.com/build/cache/optimize/#use-cache-mounts)
 
+### PRODUCTS
+#### Docker Scout
+* [Install](https://docs.docker.com/scout/install/)
+
 ## Reference
 ### Dockerfile reference
 * [RUN](https://docs.docker.com/reference/dockerfile/#run)
