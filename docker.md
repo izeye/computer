@@ -43,4 +43,5 @@
 
 ## Blogs
 * [Docker Best Practices: Choosing Between RUN, CMD, and ENTRYPOINT](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/)
+* [Finding the Base Image of a Docker Image](https://www.baeldung.com/ops/docker-find-base-image)
 * [How to Expose a Docker Port – Tutorial & Examples](https://spacelift.io/blog/docker-expose-port)
