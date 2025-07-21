@@ -11,6 +11,10 @@
 #### Beyond the Basics
 5. [Writing Build Scripts](https://docs.gradle.org/current/userguide/writing_build_scripts.html)
 
+### Dependency Management
+* Managing Dependencies
+  * [Caching Dependencies](https://docs.gradle.org/current/userguide/dependency_caching.html)
+
 ### Platforms
 #### JVM Builds
 * Java Toolchains
