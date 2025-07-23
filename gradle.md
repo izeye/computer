@@ -7,6 +7,9 @@
 * [The Java Library Plugin](https://docs.gradle.org/current/userguide/java_library_plugin.html)
 * [The Java Plugin](https://docs.gradle.org/current/userguide/java_plugin.html)
 
+### Running Gradle Builds
+* [Gradle-managed Directories](https://docs.gradle.org/current/userguide/directory_layout.html)
+
 ### Authoring Gradle Builds
 #### Beyond the Basics
 5. [Writing Build Scripts](https://docs.gradle.org/current/userguide/writing_build_scripts.html)
