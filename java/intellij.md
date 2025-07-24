@@ -7,6 +7,7 @@
 * CPU and allocation profiling
   * [Introduction to CPU and allocation profiling](https://www.jetbrains.com/help/idea/cpu-and-allocation-profiling-basic-concepts.html)
   * [Create and open snapshots](https://www.jetbrains.com/help/idea/create-a-profiling-report.html)
+  * [Read the profiler snapshot](https://www.jetbrains.com/help/idea/read-the-profiling-report.html)
 
 ## YouTube
 * [IntelliJ IDEA. Debugger Essentials](https://www.youtube.com/watch?v=59RC8gVPlvk)
