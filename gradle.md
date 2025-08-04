@@ -15,6 +15,8 @@
 5. [Writing Build Scripts](https://docs.gradle.org/current/userguide/writing_build_scripts.html)
 
 ### Dependency Management
+* Centralizing Dependencies
+  * [Creating Version Catalogs](https://docs.gradle.org/current/userguide/version_catalogs.html)
 * Managing Dependencies
   * [Caching Dependencies](https://docs.gradle.org/current/userguide/dependency_caching.html)
 
