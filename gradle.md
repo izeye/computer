@@ -48,6 +48,7 @@
 ## YouTube
 * [10 Best Gradle Plugins You Can't Live Without](https://www.youtube.com/watch?v=5UJ0igllPuU)
 * [Centralize Dependencies With Version Catalogs (Gradle best practice tip #20)](https://www.youtube.com/watch?v=WvtcCCCLfOc)
+* [Gradle Tutorial - Version Catalog](https://www.youtube.com/watch?v=dZmlSsRdctE)
 
 ## Develocity
 ### Feature Guides
