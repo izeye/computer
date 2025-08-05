@@ -9,6 +9,7 @@
   * [Create and open snapshots](https://www.jetbrains.com/help/idea/create-a-profiling-report.html)
   * [Read the profiler snapshot](https://www.jetbrains.com/help/idea/read-the-profiling-report.html)
   * [Compare profiler snapshots](https://www.jetbrains.com/help/idea/compare-profiler-snapshots.html)
+  * [Custom profiler configurations](https://www.jetbrains.com/help/idea/custom-profiler-configurations.html)
 
 ## YouTube
 * [IntelliJ IDEA. Debugger Essentials](https://www.youtube.com/watch?v=59RC8gVPlvk)
