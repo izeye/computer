@@ -18,6 +18,7 @@
 
 ### DFS
 * [Depth First Search (DFS) Explained: Algorithm, Examples, and Code](https://www.youtube.com/watch?v=PMMc4VsIacU)
+* [Depth-First Search Visualized and Explained](https://www.youtube.com/watch?v=5GcSvYDgiSo)
 
 ## Dynamic programming
 * [Edit Distance Between 2 Strings - The Levenshtein Distance ("Edit Distance" on LeetCode)](https://www.youtube.com/watch?v=MiqoA-yF-0M)
