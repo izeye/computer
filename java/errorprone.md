@@ -1,5 +1,6 @@
 # Error Prone
 ## Bug patterns
+* [AlmostJavadoc](https://errorprone.info/bugpattern/AlmostJavadoc)
 * [ArrayAsKeyOfSetOrMap](https://errorprone.info/bugpattern/ArrayAsKeyOfSetOrMap)
 * [AttemptedNegativeZero](https://errorprone.info/bugpattern/AttemptedNegativeZero)
 * [BadImport](https://errorprone.info/bugpattern/BadImport)
