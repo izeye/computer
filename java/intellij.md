@@ -17,3 +17,6 @@
 * [Debugger basics in IntelliJ IDEA (Mala Gupta)](https://www.youtube.com/watch?v=lAWnIP1S6UA)
 * [Advanced Debugger Features in IntelliJ IDEA (Mala Gupta)](https://www.youtube.com/watch?v=AOrnx-9zNBQ)
 * [Tips For Reading Code](https://www.youtube.com/watch?v=hjGVJHOLSjA)
+
+## Blogs
+* [Debug Without Breakpoints](https://flounder.dev/posts/debug-without-breakpoints/)
