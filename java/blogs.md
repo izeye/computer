@@ -87,6 +87,9 @@
 * Lambda Type References
   * http://benjiweber.co.uk/blog/2015/08/04/lambda-type-references/
 
+## Logging
+* [Improved Java Logging with Mapped Diagnostic Context (MDC)](https://www.baeldung.com/mdc-in-log4j-2-logback)
+
 ## Metaspace
 * Metaspace in Java 8
   * http://java-latte.blogspot.kr/2014/03/metaspace-in-java-8.html
