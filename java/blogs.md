@@ -90,6 +90,9 @@
 ## Logging
 * [Improved Java Logging with Mapped Diagnostic Context (MDC)](https://www.baeldung.com/mdc-in-log4j-2-logback)
 
+## Memory
+* [Memory Layout of Objects in Java](https://www.baeldung.com/java-memory-layout)
+
 ## Metaspace
 * Metaspace in Java 8
   * http://java-latte.blogspot.kr/2014/03/metaspace-in-java-8.html
