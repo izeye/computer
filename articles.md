@@ -9,6 +9,7 @@
 * [CannotMeasureProductivity](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
 * [Command Query Separation](https://www.martinfowler.com/bliki/CommandQuerySeparation.html)
 * [Lazy Initialization](https://www.martinfowler.com/bliki/LazyInitialization.html)
+* [LLMs bring new nature of abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html)
 * [Observable State](https://www.martinfowler.com/bliki/ObservableState.html)
 * [SelfTestingCode](https://martinfowler.com/bliki/SelfTestingCode.html)
 * [Stepping Back from Speaking](https://martinfowler.com/articles/202106-reducing-speaking.html)
