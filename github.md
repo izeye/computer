@@ -66,6 +66,9 @@
 ## Libraries
 * [GitHub API for Java](https://github-api.kohsuke.org/)
 
+## Tools
+* [Map of GitHub](https://anvaka.github.io/map-of-github/#2/0/0)
+
 ## etc.
 * [GitHub Pages](https://pages.github.com/)
 * [Renaming the default branch from `master`](https://github.com/github/renaming)
