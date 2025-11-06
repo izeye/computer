@@ -67,6 +67,7 @@
 * [GitHub API for Java](https://github-api.kohsuke.org/)
 
 ## Tools
+* [DeepWiki](https://deepwiki.org/)
 * [Gitingest](https://gitingest.com/)
 * [Map of GitHub](https://anvaka.github.io/map-of-github/#2/0/0)
 
