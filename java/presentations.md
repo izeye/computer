@@ -147,6 +147,11 @@
 * [AMA About the Java Language — Brian Goetz and Nicolai Parlog](https://www.youtube.com/watch?v=9si7gK94gLo)
 
 ## YouTube
+### Java 25
+* [How to Upgrade to Java 25 #RoadTo25](https://www.youtube.com/watch?v=9azNjz7s1Ck)
+* [What’s New in Java 25 in 2 Minutes... More or Less - Sip of Java](https://www.youtube.com/watch?v=lCNNA1erCfk)
+
+### Misc.
 * [[VDT18] Java 9/10/11 - What's new and why you should upgrade by Simone Bordet](https://www.youtube.com/watch?v=cUqcSFLnk_E)
 * [CompletableFuture: The Promises of Java](https://www.youtube.com/watch?v=9ueIL0SwEWI)
 * [From AdoptOpenJDK to Eclipse Adoptium toward an open Java ecosystem](https://www.youtube.com/watch?v=QfnEE5RLKH0)
@@ -155,4 +160,3 @@
 * [The secret life of Maven central by Joel Orlina](https://www.youtube.com/watch?v=m9zHea6w6gs)
 * [Thread Sanitizing for Java with Jean Christophe Beyler, Arthur Eubanks, and Man Cao](https://www.youtube.com/watch?v=T_SOhTv6LR8)
 * [Var with Style: Local Variable Type Inference in Java](https://www.youtube.com/watch?v=WWipb9qFRuo)
-* [What’s New in Java 25 in 2 Minutes... More or Less - Sip of Java](https://www.youtube.com/watch?v=lCNNA1erCfk)
