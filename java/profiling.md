@@ -7,4 +7,4 @@
 
 ## YouTube
 * [A Simple Approach to the Advanced JVM Profiling](https://www.youtube.com/watch?v=TDpbt4thECc)
-
+* [Part 1: Improving Performance with Async-profiler with Andrei Pangin.](https://www.youtube.com/watch?v=H6glyrKQlg8)
