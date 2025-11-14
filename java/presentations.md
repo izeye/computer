@@ -148,9 +148,10 @@
 
 ## YouTube
 ### Java 25
+* [Ahead-of-Time Computation in Java 25 #RoadTo25](https://www.youtube.com/watch?v=V_Pls6B4_yg)
+* [All New Java Language Features Since Java 21 #RoadTo25](https://www.youtube.com/watch?v=X0-TGhktFnE)
 * [How to Upgrade to Java 25 #RoadTo25](https://www.youtube.com/watch?v=9azNjz7s1Ck)
 * [What’s New in Java 25 in 2 Minutes... More or Less - Sip of Java](https://www.youtube.com/watch?v=lCNNA1erCfk)
-* [Ahead-of-Time Computation in Java 25 #RoadTo25](https://www.youtube.com/watch?v=V_Pls6B4_yg)
 
 ### Misc.
 * [[VDT18] Java 9/10/11 - What's new and why you should upgrade by Simone Bordet](https://www.youtube.com/watch?v=cUqcSFLnk_E)
