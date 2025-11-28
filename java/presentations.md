@@ -153,6 +153,7 @@
 * [How to Upgrade to Java 25 #RoadTo25](https://www.youtube.com/watch?v=9azNjz7s1Ck)
 * [What’s New in Java 25 in 2 Minutes... More or Less - Sip of Java](https://www.youtube.com/watch?v=lCNNA1erCfk)
 * [Java 21 ⮕ 25: Performance and Runtime Enhancements #RoadTo25](https://www.youtube.com/watch?v=renTMvh51iM)
+* [How to Handle Security Changes in Java 25 #RoadTo25](https://www.youtube.com/watch?v=xeOuEqorY8g)
 
 ### Misc.
 * [[VDT18] Java 9/10/11 - What's new and why you should upgrade by Simone Bordet](https://www.youtube.com/watch?v=cUqcSFLnk_E)
