@@ -55,6 +55,9 @@
 * Using sun.misc.Unsafe in Java 9
   * http://gregluck.com/blog/archives/2017/03/using-sun-misc-unsafe-in-java-9/
 
+## Java 21
+* [Java 21: Performance Improvements Revealed](https://minborgsjavapot.blogspot.com/2023/01/java-21-performance-improvements.html)
+
 ## javac
 * Optimizations performed by javac
   * https://briangordon.github.io/2014/01/javac-optimizations.html
