@@ -147,6 +147,9 @@
 * [AMA About the Java Language — Brian Goetz and Nicolai Parlog](https://www.youtube.com/watch?v=9si7gK94gLo)
 
 ## YouTube
+### Java 21
+* [Java 21 JVM & GC Improvements #RoadTo21](https://www.youtube.com/watch?v=LXWbyf8SUjI)
+
 ### Java 25
 * [Ahead-of-Time Computation in Java 25 #RoadTo25](https://www.youtube.com/watch?v=V_Pls6B4_yg)
 * [All New Java Language Features Since Java 21 #RoadTo25](https://www.youtube.com/watch?v=X0-TGhktFnE)
