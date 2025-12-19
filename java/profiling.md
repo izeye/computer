@@ -11,3 +11,4 @@
 * [Part 1: Improving Performance with Async-profiler with Andrei Pangin.](https://www.youtube.com/watch?v=H6glyrKQlg8)
 * [Part 2: Improving Performance with Async-profiler by Andrei Pangin.](https://www.youtube.com/watch?v=WnRngFMBe7w)
 * [Part 3: Improving Performance with Async-profiler by Andrei Pangin.](https://www.youtube.com/watch?v=bTDmpwhwy3E)
+* [Write your own Java Profiler in 240 lines of pure Java By Johannes Bechberger](https://www.youtube.com/watch?v=Mxcp2khJ4fw)
