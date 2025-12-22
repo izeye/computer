@@ -149,6 +149,7 @@
 ## YouTube
 ### Java 21
 * [Java 21 JVM & GC Improvements #RoadTo21](https://www.youtube.com/watch?v=LXWbyf8SUjI)
+* [Java 21 Tool Enhancements: Better Across the Board #RoadTo21](https://www.youtube.com/watch?v=nFJBVuaIsRg)
 
 ### Java 25
 * [Ahead-of-Time Computation in Java 25 #RoadTo25](https://www.youtube.com/watch?v=V_Pls6B4_yg)
