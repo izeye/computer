@@ -151,6 +151,7 @@
 #### Road to 21
 * [Java 21 JVM & GC Improvements #RoadTo21](https://www.youtube.com/watch?v=LXWbyf8SUjI)
 * [Java 21 Tool Enhancements: Better Across the Board #RoadTo21](https://www.youtube.com/watch?v=nFJBVuaIsRg)
+* [Java 21 API New Features #RoadTo21](https://www.youtube.com/watch?v=4mPd2eL0wYQ)
 
 ### Java 25
 #### Road to 25
