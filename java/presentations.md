@@ -148,17 +148,21 @@
 
 ## YouTube
 ### Java 21
+#### Road to 21
 * [Java 21 JVM & GC Improvements #RoadTo21](https://www.youtube.com/watch?v=LXWbyf8SUjI)
 * [Java 21 Tool Enhancements: Better Across the Board #RoadTo21](https://www.youtube.com/watch?v=nFJBVuaIsRg)
 
 ### Java 25
+#### Road to 25
+* [How to Upgrade to Java 25 #RoadTo25](https://www.youtube.com/watch?v=9azNjz7s1Ck)
 * [Ahead-of-Time Computation in Java 25 #RoadTo25](https://www.youtube.com/watch?v=V_Pls6B4_yg)
 * [All New Java Language Features Since Java 21 #RoadTo25](https://www.youtube.com/watch?v=X0-TGhktFnE)
-* [How to Upgrade to Java 25 #RoadTo25](https://www.youtube.com/watch?v=9azNjz7s1Ck)
-* [What’s New in Java 25 in 2 Minutes... More or Less - Sip of Java](https://www.youtube.com/watch?v=lCNNA1erCfk)
 * [Java 21 ⮕ 25: Performance and Runtime Enhancements #RoadTo25](https://www.youtube.com/watch?v=renTMvh51iM)
 * [How to Handle Security Changes in Java 25 #RoadTo25](https://www.youtube.com/watch?v=xeOuEqorY8g)
 * [All API Additions From Java 21 to 25 #RoadTo25](https://www.youtube.com/watch?v=VCaDlCZJydI)
+
+#### Misc.
+* [What’s New in Java 25 in 2 Minutes... More or Less - Sip of Java](https://www.youtube.com/watch?v=lCNNA1erCfk)
 
 ### Misc.
 * [[VDT18] Java 9/10/11 - What's new and why you should upgrade by Simone Bordet](https://www.youtube.com/watch?v=cUqcSFLnk_E)
