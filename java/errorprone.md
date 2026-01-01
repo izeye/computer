@@ -5,6 +5,7 @@
 * [AttemptedNegativeZero](https://errorprone.info/bugpattern/AttemptedNegativeZero)
 * [BadImport](https://errorprone.info/bugpattern/BadImport)
 * [CatchAndPrintStackTrace](https://errorprone.info/bugpattern/CatchAndPrintStackTrace)
+* [CheckReturnValue](https://errorprone.info/bugpattern/CheckReturnValue)
 * [ClassCanBeStatic](https://errorprone.info/bugpattern/ClassCanBeStatic)
 * [CollectionUndefinedEquality](https://errorprone.info/bugpattern/CollectionUndefinedEquality)
 * [DefaultCharset](https://errorprone.info/bugpattern/DefaultCharset)
