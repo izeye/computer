@@ -150,6 +150,7 @@
 ### Java 21
 #### Road to 21
 * [How to Upgrade to Java 21 #RoadTo21](https://www.youtube.com/watch?v=5jIkRqBuSBs)
+* [Java 21 new feature: Virtual Threads #RoadTo21](https://www.youtube.com/watch?v=5E0LU85EnTI)
 * [Java 21 JVM & GC Improvements #RoadTo21](https://www.youtube.com/watch?v=LXWbyf8SUjI)
 * [Java 21 Tool Enhancements: Better Across the Board #RoadTo21](https://www.youtube.com/watch?v=nFJBVuaIsRg)
 * [Java 21 API New Features #RoadTo21](https://www.youtube.com/watch?v=4mPd2eL0wYQ)
