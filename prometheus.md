@@ -73,6 +73,7 @@
 * [Translating between monitoring languages](https://www.robustperception.io/translating-between-monitoring-languages)
 * [Using group_left to calculate label proportions](https://www.robustperception.io/using-group_left-to-calculate-label-proportions)
 * [What range should I use with rate()?](https://www.robustperception.io/what-range-should-i-use-with-rate/)
+* [Which targets have the most samples?](https://www.robustperception.io/which-targets-have-the-most-samples/)
 * [Who wants seconds?](https://www.robustperception.io/who-wants-seconds)
 
 # Blogs
