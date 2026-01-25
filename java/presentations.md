@@ -155,6 +155,7 @@
 * [Java 21 Tool Enhancements: Better Across the Board #RoadTo21](https://www.youtube.com/watch?v=nFJBVuaIsRg)
 * [Java 21 API New Features #RoadTo21](https://www.youtube.com/watch?v=4mPd2eL0wYQ)
 * [Java 21 Security Updates #RoadTo21](https://www.youtube.com/watch?v=kSjdZZsHM04)
+* [Java 21 Pattern Matching Tutorial #RoadTo21](https://www.youtube.com/watch?v=QrwFrm1R8OY)
 
 ### Java 25
 #### Road to 25
