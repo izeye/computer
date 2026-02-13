@@ -5,6 +5,7 @@
 * [What is GitHub Copilot?](https://docs.github.com/en/copilot/get-started/what-is-github-copilot)
 * [Plans](https://docs.github.com/en/copilot/get-started/plans)
 * [Features](https://docs.github.com/en/copilot/get-started/features)
+* [Best practices](https://docs.github.com/en/copilot/get-started/best-practices)
 
 ## Tutorials
 * [Vibe coding](https://docs.github.com/en/copilot/tutorials/vibe-coding)
