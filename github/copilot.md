@@ -8,5 +8,9 @@
 * [Best practices](https://docs.github.com/en/copilot/get-started/best-practices)
 * [Achieve company goals](https://docs.github.com/en/copilot/get-started/achieve-company-goals)
 
+### Concepts
+#### Completions
+* [Code suggestions](https://docs.github.com/en/copilot/concepts/completions/code-suggestions)
+
 ## Tutorials
 * [Vibe coding](https://docs.github.com/en/copilot/tutorials/vibe-coding)
