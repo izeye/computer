@@ -11,6 +11,7 @@
 ### Concepts
 #### Completions
 * [Code suggestions](https://docs.github.com/en/copilot/concepts/completions/code-suggestions)
+* [Code referencing](https://docs.github.com/en/copilot/concepts/completions/code-referencing)
 
 ## Tutorials
 * [Vibe coding](https://docs.github.com/en/copilot/tutorials/vibe-coding)
