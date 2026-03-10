@@ -9,9 +9,10 @@
 * [Achieve company goals](https://docs.github.com/en/copilot/get-started/achieve-company-goals)
 
 ### Concepts
-#### Completions
-* [Code suggestions](https://docs.github.com/en/copilot/concepts/completions/code-suggestions)
-* [Code referencing](https://docs.github.com/en/copilot/concepts/completions/code-referencing)
+* Completions
+  * [Code suggestions](https://docs.github.com/en/copilot/concepts/completions/code-suggestions)
+  * [Code referencing](https://docs.github.com/en/copilot/concepts/completions/code-referencing)
+* [Chat](https://docs.github.com/en/copilot/concepts/chat)
 
 ## Tutorials
 * [Vibe coding](https://docs.github.com/en/copilot/tutorials/vibe-coding)
