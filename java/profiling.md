@@ -7,6 +7,7 @@
 * [Safepoints in HotSpot JVM](http://blog.ragozin.info/2012/10/safepoints-in-hotspot-jvm.html)
 * [Safepoints: Meaning, Side Effects and Overheads](https://psy-lob-saw.blogspot.com/2015/12/safepoints.html)
 * [Safety First: Safepoints](https://jpbempel.github.io/2013/03/04/safety-first-safepoints.html)
+* [Wait For It: Counted/Uncounted loops, Safepoints and OSR Compilation](https://psy-lob-saw.blogspot.com/2016/02/wait-for-it-counteduncounted-loops.html)
 * [What's Wrong With createDirectories() – Guide to CPU Profiling](https://flounder.dev/posts/get-started-with-profiling/)
 * [Why JVM modern profilers are still safepoint biased?](https://jpbempel.github.io/2022/06/22/debug-non-safepoints.html)
 * [Writing a Profiler in 240 Lines of Pure Java](https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/)
