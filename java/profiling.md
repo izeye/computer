@@ -4,6 +4,7 @@
 * [Get Started With Allocation Profiling](https://flounder.dev/posts/allocation-profiling/)
 * [Java Safepoint and Async Profiling](https://seethawenner.medium.com/java-safepoint-and-async-profiling-cdce0818cd29)
 * [Monitoring Java Applications with Flight Recorder](https://www.baeldung.com/java-flight-recorder-monitoring)
+* [Points on Safepoints](https://javaagile.blogspot.com/2012/11/points-on-safepoints.html)
 * [Safepoints in HotSpot JVM](http://blog.ragozin.info/2012/10/safepoints-in-hotspot-jvm.html)
 * [Safepoints: Meaning, Side Effects and Overheads](https://psy-lob-saw.blogspot.com/2015/12/safepoints.html)
 * [Safety First: Safepoints](https://jpbempel.github.io/2013/03/04/safety-first-safepoints.html)
