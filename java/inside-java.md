@@ -22,6 +22,7 @@
 * [Java 24 Stops Pinning Virtual Threads (Almost) - Inside Java Newscast #80](https://www.youtube.com/watch?v=QDk1c0ifoNo)
 * [Carrier Classes; Beyond Records - Inside Java Newscast #105](https://www.youtube.com/watch?v=cpGceyn7DBE)
 * [LazyConstants in JDK 26 - Inside Java Newscast #106](https://www.youtube.com/watch?v=BZlXZyXA4jY)
+* [Towards Better Checked Exceptions - Inside Java Newscast #107](https://www.youtube.com/watch?v=99s7ozvJGLk)
 
 ### Misc.
 * [Java Champion Program](https://dev.java/community/jcs/)
