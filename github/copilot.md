@@ -13,6 +13,9 @@
   * [Code suggestions](https://docs.github.com/en/copilot/concepts/completions/code-suggestions)
   * [Code referencing](https://docs.github.com/en/copilot/concepts/completions/code-referencing)
 * [Chat](https://docs.github.com/en/copilot/concepts/chat)
+* Agents
+  * Coding agent
+    * [About coding agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent/about-coding-agent)
 
 ## Tutorials
 * [Vibe coding](https://docs.github.com/en/copilot/tutorials/vibe-coding)
