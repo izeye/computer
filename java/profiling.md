@@ -2,6 +2,7 @@
 ## Blogs
 * [A Guide to Java Profilers](https://www.baeldung.com/java-profilers)
 * [Get Started With Allocation Profiling](https://flounder.dev/posts/allocation-profiling/)
+* [How Inlined Code Makes For Confusing Profiles](https://psy-lob-saw.blogspot.com/2018/07/how-inlined-code-confusing-profiles.html)
 * [Java Safepoint and Async Profiling](https://seethawenner.medium.com/java-safepoint-and-async-profiling-cdce0818cd29)
 * [Monitoring Java Applications with Flight Recorder](https://www.baeldung.com/java-flight-recorder-monitoring)
 * [Points on Safepoints](https://javaagile.blogspot.com/2012/11/points-on-safepoints.html)
