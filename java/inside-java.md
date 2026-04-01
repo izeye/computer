@@ -24,6 +24,9 @@
 * [LazyConstants in JDK 26 - Inside Java Newscast #106](https://www.youtube.com/watch?v=BZlXZyXA4jY)
 * [Towards Better Checked Exceptions - Inside Java Newscast #107](https://www.youtube.com/watch?v=99s7ozvJGLk)
 
+### Stack Walker
+* [Java Serialization: Spooky Action at a Distance](https://www.youtube.com/watch?v=2sxK-z84Oi4)
+
 ### Misc.
 * [Java Champion Program](https://dev.java/community/jcs/)
 * [Java Language Futures - Mid 2020 Edition](https://inside.java/2020/09/17/devlive-java-lang-futures/)
