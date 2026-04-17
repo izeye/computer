@@ -8,3 +8,4 @@
 
 ## YouTube
 * [Observability: the present and future, with Charity Majors](https://www.youtube.com/watch?v=SvEjS4-2WJQ)
+* [Spring Boot 4 OpenTelemetry: From Zero to Full Observability in Minutes](https://www.youtube.com/watch?v=6_Y41z7OIv8)
