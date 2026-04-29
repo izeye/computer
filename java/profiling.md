@@ -5,6 +5,7 @@
 * [How Inlined Code Makes For Confusing Profiles](https://psy-lob-saw.blogspot.com/2018/07/how-inlined-code-confusing-profiles.html)
 * [Java Safepoint and Async Profiling](https://seethawenner.medium.com/java-safepoint-and-async-profiling-cdce0818cd29)
 * [Monitoring Java Applications with Flight Recorder](https://www.baeldung.com/java-flight-recorder-monitoring)
+* [More thoughts on SIGPROF, JVMTI and stack traces](https://jeremymanson.blogspot.com/2007/06/more-thoughts-on-sigprof-jvmti-and.html)
 * [Points on Safepoints](https://javaagile.blogspot.com/2012/11/points-on-safepoints.html)
 * [Profiling with JVMTI/JVMPI, SIGPROF and AsyncGetCallTrace](https://jeremymanson.blogspot.com/2007/05/profiling-with-jvmtijvmpi-sigprof-and.html)
 * [Safepoints in HotSpot JVM](http://blog.ragozin.info/2012/10/safepoints-in-hotspot-jvm.html)
