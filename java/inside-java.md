@@ -16,6 +16,7 @@
 * [Episode 22 “JEP 408 - Simple Web Server”](https://inside.java/2022/03/04/podcast-022/)
 * [Episode 23 “Java 18 is Here!”](https://inside.java/2022/03/22/podcast-023/)
 * [Scripting Java, Collections & Generics, BeJUG - Inside Java Podcast 44](https://www.youtube.com/watch?v=P4f0FHizUCg)
+* [HTTP/3 in Java 26 - Inside Java Podcast 48](https://www.youtube.com/watch?v=Y8ZWHjNP6K4)
 
 ### Newscast
 * [Project Loom Brings Structured Concurrency - Inside Java Newscast #17](https://www.youtube.com/watch?v=2J2tJm_iwk0)
