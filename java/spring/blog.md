@@ -1,4 +1,6 @@
 # Spring Blog
+* 2025-11-18
+  * [OpenTelemetry with Spring Boot](https://spring.io/blog/2025/11/18/opentelemetry-with-spring-boot)
 * 2025-01-06
   * [Hello DCO, Goodbye CLA: Simplifying Contributions to Spring](https://spring.io/blog/2025/01/06/hello-dco-goodbye-cla-simplifying-contributions-to-spring)
 * 2023-09-22
