@@ -18,6 +18,7 @@
 * [What's Wrong With createDirectories() – Guide to CPU Profiling](https://flounder.dev/posts/get-started-with-profiling/)
 * [Where is my safepoint?](https://psy-lob-saw.blogspot.com/2014/03/where-is-my-safepoint.html)
 * [Why JVM modern profilers are still safepoint biased?](https://jpbempel.github.io/2022/06/22/debug-non-safepoints.html)
+* [Why Many Profilers have Serious Problems (More on Profiling with Signals)](https://jeremymanson.blogspot.com/2010/07/why-many-profilers-have-serious.html)
 * [Why (Most) Sampling Java Profilers Are Fucking Terrible](https://psy-lob-saw.blogspot.com/2016/02/why-most-sampling-java-profilers-are.html)
 * [Writing a Profiler in 240 Lines of Pure Java](https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/)
 
