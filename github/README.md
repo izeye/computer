@@ -2,6 +2,7 @@
 ## Blog
 * [Behind GitHub’s new authentication token formats](https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/)
 * [Bypassing Jekyll on GitHub Pages](https://github.blog/news-insights/bypassing-jekyll-on-github-pages/)
+* [GitHub Actions: UI Improvements](https://github.blog/changelog/2024-04-30-github-actions-ui-improvements/)
 * [GitHub Copilot CLI is now in public preview](https://github.blog/changelog/2025-09-25-github-copilot-cli-is-now-in-public-preview/)
 * [GitHub is now free for teams](https://github.blog/2020-04-14-github-is-now-free-for-teams/)
 * [Introducing draft pull requests](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
