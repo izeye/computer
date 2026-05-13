@@ -56,6 +56,10 @@
 ### Feature Guides
 * [Develocity Failure Classification Guide](https://docs.gradle.com/develocity/failure-classification/)
 
+## Gradle Reference
+### Runtime and Configuration
+* [Continuous Builds](https://docs.gradle.org/current/userguide/continuous_builds.html)
+
 ## Misc.
 * [A Bag of Properties](https://www.liutikas.net/2022/04/25/A-Bag-Of-Properties.html)
 * [gradle-git-publish](https://github.com/ajoberstar/gradle-git-publish)
